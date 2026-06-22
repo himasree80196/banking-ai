@@ -1,0 +1,2001 @@
+age,gender,employment_status,occupation,monthly_income,existing_emi,loan_amount,loan_tenure,credit_score,marital_status,dependents,education,residential_status,eligible
+59,Male,Self-Employed,Teacher,3112.68,548.31,117850.01,240,768,Divorced,4,Bachelor,Rented,1
+49,Female,Employed,Engineer,3536.81,505.58,76035.58,36,674,Single,2,Master,Parental,1
+35,Male,Employed,Engineer,8150.07,796.36,20661.71,24,579,Widowed,4,Diploma,Mortgaged,1
+63,Male,Employed,Teacher,4732.1,1024.47,177962.48,12,694,Single,4,Bachelor,Rented,0
+28,Female,Employed,Sales,5741.34,128.6,43679.51,24,642,Single,1,High School,Parental,1
+41,Female,Self-Employed,Teacher,4044.29,1109.48,150973.95,36,770,Married,3,High School,Rented,0
+59,Male,Unemployed,Other,500.0,3.1,60034.58,120,748,Married,4,Bachelor,Rented,0
+39,Male,Employed,Farmer,6034.15,1742.09,163516.44,24,637,Married,1,Bachelor,Parental,1
+43,Male,Employed,Teacher,5471.87,758.98,28087.38,60,742,Married,2,Diploma,Rented,1
+31,Male,Self-Employed,Other,3010.93,372.76,152433.96,24,701,Married,2,Bachelor,Rented,0
+31,Female,Employed,Manager,5649.79,434.66,24133.18,120,789,Married,1,Master,Owned,1
+44,Male,Self-Employed,Clerk,3228.53,9.75,92148.58,180,738,Married,4,Diploma,Owned,1
+56,Female,Employed,Accountant,3343.26,275.61,148130.85,180,723,Single,4,High School,Rented,1
+60,Male,Employed,Accountant,3191.5,104.74,38777.58,180,786,Single,3,Bachelor,Parental,1
+44,Male,Employed,Doctor,5405.09,1069.92,60704.67,240,681,Married,3,High School,Rented,1
+23,Male,Employed,Sales,4425.9,423.66,173629.56,12,618,Single,2,Other,Parental,0
+42,Male,Self-Employed,Farmer,6252.56,1439.05,177598.27,12,696,Married,3,Bachelor,Parental,1
+22,Male,Employed,Clerk,4935.56,306.37,13762.41,24,651,Married,1,Bachelor,Owned,1
+44,Male,Unemployed,Clerk,500.0,135.04,37777.66,84,728,Single,2,Bachelor,Rented,0
+64,Female,Student,Manager,1236.73,194.04,27907.03,12,684,Married,4,Bachelor,Rented,0
+50,Male,Employed,Teacher,3058.6,105.07,40040.15,60,712,Single,2,High School,Rented,1
+58,Female,Unemployed,Sales,500.0,60.13,194186.61,60,583,Married,0,PhD,Owned,0
+22,Male,Employed,Engineer,5478.75,339.84,112572.77,48,720,Married,2,Bachelor,Parental,1
+41,Female,Employed,Clerk,5293.51,317.11,96281.92,60,577,Married,3,Diploma,Mortgaged,1
+53,Female,Self-Employed,Other,5954.2,904.51,196971.14,12,756,Single,1,Bachelor,Rented,1
+32,Female,Employed,Engineer,8896.28,1793.2,113606.45,84,757,Married,4,High School,Rented,1
+42,Female,Self-Employed,Doctor,5007.1,1369.37,133918.0,120,707,Single,4,High School,Owned,1
+64,Male,Employed,Teacher,6768.19,1019.62,69890.26,180,704,Married,3,Bachelor,Rented,1
+45,Female,Self-Employed,Teacher,7815.19,2264.47,79512.4,24,662,Married,3,Bachelor,Parental,1
+69,Male,Student,Farmer,500.0,141.25,120909.83,120,631,Married,3,Bachelor,Mortgaged,0
+47,Female,Student,Clerk,1195.94,310.37,18608.23,84,678,Divorced,0,Diploma,Rented,0
+62,Male,Self-Employed,Manager,3283.01,492.43,54897.16,240,838,Married,1,Bachelor,Rented,1
+48,Male,Self-Employed,Accountant,5263.99,222.51,43378.29,180,698,Single,0,High School,Rented,1
+36,Female,Self-Employed,Other,4407.43,288.12,8099.21,48,572,Single,3,Bachelor,Rented,1
+35,Female,Self-Employed,Engineer,2772.35,538.67,109695.75,240,543,Divorced,1,Bachelor,Owned,1
+67,Female,Employed,Doctor,5016.42,634.71,114405.3,12,564,Single,3,Bachelor,Rented,1
+64,Female,Employed,Accountant,6570.38,289.36,79868.15,84,649,Married,1,Master,Rented,1
+23,Other,Employed,Teacher,3044.41,437.48,57401.86,180,781,Married,4,Master,Owned,1
+57,Male,Retired,Engineer,1803.98,9.43,132151.68,48,598,Married,0,Other,Owned,0
+27,Male,Employed,Sales,3579.09,788.0,31258.54,24,793,Married,3,Other,Owned,1
+41,Male,Employed,Clerk,5489.59,121.18,106129.93,24,694,Married,3,Master,Rented,1
+29,Male,Employed,Doctor,6860.77,1294.86,154774.43,12,718,Married,2,Other,Rented,1
+59,Female,Self-Employed,Sales,985.4,234.43,37038.11,60,716,Married,4,Master,Owned,1
+38,Male,Self-Employed,Manager,4141.6,164.81,151885.61,84,727,Married,3,Master,Owned,1
+24,Female,Employed,Clerk,3613.67,562.26,153354.93,48,647,Married,0,High School,Mortgaged,0
+45,Male,Employed,Engineer,6508.1,1521.08,16685.7,48,493,Married,4,High School,Owned,1
+34,Female,Unemployed,Clerk,500.0,39.1,8662.94,60,632,Married,3,Master,Rented,0
+29,Female,Employed,Accountant,5196.01,253.95,194917.4,60,608,Divorced,0,Bachelor,Parental,0
+46,Male,Employed,Farmer,4997.99,505.03,42709.62,240,704,Single,2,Master,Rented,1
+22,Male,Self-Employed,Accountant,5686.33,946.26,165317.15,180,697,Single,2,Bachelor,Mortgaged,1
+40,Male,Unemployed,Manager,3572.95,616.63,114560.88,240,658,Divorced,0,Bachelor,Rented,0
+48,Male,Employed,Other,3298.0,129.49,56572.07,36,820,Married,4,Master,Owned,1
+67,Male,Unemployed,Sales,500.0,68.64,30344.24,36,628,Single,0,PhD,Rented,0
+27,Male,Unemployed,Accountant,982.25,79.06,101852.07,12,501,Married,0,High School,Rented,0
+64,Male,Employed,Farmer,3775.4,953.69,84434.19,84,689,Widowed,2,Master,Owned,1
+28,Female,Retired,Other,4400.38,413.95,141282.79,48,775,Married,2,Master,Rented,0
+67,Female,Unemployed,Accountant,2141.18,538.74,181312.87,180,702,Married,2,Bachelor,Parental,1
+55,Female,Unemployed,Teacher,500.0,64.28,162023.38,24,651,Single,3,Bachelor,Owned,0
+34,Male,Self-Employed,Farmer,2854.69,622.25,58518.15,24,699,Divorced,3,High School,Rented,0
+37,Female,Employed,Sales,4587.83,702.02,176391.98,120,827,Married,1,High School,Rented,1
+56,Male,Employed,Doctor,5156.03,962.06,167511.31,60,609,Divorced,3,Bachelor,Mortgaged,0
+60,Male,Employed,Other,5472.26,649.05,186181.57,12,682,Single,4,High School,Mortgaged,1
+24,Female,Employed,Teacher,1620.77,373.53,94438.86,120,733,Single,4,Diploma,Mortgaged,1
+22,Male,Employed,Doctor,3548.82,452.68,154872.16,120,700,Married,2,Master,Rented,0
+26,Female,Student,Engineer,500.0,68.62,120373.32,84,660,Single,0,Bachelor,Owned,0
+62,Female,Unemployed,Farmer,500.0,77.65,65548.04,48,645,Married,2,Bachelor,Rented,0
+24,Male,Self-Employed,Teacher,500.0,124.77,198914.05,180,657,Widowed,0,Diploma,Rented,0
+49,Male,Student,Clerk,500.0,98.91,12469.96,24,722,Married,2,Master,Mortgaged,1
+38,Male,Unemployed,Engineer,500.0,52.37,36643.15,24,717,Divorced,2,Master,Parental,0
+46,Female,Employed,Engineer,4827.07,970.7,179045.76,24,847,Married,4,Bachelor,Rented,1
+64,Male,Employed,Other,4345.7,837.54,16809.75,36,557,Married,0,PhD,Rented,0
+54,Male,Employed,Farmer,4052.65,1131.93,177930.03,84,820,Married,1,Master,Rented,1
+30,Male,Self-Employed,Teacher,5194.77,1311.29,144468.19,12,663,Married,1,Master,Owned,1
+56,Female,Employed,Manager,6194.2,1203.12,12153.38,24,672,Married,2,Master,Rented,1
+34,Male,Self-Employed,Teacher,4224.88,432.85,88717.41,24,748,Married,2,High School,Rented,1
+51,Male,Employed,Accountant,5180.18,1211.5,152121.94,12,748,Married,4,Bachelor,Parental,1
+68,Female,Self-Employed,Engineer,2715.01,468.51,118704.56,36,772,Single,0,High School,Rented,0
+35,Female,Unemployed,Sales,500.0,147.79,187494.9,120,789,Married,2,High School,Parental,0
+28,Male,Self-Employed,Engineer,1438.53,106.81,174190.59,12,676,Widowed,1,Diploma,Rented,0
+34,Male,Retired,Engineer,2623.87,62.7,69866.29,120,791,Married,0,Master,Owned,1
+43,Male,Unemployed,Clerk,1678.61,35.2,21502.3,60,629,Married,2,Diploma,Owned,0
+60,Female,Student,Manager,3031.49,582.07,189130.12,240,655,Married,0,Other,Owned,1
+41,Male,Retired,Doctor,2632.83,741.87,105870.92,24,665,Married,4,Bachelor,Rented,0
+36,Female,Unemployed,Doctor,1237.5,0.72,19507.54,12,637,Married,1,Diploma,Owned,0
+65,Female,Self-Employed,Clerk,500.0,108.87,164232.24,240,684,Divorced,0,Bachelor,Rented,1
+38,Female,Employed,Engineer,4350.61,857.59,174358.76,180,751,Married,1,Diploma,Parental,1
+67,Male,Employed,Doctor,4315.46,948.07,129687.8,84,732,Single,2,Other,Rented,1
+44,Female,Self-Employed,Farmer,6236.75,664.97,92264.25,60,630,Married,3,Master,Mortgaged,1
+46,Female,Employed,Manager,5589.4,1375.82,134123.74,180,624,Married,0,High School,Owned,1
+45,Female,Employed,Doctor,5741.38,77.0,142803.32,180,611,Married,1,PhD,Rented,1
+65,Male,Retired,Clerk,3663.49,830.25,179140.84,60,687,Single,0,Master,Owned,0
+61,Other,Student,Accountant,1068.16,85.58,191393.03,120,553,Single,2,High School,Mortgaged,0
+49,Male,Unemployed,Doctor,2798.55,400.34,105292.58,12,608,Divorced,2,Bachelor,Owned,0
+35,Male,Employed,Manager,1542.08,380.57,160706.43,48,643,Single,1,Bachelor,Rented,0
+65,Male,Employed,Other,5219.32,424.89,193079.36,24,764,Married,4,Diploma,Rented,1
+21,Female,Employed,Other,6694.7,371.97,34492.45,36,669,Married,0,Master,Rented,1
+45,Male,Employed,Farmer,2162.91,442.09,8562.26,12,760,Married,0,High School,Mortgaged,1
+27,Male,Employed,Teacher,6256.88,1001.22,174447.94,24,695,Single,2,Bachelor,Owned,0
+29,Male,Employed,Teacher,3858.26,595.41,43078.3,12,642,Married,0,High School,Rented,1
+44,Male,Student,Doctor,1164.72,89.72,13283.36,180,645,Divorced,1,Other,Mortgaged,1
+21,Female,Self-Employed,Sales,2829.46,29.61,36218.75,48,586,Married,3,Master,Rented,1
+64,Female,Employed,Accountant,6438.73,792.48,79902.41,36,872,Married,2,Diploma,Rented,1
+28,Male,Employed,Clerk,4567.46,146.01,47756.81,12,768,Married,3,Bachelor,Owned,1
+44,Male,Employed,Accountant,6268.7,1703.81,64524.46,24,728,Single,0,Diploma,Mortgaged,1
+31,Female,Employed,Other,5652.99,69.96,195182.34,36,575,Divorced,4,Master,Parental,0
+37,Male,Retired,Doctor,1809.31,234.3,142359.08,36,643,Divorced,1,High School,Rented,0
+28,Male,Employed,Manager,5752.79,90.17,143877.39,84,601,Widowed,0,Master,Mortgaged,1
+55,Female,Employed,Clerk,4004.65,114.79,23463.65,180,690,Married,1,PhD,Rented,1
+55,Female,Employed,Accountant,5096.19,1007.31,147759.18,84,605,Married,0,Bachelor,Owned,1
+53,Male,Employed,Manager,4540.11,881.39,149172.14,24,626,Single,0,Diploma,Owned,1
+25,Female,Self-Employed,Clerk,5349.87,53.05,133650.28,24,607,Married,0,Bachelor,Rented,1
+62,Male,Self-Employed,Accountant,4810.48,1.63,49545.08,120,660,Married,2,Bachelor,Rented,1
+59,Female,Self-Employed,Farmer,3953.92,93.49,87492.05,12,685,Divorced,3,Bachelor,Mortgaged,0
+61,Male,Employed,Other,3971.43,909.06,170023.91,12,662,Married,4,Bachelor,Rented,1
+48,Male,Self-Employed,Engineer,2096.51,367.67,135689.32,120,802,Divorced,3,Bachelor,Parental,1
+27,Male,Self-Employed,Clerk,4203.48,48.07,147889.92,240,744,Divorced,3,Bachelor,Rented,1
+29,Female,Student,Other,500.0,73.21,119538.01,60,617,Divorced,1,Master,Rented,0
+28,Female,Employed,Sales,2183.01,466.31,92669.39,12,706,Single,2,High School,Owned,0
+32,Male,Employed,Doctor,3004.96,783.35,153015.14,60,623,Married,2,Bachelor,Rented,0
+54,Male,Self-Employed,Manager,6438.81,1804.23,18245.53,12,648,Married,0,Master,Mortgaged,1
+53,Female,Self-Employed,Clerk,3010.04,295.68,136266.34,240,718,Married,3,High School,Owned,1
+68,Male,Employed,Doctor,6623.24,269.9,199454.88,48,733,Single,4,Master,Parental,1
+43,Male,Employed,Doctor,4465.03,317.36,157137.43,240,633,Married,1,Master,Parental,1
+44,Female,Employed,Engineer,6859.37,1597.21,61659.88,24,591,Single,2,Bachelor,Rented,1
+57,Male,Student,Accountant,2750.75,801.69,59174.8,120,687,Married,0,High School,Rented,0
+55,Female,Employed,Clerk,3761.46,526.3,135107.63,24,714,Married,4,Diploma,Owned,0
+64,Female,Retired,Other,500.0,45.8,179691.58,48,628,Divorced,3,Bachelor,Owned,0
+60,Male,Employed,Teacher,2145.02,276.19,117700.2,84,745,Married,4,Diploma,Owned,1
+42,Male,Retired,Clerk,1787.01,163.41,107843.45,24,731,Married,2,Other,Rented,0
+47,Male,Unemployed,Clerk,3334.45,256.57,36274.91,24,627,Married,1,Bachelor,Owned,0
+55,Female,Employed,Clerk,4384.16,780.93,144514.11,24,770,Single,3,Bachelor,Mortgaged,1
+21,Female,Student,Doctor,1217.87,5.75,141948.23,36,772,Married,1,PhD,Rented,0
+55,Female,Employed,Manager,6955.01,541.56,193555.52,60,845,Single,4,Master,Owned,1
+57,Male,Student,Doctor,1165.48,231.25,63537.48,240,816,Widowed,4,Bachelor,Rented,1
+67,Female,Self-Employed,Manager,4113.84,39.57,152506.87,84,607,Married,0,Bachelor,Parental,1
+34,Female,Employed,Teacher,5933.99,148.12,89642.73,240,753,Single,3,Diploma,Rented,1
+23,Female,Self-Employed,Doctor,4433.45,390.23,113902.19,60,750,Married,4,Other,Rented,1
+21,Female,Retired,Manager,2850.8,750.73,164208.5,84,652,Married,2,Bachelor,Mortgaged,0
+25,Female,Employed,Doctor,3917.83,899.01,48289.03,180,716,Married,2,Master,Mortgaged,1
+46,Female,Self-Employed,Sales,4117.73,27.37,71859.4,36,529,Single,1,Bachelor,Mortgaged,0
+34,Female,Self-Employed,Doctor,5641.6,849.14,155795.19,24,527,Widowed,2,Master,Owned,0
+59,Male,Unemployed,Teacher,3173.01,261.48,116239.29,36,542,Single,4,High School,Mortgaged,0
+47,Male,Employed,Teacher,5438.41,1058.28,23022.47,240,711,Single,2,Other,Rented,1
+29,Female,Employed,Manager,6132.74,1327.53,88886.24,84,714,Single,3,PhD,Parental,1
+35,Male,Employed,Manager,5404.6,1399.03,119393.5,48,658,Married,1,Bachelor,Owned,1
+35,Female,Self-Employed,Teacher,3869.01,551.82,182355.88,36,817,Single,3,Master,Parental,1
+46,Other,Employed,Teacher,5771.39,1721.81,41755.17,24,758,Single,4,Master,Parental,1
+62,Female,Retired,Engineer,4784.0,1406.48,162160.83,48,552,Married,4,PhD,Owned,0
+33,Male,Employed,Clerk,3670.46,971.39,30471.77,240,666,Married,2,Bachelor,Parental,1
+52,Male,Self-Employed,Farmer,1822.9,314.38,52235.95,48,604,Single,0,Bachelor,Owned,0
+59,Male,Employed,Doctor,4200.49,501.55,52452.06,60,713,Single,0,Master,Owned,1
+69,Female,Employed,Accountant,5317.49,581.29,176108.44,180,677,Married,4,Master,Rented,1
+52,Female,Employed,Clerk,6304.81,22.93,43808.45,24,609,Single,4,Bachelor,Parental,1
+24,Female,Employed,Farmer,3515.74,262.81,158457.34,36,815,Married,1,Master,Rented,1
+50,Male,Self-Employed,Engineer,500.0,107.82,95052.27,84,684,Single,4,High School,Rented,0
+57,Female,Student,Accountant,500.0,90.54,199822.7,120,646,Single,4,Master,Rented,0
+43,Female,Self-Employed,Manager,3709.13,1019.74,168622.84,48,659,Married,1,Diploma,Parental,1
+59,Male,Retired,Teacher,1256.59,18.86,149242.11,12,809,Single,3,Bachelor,Mortgaged,0
+65,Female,Student,Sales,500.0,23.29,174791.63,120,752,Single,3,Bachelor,Owned,0
+35,Male,Self-Employed,Other,5300.93,1255.12,128635.93,240,667,Married,1,Bachelor,Rented,1
+63,Male,Unemployed,Teacher,617.18,66.38,169512.19,12,600,Divorced,1,Bachelor,Owned,0
+49,Female,Self-Employed,Sales,4518.43,160.42,55919.74,12,613,Married,3,Bachelor,Rented,1
+56,Male,Employed,Farmer,4466.48,1335.19,24052.13,12,641,Married,3,Bachelor,Owned,0
+33,Female,Self-Employed,Manager,2868.83,677.55,125106.74,120,720,Divorced,3,Diploma,Owned,1
+52,Female,Employed,Accountant,4455.65,546.36,89764.63,240,740,Widowed,3,Master,Mortgaged,1
+27,Female,Self-Employed,Farmer,4748.32,1172.86,88155.96,36,621,Married,2,Bachelor,Rented,1
+42,Male,Self-Employed,Teacher,1763.02,359.98,107715.83,180,744,Married,1,Bachelor,Rented,1
+48,Female,Employed,Teacher,7475.26,1771.58,75469.61,240,607,Married,0,Bachelor,Rented,1
+22,Female,Employed,Accountant,5862.29,1433.69,127081.61,36,631,Single,2,PhD,Owned,1
+62,Female,Student,Other,500.0,12.71,10960.83,36,564,Married,0,Master,Rented,0
+65,Male,Self-Employed,Sales,5220.11,975.6,194128.81,12,561,Widowed,0,High School,Rented,1
+26,Male,Employed,Farmer,6833.52,13.91,185318.25,24,606,Married,4,Master,Mortgaged,0
+48,Female,Self-Employed,Manager,3504.49,45.69,187377.68,120,677,Married,1,Other,Rented,1
+48,Male,Self-Employed,Teacher,3675.12,996.67,76175.68,36,600,Married,2,Bachelor,Rented,1
+64,Female,Employed,Farmer,7240.21,1145.9,108718.74,120,799,Married,1,Other,Mortgaged,1
+64,Female,Retired,Other,6178.46,1364.02,191055.47,60,605,Married,3,Bachelor,Mortgaged,0
+40,Male,Self-Employed,Farmer,4044.15,1017.31,180957.48,180,694,Married,1,Bachelor,Mortgaged,1
+50,Female,Employed,Accountant,3262.68,929.46,159097.67,60,785,Married,0,Bachelor,Parental,1
+31,Female,Unemployed,Manager,500.0,130.4,84429.66,36,687,Married,3,Bachelor,Mortgaged,0
+48,Female,Student,Engineer,2549.52,369.66,115046.15,240,650,Divorced,1,Diploma,Rented,1
+45,Female,Employed,Accountant,3454.68,348.2,159617.93,120,691,Divorced,1,High School,Mortgaged,1
+59,Female,Employed,Farmer,4687.58,217.26,58237.34,60,635,Single,0,High School,Rented,1
+53,Male,Employed,Engineer,5438.88,653.19,127157.63,120,599,Divorced,3,Bachelor,Owned,1
+21,Male,Self-Employed,Teacher,2615.93,287.62,166447.19,240,729,Single,0,Bachelor,Rented,1
+47,Female,Self-Employed,Engineer,5644.65,947.58,142953.68,60,633,Single,1,Bachelor,Owned,1
+33,Male,Self-Employed,Other,5040.95,1006.44,98498.72,120,754,Married,2,Bachelor,Owned,1
+61,Male,Retired,Doctor,6014.32,1765.19,118998.63,240,743,Single,2,Other,Owned,1
+23,Male,Unemployed,Other,1672.19,365.4,197791.73,12,693,Single,4,Bachelor,Owned,0
+59,Female,Employed,Accountant,3558.67,687.27,122387.62,48,757,Married,2,Bachelor,Mortgaged,1
+26,Female,Employed,Doctor,5795.55,582.61,158195.46,12,636,Married,3,High School,Parental,0
+28,Female,Employed,Accountant,6482.03,67.1,146687.93,180,742,Single,4,Bachelor,Rented,1
+47,Female,Employed,Manager,6559.22,566.96,141790.67,36,742,Married,3,High School,Mortgaged,1
+29,Female,Self-Employed,Clerk,2834.74,653.5,144691.97,24,655,Married,2,Bachelor,Owned,0
+57,Male,Student,Teacher,500.0,30.79,93609.9,48,645,Married,2,Master,Parental,0
+53,Female,Employed,Teacher,3290.54,703.05,97461.23,36,706,Divorced,1,Diploma,Rented,1
+62,Male,Self-Employed,Farmer,6407.1,1114.41,96233.23,60,837,Married,3,Bachelor,Owned,1
+64,Female,Unemployed,Sales,1434.32,73.95,11484.65,180,661,Single,0,High School,Owned,1
+44,Female,Employed,Accountant,3768.17,295.75,52007.74,180,643,Single,1,Master,Rented,1
+35,Male,Employed,Clerk,5190.78,772.86,35139.98,120,774,Married,3,Master,Owned,1
+52,Male,Employed,Clerk,4814.47,604.28,177856.78,180,685,Married,4,High School,Rented,1
+52,Male,Employed,Other,3541.13,827.1,58619.03,60,749,Single,3,Bachelor,Owned,1
+44,Male,Retired,Other,3054.28,672.92,31996.31,84,797,Single,4,Other,Owned,1
+61,Male,Employed,Sales,5286.04,911.17,28354.55,180,527,Married,4,Bachelor,Owned,1
+69,Female,Employed,Farmer,7896.88,1948.02,141498.02,12,676,Married,2,Bachelor,Parental,1
+69,Female,Employed,Engineer,4016.47,677.98,6186.25,84,661,Married,0,Bachelor,Owned,1
+32,Female,Retired,Other,500.0,144.66,96904.36,84,603,Married,3,Bachelor,Owned,0
+59,Female,Employed,Farmer,3426.57,223.3,28179.87,60,526,Married,0,Other,Rented,1
+22,Female,Employed,Manager,3661.03,784.34,170684.36,48,552,Married,4,Other,Mortgaged,0
+23,Female,Employed,Teacher,4359.61,483.84,191897.82,12,688,Married,2,Master,Rented,0
+69,Male,Employed,Teacher,3430.24,287.08,191957.15,180,637,Widowed,0,Bachelor,Mortgaged,1
+57,Female,Employed,Farmer,6233.18,337.32,91183.0,84,615,Married,1,Bachelor,Rented,1
+69,Male,Self-Employed,Sales,2325.95,385.53,130680.39,36,687,Single,4,Bachelor,Owned,1
+37,Female,Employed,Clerk,5030.03,325.15,121942.31,36,624,Single,1,Other,Rented,1
+69,Female,Employed,Sales,8000.29,480.86,73257.59,84,783,Married,0,Master,Rented,1
+22,Female,Unemployed,Farmer,1330.35,395.33,91592.58,120,630,Divorced,0,Bachelor,Rented,0
+22,Male,Employed,Accountant,5676.14,1365.25,17543.12,180,800,Single,0,High School,Rented,1
+48,Female,Employed,Doctor,7785.97,1747.82,160161.31,60,677,Single,3,Bachelor,Owned,1
+43,Female,Employed,Teacher,6868.47,1636.2,51956.68,84,627,Divorced,4,Other,Mortgaged,1
+57,Male,Retired,Farmer,3847.69,1118.43,94802.83,12,622,Divorced,4,Bachelor,Rented,0
+52,Male,Employed,Clerk,4533.91,779.76,98721.04,84,801,Single,4,Diploma,Rented,1
+53,Female,Student,Doctor,965.97,63.82,114338.79,240,735,Married,3,High School,Rented,1
+21,Male,Unemployed,Manager,500.0,129.33,164485.94,48,619,Married,0,Bachelor,Rented,0
+39,Female,Employed,Other,4397.86,979.93,139916.8,12,689,Single,0,PhD,Owned,1
+22,Male,Retired,Accountant,3318.05,412.41,134297.29,240,491,Divorced,1,Other,Mortgaged,0
+64,Male,Employed,Other,5526.12,785.1,107715.37,48,573,Single,3,PhD,Mortgaged,1
+46,Female,Employed,Doctor,3133.06,386.54,23711.37,24,619,Single,2,Master,Owned,1
+52,Male,Unemployed,Doctor,2948.06,822.46,83391.65,12,618,Single,3,Bachelor,Parental,0
+26,Female,Self-Employed,Other,4614.7,475.59,191676.79,36,777,Single,1,Bachelor,Rented,1
+52,Male,Self-Employed,Clerk,3605.83,1042.25,199131.87,120,526,Single,1,Bachelor,Rented,0
+24,Male,Employed,Clerk,5331.76,1456.01,147447.14,24,565,Single,1,Master,Owned,0
+31,Female,Employed,Engineer,6395.55,1209.76,49365.42,240,716,Married,0,Bachelor,Rented,1
+37,Male,Unemployed,Manager,500.0,86.97,24868.68,24,698,Single,2,Bachelor,Owned,0
+58,Female,Employed,Clerk,4842.41,537.64,85879.05,60,652,Divorced,1,High School,Rented,1
+44,Female,Employed,Manager,3221.22,17.72,172031.52,180,844,Married,4,Bachelor,Rented,1
+25,Female,Employed,Manager,8985.51,344.03,145763.53,180,729,Married,0,Master,Mortgaged,1
+54,Male,Employed,Doctor,5207.28,1178.25,177358.99,36,777,Single,2,PhD,Owned,0
+26,Male,Student,Manager,500.0,70.73,125076.38,24,675,Single,4,Bachelor,Mortgaged,0
+42,Female,Employed,Accountant,10399.2,467.46,30414.03,240,636,Married,2,High School,Rented,1
+31,Female,Retired,Other,2195.97,173.9,27385.21,36,637,Married,2,PhD,Rented,0
+68,Female,Employed,Engineer,4686.38,1332.58,14360.45,180,754,Married,4,Master,Mortgaged,1
+36,Male,Self-Employed,Farmer,3794.8,417.96,115580.59,24,741,Married,3,Bachelor,Rented,1
+53,Male,Employed,Sales,3728.07,1015.17,52362.82,36,662,Married,2,Bachelor,Rented,1
+29,Female,Employed,Engineer,5371.03,490.86,148204.81,12,717,Married,3,Bachelor,Rented,1
+26,Female,Employed,Accountant,1683.89,274.42,138818.74,84,757,Divorced,2,Bachelor,Rented,0
+36,Female,Employed,Engineer,6628.85,40.72,67031.59,120,634,Married,4,Master,Rented,1
+49,Female,Employed,Manager,3308.29,517.95,39476.32,48,652,Widowed,2,Diploma,Rented,1
+23,Female,Retired,Doctor,2377.02,454.21,24968.07,12,715,Married,1,High School,Mortgaged,0
+40,Male,Self-Employed,Sales,5127.28,360.4,148776.48,36,536,Single,1,High School,Rented,0
+56,Male,Employed,Clerk,4693.31,815.14,92835.99,240,717,Single,2,Bachelor,Owned,1
+39,Male,Employed,Doctor,4754.68,923.12,68088.33,60,589,Married,4,High School,Rented,1
+46,Male,Employed,Manager,3481.88,717.5,172047.34,84,755,Married,4,Diploma,Owned,1
+23,Female,Self-Employed,Manager,7143.47,1663.86,120754.58,48,851,Married,0,High School,Rented,1
+39,Male,Unemployed,Sales,1297.22,121.16,106010.46,12,624,Married,4,Diploma,Rented,0
+40,Female,Retired,Sales,1375.82,234.35,149958.94,60,572,Single,3,Bachelor,Rented,0
+52,Male,Employed,Teacher,5267.27,1551.07,164038.71,60,665,Single,2,High School,Mortgaged,1
+27,Male,Employed,Doctor,3269.8,881.03,138784.27,60,658,Single,1,Bachelor,Owned,1
+61,Male,Employed,Clerk,7583.62,2167.4,90801.23,84,732,Married,4,Bachelor,Parental,1
+53,Male,Self-Employed,Engineer,4299.46,498.05,78963.26,24,698,Married,1,High School,Rented,1
+60,Female,Self-Employed,Manager,2536.68,598.86,155474.66,12,656,Single,0,Bachelor,Rented,0
+59,Male,Self-Employed,Manager,5046.39,938.47,105991.9,24,687,Married,2,Other,Rented,0
+38,Female,Self-Employed,Teacher,3582.89,88.93,142355.29,84,590,Single,4,PhD,Mortgaged,0
+60,Male,Employed,Doctor,3067.66,758.31,178627.76,60,746,Single,1,High School,Rented,1
+21,Male,Unemployed,Doctor,1071.57,217.67,183598.67,60,809,Married,4,Master,Mortgaged,0
+31,Male,Employed,Other,5529.26,329.96,59154.55,84,584,Married,0,Bachelor,Mortgaged,1
+48,Female,Self-Employed,Sales,5706.6,136.51,41638.54,120,553,Married,1,High School,Mortgaged,1
+45,Female,Employed,Clerk,5096.76,1279.83,55951.04,240,647,Married,1,Bachelor,Owned,1
+43,Male,Employed,Sales,5160.59,122.15,151517.5,120,582,Divorced,2,Bachelor,Mortgaged,1
+51,Male,Student,Clerk,1240.2,33.99,77161.32,24,577,Single,2,Bachelor,Mortgaged,0
+50,Female,Student,Accountant,3392.92,435.05,38810.91,84,567,Married,1,Bachelor,Rented,0
+62,Male,Unemployed,Farmer,500.0,20.22,24185.17,240,664,Married,2,Master,Mortgaged,1
+55,Male,Employed,Clerk,5704.18,1563.52,68826.07,120,647,Married,1,Diploma,Parental,1
+27,Female,Self-Employed,Sales,4925.12,694.86,31546.61,24,709,Married,3,Bachelor,Rented,1
+36,Female,Employed,Manager,5524.66,943.31,35492.85,36,634,Single,4,Bachelor,Owned,1
+46,Male,Student,Sales,500.0,139.22,138357.37,180,582,Single,3,Bachelor,Rented,0
+68,Female,Employed,Clerk,5180.91,824.17,8847.76,240,678,Married,3,Other,Owned,1
+69,Female,Retired,Doctor,2859.51,303.33,27922.89,48,595,Married,4,Master,Owned,0
+22,Male,Retired,Sales,5938.82,1420.25,169651.27,240,720,Single,1,Other,Rented,1
+21,Female,Self-Employed,Teacher,3313.35,440.2,169758.25,24,546,Single,1,Bachelor,Rented,1
+68,Female,Employed,Other,3631.13,346.92,69202.48,60,506,Married,2,Bachelor,Rented,1
+32,Male,Employed,Manager,4990.7,1082.83,22150.84,24,551,Single,0,Bachelor,Mortgaged,1
+25,Male,Student,Teacher,884.95,212.81,142469.22,12,646,Single,1,Bachelor,Rented,0
+57,Male,Employed,Clerk,5295.27,1257.7,75225.68,60,657,Single,4,Bachelor,Parental,1
+52,Female,Student,Accountant,500.0,146.65,13865.6,24,690,Single,0,Master,Owned,0
+29,Male,Employed,Teacher,5165.56,1219.07,35776.26,120,634,Married,4,Bachelor,Mortgaged,1
+61,Female,Employed,Farmer,5194.41,1199.81,31756.89,180,612,Married,4,Bachelor,Mortgaged,1
+55,Female,Student,Accountant,2358.98,606.84,119877.69,24,794,Single,4,Master,Rented,0
+39,Male,Self-Employed,Engineer,4139.51,0.23,180132.93,120,773,Single,0,Master,Owned,1
+68,Female,Self-Employed,Manager,4153.71,451.63,159649.05,48,758,Single,3,Bachelor,Rented,1
+36,Male,Self-Employed,Engineer,4774.52,1056.51,111570.63,12,704,Married,4,Bachelor,Mortgaged,1
+23,Female,Employed,Sales,6301.48,1133.74,87320.26,36,711,Single,2,High School,Mortgaged,1
+40,Female,Unemployed,Clerk,500.0,26.64,125641.96,12,615,Married,1,Bachelor,Rented,0
+44,Male,Employed,Manager,3121.52,284.43,91543.48,60,691,Single,1,High School,Rented,1
+53,Male,Retired,Doctor,5543.22,560.07,52989.33,180,604,Single,1,High School,Owned,1
+44,Male,Student,Accountant,2056.11,350.26,137443.5,12,595,Single,0,Bachelor,Rented,0
+31,Male,Employed,Doctor,4670.92,1165.3,175282.57,240,550,Single,2,Bachelor,Parental,1
+69,Male,Self-Employed,Engineer,4029.55,1127.26,77709.71,36,712,Married,2,Master,Owned,0
+28,Male,Self-Employed,Teacher,3411.16,767.6,169100.0,60,693,Married,2,Master,Parental,0
+56,Other,Employed,Teacher,5316.92,1344.57,89061.0,240,655,Married,2,High School,Mortgaged,1
+58,Male,Retired,Clerk,1542.24,217.5,83260.51,60,645,Single,2,Master,Parental,0
+60,Male,Employed,Engineer,6260.25,732.03,10523.25,240,533,Single,3,Bachelor,Owned,1
+40,Female,Employed,Other,5263.18,620.07,140579.39,180,700,Single,2,High School,Owned,1
+55,Male,Employed,Manager,5317.44,982.72,162462.99,120,654,Married,2,Bachelor,Owned,1
+68,Female,Employed,Accountant,3659.09,136.38,134393.6,12,751,Single,0,Bachelor,Mortgaged,1
+45,Female,Self-Employed,Teacher,4786.4,832.11,34515.39,48,691,Married,0,Bachelor,Rented,1
+55,Female,Unemployed,Teacher,500.0,99.77,25142.23,240,736,Single,2,PhD,Owned,1
+45,Male,Self-Employed,Doctor,2961.77,389.98,116707.46,180,679,Single,3,Bachelor,Mortgaged,1
+49,Male,Self-Employed,Doctor,4131.43,1181.38,83295.67,48,694,Divorced,2,Other,Owned,1
+38,Male,Employed,Sales,8761.0,1598.57,88674.07,12,754,Married,2,Bachelor,Owned,1
+66,Female,Employed,Other,5257.2,346.97,193721.05,48,664,Married,2,High School,Rented,1
+38,Male,Employed,Doctor,1146.8,164.87,146164.92,36,717,Married,4,Bachelor,Owned,1
+22,Male,Employed,Doctor,4036.25,817.83,85298.61,84,644,Married,3,Diploma,Owned,1
+55,Other,Self-Employed,Manager,5025.59,487.93,8724.36,60,669,Single,1,Bachelor,Rented,1
+36,Male,Employed,Doctor,3307.31,79.02,11648.66,60,807,Married,2,Bachelor,Mortgaged,1
+61,Male,Employed,Accountant,6246.65,1093.36,138536.72,24,731,Single,1,Bachelor,Mortgaged,1
+56,Male,Employed,Manager,5238.23,1489.55,168359.06,36,636,Married,3,High School,Rented,0
+53,Female,Retired,Sales,4486.99,652.95,143002.01,84,713,Married,2,Bachelor,Mortgaged,1
+24,Male,Retired,Engineer,2161.72,587.63,84148.11,24,577,Married,1,High School,Rented,0
+53,Female,Self-Employed,Manager,3044.82,762.75,11071.47,48,662,Married,1,Bachelor,Rented,1
+34,Female,Student,Engineer,1847.48,81.7,193643.32,24,603,Married,3,Master,Mortgaged,0
+41,Male,Unemployed,Teacher,500.0,106.23,197335.53,240,716,Single,2,Other,Rented,0
+68,Female,Self-Employed,Sales,3897.97,509.23,112126.09,36,664,Single,4,High School,Rented,1
+40,Male,Employed,Sales,7353.45,552.05,18780.84,84,702,Single,3,Bachelor,Rented,1
+28,Male,Unemployed,Manager,1406.21,289.79,110489.64,12,741,Married,4,Bachelor,Rented,0
+27,Female,Self-Employed,Farmer,1015.12,226.17,179006.0,36,643,Widowed,2,PhD,Rented,0
+23,Female,Self-Employed,Sales,5198.6,280.56,137597.17,180,646,Single,1,Bachelor,Mortgaged,1
+37,Female,Unemployed,Engineer,1548.45,424.79,145397.9,60,677,Single,3,High School,Owned,0
+53,Male,Employed,Sales,6777.37,1527.24,21569.12,180,611,Married,3,Bachelor,Mortgaged,1
+68,Male,Self-Employed,Teacher,2590.45,725.36,25769.77,24,679,Divorced,3,Bachelor,Rented,1
+32,Male,Retired,Accountant,3487.21,331.71,29833.01,120,683,Married,0,Master,Owned,1
+42,Male,Employed,Farmer,5167.45,1456.19,181353.48,240,698,Single,2,Master,Rented,1
+42,Male,Self-Employed,Clerk,2563.55,283.41,107540.68,120,713,Widowed,0,Diploma,Rented,1
+66,Male,Employed,Sales,6420.15,103.95,159357.14,36,551,Married,3,Other,Mortgaged,1
+50,Male,Self-Employed,Doctor,3637.68,832.63,27481.8,120,577,Single,3,High School,Rented,1
+58,Male,Unemployed,Manager,2229.1,470.46,185890.33,180,586,Divorced,4,Other,Rented,0
+58,Male,Employed,Manager,3885.71,696.99,165122.71,12,687,Married,0,Master,Rented,1
+65,Male,Self-Employed,Manager,1809.12,265.88,48829.01,36,657,Married,1,Bachelor,Owned,0
+28,Female,Employed,Other,4636.15,44.74,175465.54,60,498,Married,2,Master,Rented,0
+47,Male,Self-Employed,Farmer,4347.87,814.7,56371.34,84,835,Married,1,High School,Rented,1
+47,Female,Employed,Farmer,4198.71,525.05,45041.28,36,520,Married,1,High School,Rented,1
+54,Female,Unemployed,Engineer,500.0,84.03,56527.57,48,682,Single,2,High School,Rented,0
+41,Male,Employed,Sales,5575.47,718.1,182441.24,60,725,Widowed,3,High School,Parental,1
+50,Female,Self-Employed,Clerk,4568.47,1324.02,183540.44,36,622,Single,4,Bachelor,Rented,0
+53,Female,Employed,Manager,6030.75,1092.97,69154.18,48,731,Married,3,Diploma,Parental,1
+48,Female,Student,Sales,500.0,112.39,142559.67,60,599,Married,3,Master,Owned,0
+67,Male,Student,Farmer,500.0,140.45,136770.32,24,693,Single,0,Bachelor,Owned,0
+53,Male,Retired,Teacher,5160.48,915.88,162279.71,240,505,Single,1,Bachelor,Rented,0
+25,Male,Unemployed,Manager,500.0,1.81,62819.35,180,773,Divorced,1,Bachelor,Owned,1
+68,Female,Unemployed,Sales,500.0,5.14,104477.02,84,680,Married,1,Bachelor,Rented,0
+39,Female,Employed,Farmer,5213.45,1098.48,135196.42,36,552,Married,4,Diploma,Rented,1
+24,Female,Employed,Accountant,5909.03,494.74,10120.08,24,730,Married,4,Bachelor,Rented,1
+55,Female,Employed,Farmer,5254.65,913.33,78464.06,120,810,Married,4,Master,Mortgaged,1
+69,Female,Unemployed,Doctor,500.0,30.34,140698.23,180,605,Married,2,Bachelor,Parental,0
+37,Male,Student,Other,2751.42,223.07,54256.04,12,663,Single,4,Bachelor,Mortgaged,0
+64,Male,Employed,Other,5002.86,757.39,191752.3,84,638,Married,0,Master,Owned,0
+48,Female,Student,Manager,500.0,146.34,10881.47,120,618,Divorced,0,High School,Rented,0
+50,Male,Self-Employed,Accountant,4313.76,797.53,191827.0,240,609,Married,3,Bachelor,Owned,1
+49,Male,Self-Employed,Accountant,4712.92,1323.6,47268.95,36,628,Single,3,Bachelor,Owned,1
+66,Male,Employed,Manager,7941.12,2285.56,14520.3,24,632,Divorced,3,Master,Rented,1
+26,Male,Employed,Sales,5613.13,350.44,62032.44,60,651,Married,3,PhD,Rented,1
+55,Female,Self-Employed,Manager,1776.96,165.89,158325.05,12,645,Single,0,Master,Owned,0
+61,Female,Self-Employed,Clerk,1829.65,422.64,151726.19,84,740,Widowed,3,Bachelor,Mortgaged,1
+57,Female,Employed,Clerk,6888.06,1791.1,45723.88,240,733,Married,0,Diploma,Mortgaged,1
+44,Female,Self-Employed,Other,2795.8,435.5,43374.08,240,557,Single,4,Master,Owned,1
+49,Male,Student,Farmer,500.0,148.98,130303.08,120,632,Single,4,Bachelor,Rented,0
+69,Male,Unemployed,Manager,2000.77,6.95,94326.12,120,780,Married,2,High School,Mortgaged,1
+66,Female,Student,Manager,500.0,44.94,159496.54,180,703,Married,3,Master,Rented,0
+51,Male,Employed,Sales,6420.52,1200.31,9705.89,24,706,Single,4,Bachelor,Rented,1
+55,Female,Employed,Engineer,3627.92,510.76,124030.31,84,699,Single,4,High School,Owned,1
+53,Female,Self-Employed,Other,6210.72,217.26,147481.04,60,659,Single,1,PhD,Owned,1
+41,Male,Employed,Other,6308.1,696.01,198710.29,60,676,Married,1,Bachelor,Owned,1
+52,Female,Employed,Other,3915.97,29.9,137362.43,36,647,Single,0,Bachelor,Mortgaged,0
+43,Female,Employed,Farmer,2509.41,483.87,50209.81,36,748,Single,2,Master,Owned,1
+53,Female,Employed,Teacher,8457.75,2265.18,26096.31,84,648,Married,1,Master,Owned,1
+23,Male,Employed,Engineer,4684.69,1243.61,129978.77,120,670,Married,2,High School,Owned,1
+38,Male,Employed,Farmer,3855.9,809.21,107020.7,12,738,Married,4,Bachelor,Mortgaged,1
+45,Male,Employed,Clerk,7079.46,989.22,180333.33,36,653,Married,0,Master,Owned,1
+62,Male,Employed,Sales,6418.64,985.96,146688.56,12,674,Married,2,Diploma,Rented,1
+51,Male,Self-Employed,Clerk,5774.19,237.18,104399.78,36,651,Married,1,Bachelor,Rented,1
+23,Female,Self-Employed,Accountant,3852.24,394.1,83699.95,60,672,Widowed,4,High School,Rented,1
+60,Male,Self-Employed,Other,6821.58,384.18,83853.07,240,654,Married,3,Master,Owned,1
+66,Female,Employed,Doctor,3034.07,747.47,49129.34,36,637,Single,4,Master,Owned,1
+44,Female,Employed,Other,4171.93,1144.89,8378.56,240,623,Married,1,High School,Mortgaged,1
+52,Female,Self-Employed,Other,4584.82,738.51,117107.56,12,666,Married,1,Master,Parental,0
+67,Male,Self-Employed,Sales,5752.17,1255.87,46420.87,84,761,Married,3,Master,Rented,1
+42,Female,Employed,Engineer,5991.74,218.34,45623.75,240,729,Married,4,Bachelor,Owned,1
+43,Male,Employed,Clerk,4875.7,890.11,29449.34,60,553,Married,2,Bachelor,Owned,1
+22,Male,Student,Accountant,500.0,105.42,41971.12,24,645,Married,2,High School,Mortgaged,0
+47,Female,Employed,Other,6760.27,918.25,11198.88,60,628,Married,4,PhD,Rented,1
+62,Male,Employed,Manager,6146.59,448.59,136475.13,12,555,Divorced,2,Bachelor,Mortgaged,0
+22,Male,Self-Employed,Teacher,2688.21,707.57,83272.44,240,702,Married,4,Bachelor,Rented,1
+46,Female,Employed,Manager,3643.6,812.06,114497.3,240,672,Married,4,Bachelor,Parental,1
+37,Male,Employed,Manager,4181.77,1128.9,129206.74,84,841,Widowed,1,Bachelor,Mortgaged,1
+60,Male,Employed,Sales,3989.36,979.47,194634.49,240,653,Single,0,Master,Mortgaged,1
+53,Male,Unemployed,Doctor,2044.76,607.52,18311.84,36,617,Single,1,Bachelor,Rented,0
+29,Female,Employed,Doctor,5653.6,325.94,86493.95,48,610,Divorced,2,PhD,Rented,1
+63,Female,Employed,Clerk,5836.68,151.9,52950.1,84,643,Married,0,Bachelor,Rented,1
+68,Male,Employed,Doctor,5287.5,534.57,97958.83,48,727,Divorced,4,Diploma,Rented,1
+59,Male,Unemployed,Manager,858.16,33.21,184492.1,12,736,Single,2,PhD,Rented,0
+49,Male,Employed,Sales,2627.27,412.32,146176.93,120,900,Married,3,Bachelor,Owned,1
+62,Male,Retired,Accountant,4191.28,795.96,134080.17,60,583,Single,2,Bachelor,Rented,0
+46,Female,Employed,Clerk,4154.78,720.8,91042.95,180,686,Married,0,Other,Rented,1
+55,Male,Retired,Farmer,2950.27,229.45,135866.94,240,625,Single,0,High School,Rented,1
+45,Male,Retired,Accountant,2290.24,624.43,11313.2,60,708,Single,4,Bachelor,Owned,1
+44,Female,Employed,Engineer,5218.81,33.15,119316.54,180,790,Single,3,Diploma,Rented,1
+33,Female,Employed,Engineer,5859.64,611.77,112986.43,12,748,Married,4,Bachelor,Owned,1
+27,Female,Employed,Engineer,3486.72,752.08,72594.88,12,583,Married,3,Master,Mortgaged,0
+56,Male,Employed,Engineer,5379.12,1237.62,44295.25,120,734,Single,3,Other,Rented,1
+65,Male,Self-Employed,Sales,3326.5,415.27,162473.33,84,510,Single,4,Bachelor,Owned,0
+40,Male,Employed,Accountant,6982.19,35.42,15503.11,60,489,Single,2,Master,Owned,1
+21,Male,Employed,Other,3328.06,617.07,18586.21,60,660,Divorced,1,PhD,Rented,1
+28,Female,Employed,Teacher,3496.23,66.18,90901.74,240,728,Single,3,Bachelor,Owned,1
+66,Female,Student,Clerk,500.0,16.18,54248.14,12,707,Single,0,Diploma,Parental,0
+36,Female,Employed,Farmer,3611.53,704.52,150363.22,180,832,Married,4,Bachelor,Rented,1
+34,Female,Employed,Manager,4663.43,437.18,128667.06,24,688,Married,2,Other,Owned,1
+32,Male,Employed,Engineer,4208.17,439.37,155644.29,120,671,Married,3,Other,Rented,1
+43,Female,Student,Farmer,1132.62,165.41,68312.4,84,772,Married,2,Bachelor,Owned,0
+35,Male,Self-Employed,Teacher,5512.11,1618.21,149401.19,24,650,Divorced,4,Master,Mortgaged,0
+48,Female,Employed,Farmer,5106.92,1479.13,173149.13,36,711,Single,0,Diploma,Rented,0
+54,Male,Employed,Accountant,5243.53,654.8,72328.53,48,715,Widowed,3,Diploma,Parental,1
+22,Male,Employed,Farmer,3414.02,271.93,71279.69,120,602,Married,3,Other,Rented,1
+52,Male,Employed,Engineer,4798.91,435.63,180490.52,180,710,Married,2,High School,Mortgaged,1
+43,Female,Retired,Teacher,2367.37,190.89,14709.1,24,854,Married,4,Diploma,Owned,1
+42,Male,Unemployed,Manager,1522.46,243.1,73286.93,180,770,Married,1,Bachelor,Rented,1
+45,Male,Employed,Other,3853.15,701.5,28141.14,240,612,Single,3,Bachelor,Mortgaged,1
+42,Male,Student,Doctor,500.0,73.32,10651.22,120,867,Single,0,Bachelor,Rented,1
+42,Female,Employed,Engineer,5476.14,670.27,27009.54,12,735,Widowed,3,Bachelor,Owned,1
+69,Female,Self-Employed,Teacher,6970.15,441.81,89092.93,84,713,Married,3,PhD,Rented,1
+62,Female,Student,Accountant,736.08,106.55,138956.43,180,672,Married,1,PhD,Owned,0
+26,Male,Employed,Sales,5252.31,537.47,61410.07,60,734,Married,1,Bachelor,Rented,1
+35,Female,Unemployed,Teacher,1922.03,312.29,170686.68,24,688,Married,4,Bachelor,Rented,0
+63,Male,Employed,Doctor,5764.86,1167.71,90335.05,60,681,Single,3,Master,Rented,1
+57,Female,Employed,Doctor,5774.72,1097.16,193804.47,180,669,Married,3,Bachelor,Owned,1
+53,Female,Employed,Clerk,4857.21,673.92,191060.36,24,757,Married,2,Bachelor,Rented,1
+28,Male,Employed,Other,4886.4,815.13,155788.86,12,749,Single,2,Bachelor,Owned,0
+64,Male,Self-Employed,Doctor,2867.28,245.03,186819.07,48,668,Widowed,0,Bachelor,Parental,1
+64,Male,Retired,Clerk,3729.56,27.12,142883.73,48,558,Single,0,Diploma,Owned,0
+25,Male,Self-Employed,Clerk,4695.33,880.4,179638.72,240,682,Married,2,Bachelor,Parental,1
+59,Male,Student,Clerk,2075.75,157.28,51112.37,36,622,Single,0,Bachelor,Rented,0
+24,Female,Unemployed,Teacher,500.0,100.34,72356.94,48,642,Married,3,Master,Rented,0
+26,Male,Employed,Clerk,6245.2,1399.57,151821.36,36,670,Married,1,Master,Owned,1
+65,Male,Employed,Engineer,6700.0,1841.02,87789.44,24,595,Married,3,Bachelor,Rented,0
+52,Male,Employed,Engineer,3179.06,913.78,168278.85,48,551,Married,2,Master,Rented,0
+50,Male,Self-Employed,Sales,3554.69,11.23,176139.58,180,703,Single,4,High School,Rented,1
+67,Female,Retired,Doctor,4762.54,1415.01,63447.25,12,682,Married,4,Bachelor,Owned,0
+55,Male,Employed,Other,4025.67,824.88,165572.91,180,679,Married,2,Master,Parental,1
+60,Female,Self-Employed,Clerk,4793.14,925.35,35081.53,180,720,Widowed,3,Bachelor,Parental,1
+36,Female,Self-Employed,Accountant,4012.86,18.31,70168.36,36,627,Married,0,Bachelor,Rented,1
+33,Female,Self-Employed,Accountant,4496.32,1161.71,106003.17,84,706,Single,0,Bachelor,Rented,1
+62,Female,Employed,Doctor,5058.58,220.79,49156.53,48,786,Single,4,PhD,Rented,1
+50,Male,Employed,Sales,6119.26,1537.15,117957.23,12,659,Divorced,2,Bachelor,Rented,0
+39,Female,Employed,Accountant,3467.72,16.19,117845.54,12,831,Married,2,Master,Owned,1
+37,Male,Employed,Engineer,3630.02,703.46,45346.06,60,683,Single,1,Other,Rented,1
+39,Male,Employed,Farmer,7196.77,938.75,160150.06,180,611,Married,4,Master,Mortgaged,1
+48,Female,Self-Employed,Teacher,7150.54,430.68,128170.68,12,747,Married,2,Bachelor,Owned,1
+46,Female,Employed,Manager,4991.87,161.08,66963.3,24,670,Widowed,1,High School,Rented,1
+57,Female,Student,Accountant,3572.9,471.76,50276.03,120,764,Divorced,0,Bachelor,Mortgaged,1
+46,Male,Employed,Other,3842.34,142.13,176356.28,180,713,Widowed,4,Bachelor,Owned,1
+43,Male,Self-Employed,Clerk,3202.62,467.37,167969.74,36,653,Divorced,4,Master,Owned,0
+29,Female,Employed,Other,7186.23,1347.89,49803.33,180,801,Divorced,2,Bachelor,Mortgaged,1
+32,Male,Self-Employed,Teacher,5206.16,1292.25,11943.02,12,640,Single,2,Other,Owned,1
+21,Female,Retired,Engineer,5409.64,1101.37,161883.86,240,506,Married,3,Bachelor,Owned,0
+21,Female,Employed,Sales,5702.83,111.55,125024.17,24,750,Married,0,Master,Rented,1
+67,Male,Employed,Teacher,3481.18,321.07,24672.0,24,707,Widowed,0,Bachelor,Rented,1
+54,Male,Unemployed,Manager,835.37,72.17,119534.85,48,782,Married,1,Bachelor,Mortgaged,0
+52,Male,Employed,Farmer,6803.0,1867.49,93175.62,36,609,Single,1,Master,Rented,1
+68,Male,Employed,Accountant,4800.9,1249.84,156037.31,48,660,Married,3,Bachelor,Rented,1
+45,Female,Employed,Sales,4570.35,507.51,45771.54,84,651,Married,0,High School,Rented,1
+60,Male,Employed,Sales,5725.78,122.23,93365.57,120,754,Single,1,Bachelor,Parental,1
+65,Female,Self-Employed,Accountant,3160.74,847.81,35467.6,60,732,Married,0,Bachelor,Owned,1
+21,Male,Employed,Accountant,5443.25,1450.39,191717.81,24,697,Married,0,Master,Owned,0
+36,Other,Student,Accountant,1095.25,280.85,156853.94,36,697,Married,1,Other,Parental,0
+59,Male,Unemployed,Accountant,500.0,126.76,148660.87,36,587,Married,2,High School,Parental,0
+25,Male,Self-Employed,Accountant,5471.11,788.26,139590.3,60,741,Single,2,Bachelor,Owned,1
+42,Male,Self-Employed,Sales,4968.98,264.5,87550.61,60,743,Divorced,1,Bachelor,Owned,1
+49,Female,Student,Doctor,500.0,71.62,185040.07,48,863,Married,3,Other,Rented,0
+23,Female,Employed,Doctor,4977.56,738.57,19218.82,180,717,Single,4,PhD,Owned,1
+32,Female,Student,Other,593.09,87.17,161635.52,84,730,Married,0,Master,Rented,0
+46,Male,Unemployed,Doctor,500.0,80.82,46970.38,84,718,Married,4,Bachelor,Owned,0
+36,Male,Self-Employed,Manager,1452.6,112.28,68185.45,12,624,Single,1,Diploma,Owned,1
+57,Male,Self-Employed,Doctor,3274.26,359.75,106288.8,84,779,Married,0,Bachelor,Rented,1
+42,Male,Employed,Sales,4063.96,529.35,157617.73,36,675,Married,4,Bachelor,Parental,1
+49,Male,Employed,Accountant,5172.34,203.46,168514.31,84,664,Married,2,Master,Rented,1
+34,Other,Unemployed,Clerk,1161.05,158.61,118827.79,84,669,Married,3,Bachelor,Rented,0
+48,Female,Employed,Clerk,3796.72,923.14,83591.92,24,674,Married,4,Master,Parental,0
+25,Female,Unemployed,Manager,1060.25,263.38,189567.97,12,641,Single,3,Bachelor,Rented,0
+67,Female,Employed,Sales,3565.63,440.25,53071.65,36,697,Widowed,2,Master,Rented,1
+69,Male,Employed,Engineer,4812.06,748.96,161603.44,60,672,Single,4,High School,Rented,1
+50,Male,Employed,Teacher,4096.37,41.35,124349.68,48,665,Married,1,Diploma,Owned,0
+66,Female,Employed,Other,6119.26,1238.11,78494.53,120,719,Single,0,Diploma,Rented,1
+25,Female,Employed,Engineer,5175.16,628.17,5266.76,48,686,Single,2,Master,Rented,1
+32,Male,Employed,Sales,4834.75,646.13,92086.86,180,635,Married,3,High School,Owned,1
+36,Male,Retired,Doctor,2062.13,540.49,58960.4,120,618,Single,3,Master,Owned,0
+46,Male,Self-Employed,Accountant,3506.74,485.86,25347.59,240,687,Married,2,Diploma,Rented,1
+46,Male,Employed,Engineer,7743.59,49.23,19655.92,12,620,Single,1,Bachelor,Rented,1
+68,Female,Self-Employed,Teacher,3248.37,221.69,72773.87,60,614,Married,1,PhD,Owned,1
+41,Female,Student,Clerk,1719.11,245.29,124877.69,48,615,Married,3,Bachelor,Owned,0
+59,Male,Self-Employed,Teacher,3831.03,487.76,168316.27,84,700,Single,2,Diploma,Parental,1
+56,Female,Employed,Accountant,5676.24,1465.1,40794.83,12,775,Divorced,2,Bachelor,Rented,1
+53,Female,Student,Doctor,2255.46,366.83,87805.57,84,707,Single,0,PhD,Owned,1
+50,Male,Unemployed,Teacher,500.0,103.45,81431.45,12,750,Single,3,Bachelor,Rented,0
+57,Male,Employed,Other,6064.66,853.89,105111.83,12,674,Married,1,Bachelor,Owned,1
+43,Male,Employed,Teacher,9134.96,1204.87,162869.52,180,691,Married,4,Bachelor,Mortgaged,1
+30,Male,Self-Employed,Sales,4851.31,649.52,112960.82,24,812,Married,1,Bachelor,Mortgaged,1
+25,Female,Employed,Doctor,7420.37,914.76,170097.71,84,746,Single,1,Diploma,Rented,1
+56,Male,Unemployed,Accountant,1221.57,197.38,106117.59,84,754,Married,4,Bachelor,Mortgaged,0
+54,Female,Employed,Clerk,3602.06,270.63,122750.24,84,658,Married,3,Master,Owned,1
+51,Male,Student,Clerk,1413.54,377.86,90289.73,180,679,Single,0,Bachelor,Mortgaged,1
+30,Male,Self-Employed,Teacher,3504.42,350.18,165503.64,48,712,Married,1,Master,Owned,0
+39,Male,Employed,Sales,4106.09,181.72,185146.31,36,631,Married,1,Master,Rented,1
+52,Male,Employed,Engineer,4891.12,141.67,129633.22,84,490,Married,3,PhD,Parental,1
+21,Male,Self-Employed,Engineer,3767.87,15.17,165052.58,48,711,Single,3,Diploma,Rented,1
+25,Female,Unemployed,Sales,500.0,63.43,16505.65,24,756,Married,2,Bachelor,Parental,0
+65,Female,Unemployed,Other,4562.69,256.8,181691.79,84,684,Single,3,Master,Owned,0
+24,Female,Employed,Engineer,6211.81,40.34,41840.39,60,632,Married,3,Diploma,Rented,1
+36,Male,Employed,Engineer,5366.59,837.22,55021.48,240,653,Married,1,High School,Owned,1
+44,Male,Employed,Accountant,5134.82,1047.47,15399.36,84,517,Married,0,Master,Rented,1
+36,Male,Self-Employed,Accountant,5803.52,149.3,193253.02,36,653,Married,1,Bachelor,Owned,1
+22,Female,Employed,Doctor,8113.36,1121.88,171142.12,60,590,Divorced,3,Bachelor,Owned,1
+69,Male,Employed,Other,6027.63,1344.7,183071.0,180,624,Married,2,Bachelor,Owned,1
+48,Male,Self-Employed,Other,4181.79,1236.73,170207.15,240,586,Married,0,Master,Mortgaged,1
+52,Female,Retired,Doctor,5208.97,1042.61,98508.46,180,577,Single,2,Bachelor,Owned,1
+47,Male,Employed,Other,5213.54,382.94,185195.98,36,599,Married,4,Master,Mortgaged,0
+40,Male,Employed,Manager,5652.97,1215.2,194047.2,240,730,Married,2,Bachelor,Owned,1
+44,Male,Self-Employed,Farmer,5501.52,986.86,103000.56,36,639,Married,2,Bachelor,Owned,1
+32,Female,Self-Employed,Accountant,3420.28,217.32,39246.83,180,591,Widowed,3,Bachelor,Rented,1
+55,Female,Employed,Doctor,1886.25,481.62,133431.39,240,740,Divorced,3,Diploma,Parental,1
+53,Male,Student,Doctor,500.0,64.11,195210.47,120,690,Married,3,Bachelor,Owned,0
+53,Male,Unemployed,Other,1659.5,478.92,175068.64,48,490,Married,3,Bachelor,Owned,0
+63,Other,Employed,Engineer,6053.83,1312.9,173053.96,240,759,Married,3,PhD,Mortgaged,1
+57,Female,Employed,Clerk,7014.01,1356.29,187094.51,36,685,Single,2,Bachelor,Rented,1
+32,Male,Employed,Teacher,4404.75,962.46,179320.69,36,741,Single,4,Bachelor,Mortgaged,0
+23,Female,Unemployed,Teacher,2871.39,411.84,156374.92,24,661,Married,3,Bachelor,Owned,0
+21,Male,Employed,Doctor,5277.6,799.92,145063.2,36,808,Married,4,Master,Rented,1
+53,Female,Self-Employed,Manager,4906.62,1252.97,56629.6,12,649,Divorced,4,Bachelor,Owned,0
+60,Female,Self-Employed,Doctor,5355.42,1094.0,126161.3,48,469,Single,1,Bachelor,Rented,0
+30,Male,Employed,Accountant,2927.5,788.0,106690.28,180,608,Married,1,Master,Mortgaged,0
+63,Female,Self-Employed,Other,2492.65,666.16,173079.1,60,720,Married,0,Bachelor,Mortgaged,1
+64,Female,Retired,Other,1442.86,422.68,100883.95,24,692,Married,1,Bachelor,Rented,0
+49,Female,Employed,Manager,6608.33,1388.17,29909.84,36,670,Divorced,3,Bachelor,Parental,1
+33,Male,Employed,Accountant,4541.82,684.41,5969.63,12,601,Widowed,4,Master,Owned,1
+32,Male,Employed,Clerk,8041.37,401.21,137185.26,24,681,Single,0,Bachelor,Owned,1
+51,Male,Student,Engineer,1005.06,212.69,112232.14,12,678,Single,1,High School,Rented,0
+66,Female,Retired,Accountant,792.94,69.36,69537.77,24,678,Single,2,Master,Rented,0
+22,Male,Employed,Sales,3991.37,338.8,37949.57,36,723,Married,0,High School,Owned,1
+55,Female,Unemployed,Farmer,676.06,48.33,96009.49,12,694,Married,3,Master,Rented,0
+43,Female,Employed,Doctor,5772.78,1515.57,24555.86,240,659,Married,4,High School,Rented,1
+37,Male,Employed,Sales,3522.74,917.28,70541.16,60,599,Married,3,Bachelor,Mortgaged,1
+46,Female,Employed,Manager,5852.72,1107.87,78946.32,180,788,Married,3,High School,Mortgaged,1
+28,Male,Employed,Sales,6253.31,887.31,95795.65,60,838,Married,2,Bachelor,Rented,1
+49,Female,Employed,Other,4038.58,814.32,95991.05,180,819,Married,2,Bachelor,Owned,1
+46,Male,Self-Employed,Engineer,6953.74,1266.75,55116.1,120,735,Married,4,Diploma,Rented,1
+30,Male,Employed,Teacher,4201.01,523.95,170791.14,48,545,Single,1,Bachelor,Mortgaged,0
+46,Male,Student,Doctor,500.0,56.94,74330.98,120,536,Married,3,PhD,Owned,0
+54,Male,Employed,Teacher,2706.17,310.77,49769.53,84,636,Married,1,Bachelor,Rented,1
+61,Female,Employed,Other,6830.96,1207.3,39282.93,36,675,Married,4,Master,Parental,1
+27,Female,Employed,Other,5034.32,978.17,67902.79,240,672,Divorced,3,PhD,Owned,1
+24,Female,Self-Employed,Doctor,3281.07,444.66,18172.81,240,695,Divorced,1,Other,Owned,1
+65,Male,Employed,Teacher,2788.79,810.44,11416.97,60,568,Married,3,Master,Owned,1
+31,Male,Employed,Accountant,4416.12,111.08,123002.73,180,808,Married,2,Bachelor,Rented,1
+49,Male,Retired,Other,6572.17,684.26,125733.69,120,800,Married,2,Other,Parental,1
+56,Female,Employed,Teacher,1783.27,224.2,108269.7,240,575,Married,0,Master,Rented,1
+45,Female,Employed,Clerk,4052.51,20.57,153645.61,120,531,Single,4,Master,Rented,0
+41,Male,Unemployed,Teacher,3189.18,349.17,12634.36,48,672,Single,1,High School,Rented,1
+56,Male,Employed,Clerk,6873.46,564.4,187514.76,48,780,Single,3,Other,Rented,1
+30,Female,Employed,Clerk,4144.06,629.11,23537.7,180,677,Single,0,Master,Rented,1
+57,Female,Employed,Other,5305.39,535.44,136434.48,84,700,Married,4,Master,Owned,1
+29,Female,Employed,Doctor,5694.41,1240.55,31012.33,240,644,Widowed,4,High School,Rented,1
+44,Female,Employed,Manager,5200.76,795.61,176581.56,120,691,Single,4,Diploma,Rented,1
+55,Male,Employed,Other,7676.68,298.84,104589.09,120,755,Divorced,1,Other,Owned,1
+69,Male,Employed,Doctor,5509.63,1239.77,21047.24,48,712,Single,2,Bachelor,Rented,1
+55,Female,Employed,Doctor,6703.27,199.55,125261.2,36,726,Single,0,Bachelor,Parental,1
+68,Female,Unemployed,Sales,772.4,194.42,6776.44,180,546,Married,1,Master,Rented,0
+56,Male,Employed,Farmer,1951.42,545.28,156324.32,120,851,Married,3,High School,Parental,1
+38,Female,Employed,Other,3211.38,310.65,131864.07,48,547,Single,1,Bachelor,Owned,0
+69,Female,Student,Doctor,500.0,138.92,46461.83,48,692,Single,3,Bachelor,Mortgaged,0
+59,Female,Self-Employed,Sales,3626.07,862.65,78076.43,12,667,Married,3,Bachelor,Owned,0
+52,Female,Employed,Clerk,8117.62,2246.39,6522.31,120,671,Single,4,Bachelor,Owned,1
+44,Male,Retired,Manager,3543.62,708.3,140268.34,12,749,Married,1,Diploma,Rented,0
+43,Female,Employed,Manager,4841.32,342.25,67920.29,48,623,Married,2,Diploma,Rented,1
+52,Female,Employed,Clerk,6857.84,1840.35,116459.84,36,645,Single,3,Bachelor,Mortgaged,0
+57,Female,Unemployed,Teacher,500.0,27.64,191561.89,36,588,Divorced,4,PhD,Rented,0
+32,Female,Employed,Teacher,4265.46,272.64,63396.01,12,769,Single,2,Bachelor,Rented,1
+69,Female,Employed,Other,4044.01,328.85,198096.39,48,701,Married,1,Bachelor,Parental,0
+33,Male,Employed,Farmer,5597.06,510.87,128382.04,12,730,Married,2,Diploma,Rented,1
+43,Female,Employed,Sales,6343.75,979.12,52207.29,180,744,Widowed,1,Master,Owned,1
+45,Female,Employed,Manager,5707.23,1221.56,90171.69,12,839,Married,3,Other,Owned,1
+55,Female,Student,Engineer,1730.97,480.97,149388.36,84,825,Married,0,Bachelor,Rented,1
+61,Female,Employed,Engineer,4458.34,118.29,92063.19,120,705,Single,0,Bachelor,Mortgaged,1
+50,Female,Student,Accountant,1481.14,424.07,18358.98,24,692,Married,3,Bachelor,Owned,0
+37,Male,Self-Employed,Doctor,2740.24,757.39,37877.71,48,637,Married,2,Master,Owned,0
+69,Male,Unemployed,Clerk,1511.21,24.48,159303.06,36,739,Married,1,Bachelor,Owned,0
+40,Male,Self-Employed,Doctor,3249.1,351.22,131432.75,240,736,Divorced,0,Bachelor,Rented,1
+68,Male,Self-Employed,Doctor,2317.74,565.4,116115.97,120,621,Single,1,Master,Owned,1
+45,Female,Employed,Sales,5056.73,927.77,37686.28,24,737,Divorced,3,Other,Owned,1
+42,Female,Employed,Accountant,2130.33,497.92,168362.7,84,760,Divorced,2,Diploma,Rented,1
+33,Male,Employed,Farmer,7211.56,1555.6,192344.32,240,590,Married,1,Other,Mortgaged,1
+39,Male,Student,Accountant,2195.65,327.22,12972.98,36,695,Married,2,Bachelor,Rented,0
+69,Female,Unemployed,Manager,1005.45,12.43,20216.21,84,674,Married,0,Master,Rented,0
+56,Male,Employed,Sales,2564.47,449.5,177521.28,36,679,Widowed,1,Bachelor,Owned,0
+32,Male,Employed,Doctor,3949.71,57.55,164032.69,36,603,Single,4,Bachelor,Parental,0
+61,Male,Employed,Farmer,5060.84,916.61,125497.22,48,533,Married,0,Bachelor,Rented,0
+39,Male,Self-Employed,Doctor,3605.34,865.73,189268.22,240,619,Married,2,Bachelor,Parental,1
+32,Male,Employed,Other,2467.15,432.98,131053.96,180,608,Divorced,3,High School,Parental,1
+29,Male,Unemployed,Other,500.0,149.55,47117.13,12,708,Married,4,Bachelor,Mortgaged,0
+27,Male,Retired,Teacher,2575.36,352.21,147085.25,12,709,Married,1,Bachelor,Owned,0
+48,Female,Employed,Accountant,3075.07,690.81,130913.52,120,705,Single,0,Diploma,Rented,1
+34,Male,Employed,Farmer,7057.08,1412.57,197220.22,36,568,Married,1,PhD,Owned,1
+51,Female,Employed,Other,5741.81,1707.78,46709.67,120,590,Single,1,Diploma,Mortgaged,1
+39,Male,Employed,Teacher,3794.8,811.96,121587.56,240,630,Divorced,4,Bachelor,Mortgaged,1
+67,Male,Employed,Sales,6753.73,332.35,157132.67,36,681,Married,4,Diploma,Parental,1
+36,Female,Employed,Farmer,6451.56,1849.37,71101.7,36,653,Married,4,Bachelor,Rented,0
+25,Male,Student,Teacher,1433.44,287.17,79037.52,24,704,Married,4,Bachelor,Rented,0
+55,Male,Employed,Clerk,4940.62,87.95,178140.86,12,758,Married,3,Bachelor,Rented,1
+32,Female,Employed,Farmer,4552.29,898.03,83818.0,240,600,Single,2,Diploma,Rented,1
+45,Female,Student,Teacher,500.0,132.47,126822.91,84,603,Single,4,High School,Rented,0
+41,Male,Unemployed,Doctor,500.0,86.56,178401.44,84,690,Single,0,Master,Rented,0
+56,Male,Employed,Clerk,7292.49,774.51,45916.18,180,673,Married,1,Bachelor,Parental,1
+43,Female,Self-Employed,Other,3219.23,792.81,196466.07,60,739,Single,4,Bachelor,Rented,1
+36,Male,Employed,Engineer,5042.3,1183.7,141880.94,240,680,Married,0,High School,Mortgaged,1
+59,Female,Unemployed,Teacher,500.0,81.63,101743.73,60,819,Married,3,Master,Mortgaged,0
+65,Female,Self-Employed,Sales,3610.82,167.21,89029.51,24,552,Married,0,Diploma,Rented,0
+62,Other,Self-Employed,Teacher,8276.17,623.16,191101.1,84,747,Single,0,PhD,Rented,1
+59,Male,Employed,Engineer,3911.0,866.46,45116.34,240,695,Single,3,Bachelor,Rented,1
+34,Female,Unemployed,Clerk,2672.89,646.37,65778.24,36,567,Single,3,Bachelor,Rented,0
+51,Female,Employed,Clerk,4958.29,415.4,65019.59,48,514,Married,1,Master,Owned,1
+25,Male,Employed,Farmer,6019.91,664.57,61356.24,180,589,Single,4,Master,Rented,1
+55,Male,Employed,Sales,6866.87,159.93,96364.92,84,776,Married,0,Bachelor,Parental,1
+43,Female,Employed,Sales,5408.4,1157.61,197889.95,120,767,Married,2,Bachelor,Owned,1
+49,Male,Employed,Sales,4472.44,4.8,178313.42,120,669,Single,2,Bachelor,Rented,1
+63,Male,Unemployed,Engineer,500.0,6.98,68950.17,48,651,Married,1,PhD,Mortgaged,0
+31,Male,Retired,Sales,2771.36,3.61,87459.67,84,611,Married,2,Bachelor,Rented,0
+38,Female,Employed,Manager,7796.56,1509.38,135548.75,240,665,Married,1,Diploma,Rented,1
+67,Female,Employed,Engineer,2773.81,347.33,8344.58,36,642,Single,4,Diploma,Mortgaged,1
+32,Female,Employed,Clerk,2343.91,209.23,164929.96,180,816,Single,1,Diploma,Rented,1
+29,Male,Employed,Engineer,2443.92,669.17,176560.62,120,581,Single,3,Bachelor,Owned,0
+30,Male,Employed,Doctor,3659.1,211.65,172154.07,48,711,Married,3,Diploma,Parental,0
+64,Female,Student,Doctor,2050.12,239.48,78135.61,36,820,Married,3,Bachelor,Rented,0
+37,Male,Employed,Sales,6142.13,1732.65,95089.9,120,741,Married,3,High School,Rented,1
+58,Male,Employed,Clerk,4088.75,523.9,7415.72,240,590,Divorced,3,Bachelor,Rented,1
+27,Female,Employed,Engineer,4957.26,824.93,82882.09,36,556,Single,3,Bachelor,Owned,1
+66,Other,Student,Engineer,500.0,12.05,94783.23,240,701,Single,3,Bachelor,Parental,0
+33,Female,Self-Employed,Engineer,2464.67,584.25,181859.99,180,692,Married,3,High School,Mortgaged,1
+60,Female,Retired,Manager,3869.8,490.8,179327.6,36,778,Single,3,High School,Owned,0
+62,Female,Unemployed,Doctor,2071.53,497.49,193388.93,180,723,Single,4,High School,Parental,0
+29,Male,Employed,Engineer,4284.77,326.24,177595.47,48,641,Married,3,Master,Mortgaged,1
+47,Female,Employed,Manager,7452.52,944.56,6599.14,84,635,Single,1,Bachelor,Rented,1
+22,Female,Self-Employed,Doctor,5448.41,1285.63,130084.87,24,575,Married,4,High School,Rented,0
+25,Male,Employed,Manager,7387.59,2158.38,18306.35,180,690,Single,2,Bachelor,Owned,1
+49,Female,Self-Employed,Farmer,3548.59,63.48,58155.89,240,567,Married,0,Bachelor,Rented,1
+57,Female,Employed,Doctor,7281.03,1774.66,117769.99,120,752,Married,4,Bachelor,Owned,1
+58,Female,Employed,Other,8269.31,745.95,141619.69,180,727,Single,3,Bachelor,Rented,1
+39,Female,Employed,Farmer,4381.22,723.88,132653.25,120,724,Divorced,4,Bachelor,Rented,1
+28,Female,Self-Employed,Engineer,3768.75,327.99,14566.38,48,574,Married,0,Bachelor,Mortgaged,1
+68,Female,Unemployed,Clerk,500.0,92.02,25202.75,12,668,Divorced,0,High School,Mortgaged,0
+65,Male,Employed,Manager,3283.68,348.53,30074.43,36,648,Single,3,Master,Owned,1
+21,Female,Employed,Manager,3301.17,330.4,22825.8,120,688,Married,3,Master,Mortgaged,1
+42,Male,Employed,Manager,3782.8,43.05,39755.71,120,722,Married,1,PhD,Rented,1
+37,Male,Employed,Manager,5412.11,238.61,139255.12,36,638,Married,0,High School,Rented,1
+27,Male,Employed,Clerk,3846.2,1058.18,167013.26,12,641,Married,3,Master,Owned,0
+45,Male,Employed,Teacher,5366.24,1607.1,84718.71,240,734,Married,0,Master,Mortgaged,1
+65,Male,Employed,Manager,5397.27,1263.8,140092.39,84,589,Divorced,1,PhD,Parental,1
+24,Female,Employed,Teacher,4294.81,369.54,44003.17,120,620,Married,2,Bachelor,Mortgaged,1
+56,Female,Employed,Clerk,4906.04,592.32,194789.63,12,680,Single,0,Master,Parental,0
+26,Female,Employed,Clerk,4208.13,933.58,73249.52,12,751,Married,1,High School,Rented,0
+51,Male,Employed,Farmer,4533.89,1317.34,169944.05,48,602,Married,1,Bachelor,Mortgaged,0
+39,Female,Employed,Doctor,3786.71,517.42,189346.44,120,823,Married,1,Bachelor,Rented,1
+64,Female,Employed,Other,5126.16,1275.68,173619.22,180,571,Married,4,Master,Owned,1
+59,Female,Self-Employed,Sales,3099.18,906.57,18078.19,240,804,Widowed,3,Master,Rented,1
+47,Male,Employed,Other,3250.9,851.87,131809.9,12,775,Married,0,Bachelor,Rented,1
+30,Male,Employed,Sales,5890.14,401.38,28417.69,48,565,Single,4,Bachelor,Owned,1
+46,Male,Employed,Clerk,5940.94,14.32,6104.29,48,549,Single,0,High School,Owned,1
+39,Male,Self-Employed,Other,5667.55,836.67,15097.77,36,737,Widowed,4,Bachelor,Owned,1
+59,Male,Student,Accountant,500.0,79.7,183649.09,120,649,Married,3,Bachelor,Rented,0
+23,Female,Unemployed,Doctor,500.0,30.19,182150.39,12,599,Divorced,1,Diploma,Owned,0
+65,Male,Self-Employed,Other,4345.74,371.14,49035.76,240,824,Single,0,Master,Owned,1
+33,Male,Employed,Doctor,4246.94,974.87,111676.94,180,584,Married,1,High School,Rented,0
+48,Male,Self-Employed,Teacher,4856.37,685.25,191230.51,24,621,Married,3,Bachelor,Parental,1
+40,Male,Self-Employed,Doctor,4746.9,451.93,101857.7,24,631,Single,0,Master,Mortgaged,0
+48,Male,Employed,Teacher,5718.94,1068.23,81747.67,180,456,Married,2,PhD,Rented,1
+28,Male,Employed,Manager,7189.5,1407.91,99233.5,12,687,Married,2,Master,Parental,1
+61,Male,Employed,Teacher,5966.12,1377.09,159092.07,120,607,Married,2,Diploma,Rented,1
+59,Female,Student,Farmer,1230.84,57.87,98069.14,240,744,Married,3,Master,Rented,1
+21,Female,Employed,Manager,4709.7,1047.7,157739.15,36,755,Married,2,Bachelor,Rented,1
+23,Male,Self-Employed,Clerk,3814.2,685.9,89181.0,120,698,Divorced,0,PhD,Rented,1
+33,Male,Employed,Engineer,3403.68,58.79,54141.11,84,699,Married,2,Master,Owned,1
+48,Female,Employed,Teacher,2351.43,548.43,68662.18,120,693,Married,0,Master,Rented,1
+69,Male,Employed,Teacher,5695.63,654.57,20175.58,120,623,Married,3,High School,Rented,1
+45,Male,Employed,Doctor,6835.45,677.49,101989.32,12,630,Married,1,Bachelor,Rented,1
+53,Female,Unemployed,Clerk,500.0,67.21,33881.63,36,785,Married,4,Master,Mortgaged,0
+58,Male,Self-Employed,Other,6380.64,662.65,163251.67,12,738,Single,2,Master,Rented,1
+26,Female,Employed,Accountant,4735.23,480.56,87015.16,60,696,Married,4,High School,Mortgaged,1
+64,Female,Unemployed,Sales,500.0,121.21,154175.45,36,728,Single,1,PhD,Rented,0
+65,Male,Employed,Teacher,6377.37,238.2,191119.78,12,675,Married,3,High School,Parental,1
+52,Male,Retired,Other,2281.07,664.2,170648.2,24,694,Single,3,Bachelor,Rented,0
+65,Female,Employed,Accountant,6513.17,1084.31,190535.42,60,727,Single,1,Bachelor,Parental,1
+67,Male,Employed,Sales,3083.71,169.23,115747.62,36,514,Widowed,4,High School,Mortgaged,0
+41,Male,Employed,Engineer,5618.07,221.15,37238.26,84,752,Married,2,High School,Rented,1
+36,Female,Employed,Doctor,3799.31,674.2,187402.21,240,746,Married,0,Master,Rented,1
+41,Female,Employed,Other,5302.11,1006.87,174358.36,84,617,Married,3,Bachelor,Owned,1
+31,Male,Self-Employed,Doctor,5149.91,81.92,173560.53,24,779,Married,1,High School,Parental,1
+57,Female,Student,Sales,1801.6,131.34,140188.51,24,502,Married,4,Master,Owned,0
+56,Male,Unemployed,Farmer,604.05,144.15,126858.67,180,708,Married,2,Master,Rented,0
+55,Female,Employed,Teacher,2932.31,43.65,7871.16,180,683,Widowed,4,Bachelor,Rented,1
+39,Female,Employed,Manager,6095.52,1563.66,150870.54,84,655,Single,2,Diploma,Rented,1
+40,Female,Employed,Accountant,6547.15,1292.73,22849.35,120,681,Divorced,0,High School,Rented,1
+38,Male,Employed,Clerk,3435.5,447.74,55651.43,12,726,Married,0,Master,Parental,1
+67,Female,Self-Employed,Teacher,2655.96,276.03,112540.61,240,535,Married,1,Bachelor,Rented,1
+61,Male,Employed,Manager,6610.34,38.17,93087.85,60,760,Single,1,Bachelor,Parental,1
+69,Female,Employed,Other,4687.34,1160.42,8076.01,240,647,Married,2,Master,Rented,1
+34,Male,Employed,Engineer,3694.83,158.2,165677.09,24,761,Married,2,Bachelor,Owned,1
+35,Male,Retired,Teacher,3408.83,316.55,176366.19,180,731,Widowed,2,High School,Owned,1
+51,Male,Employed,Doctor,4042.21,690.14,137965.22,120,645,Widowed,2,PhD,Mortgaged,1
+21,Female,Employed,Farmer,5241.56,386.82,110508.23,48,673,Widowed,0,Bachelor,Owned,1
+23,Female,Employed,Clerk,4380.19,653.27,192343.88,36,678,Single,1,Bachelor,Rented,0
+36,Male,Employed,Doctor,4508.73,1094.73,28391.46,48,808,Widowed,1,PhD,Owned,1
+43,Male,Employed,Manager,6665.6,940.92,148892.46,48,588,Married,3,PhD,Rented,1
+31,Female,Employed,Teacher,1297.21,369.31,30030.32,180,644,Divorced,1,Bachelor,Mortgaged,1
+32,Male,Unemployed,Farmer,1332.13,338.69,79459.74,48,553,Single,1,Bachelor,Rented,0
+30,Male,Employed,Teacher,6418.18,641.25,119169.48,60,689,Married,4,Other,Owned,1
+52,Female,Self-Employed,Other,3067.01,368.01,148732.1,24,630,Widowed,4,Bachelor,Owned,1
+36,Female,Retired,Engineer,4406.65,559.64,5724.64,48,639,Divorced,3,Bachelor,Rented,1
+28,Other,Unemployed,Sales,500.0,93.93,55816.59,120,798,Married,2,Bachelor,Owned,0
+58,Male,Employed,Teacher,4010.02,345.02,109949.08,36,614,Married,3,Bachelor,Rented,0
+32,Male,Employed,Manager,3837.25,1115.78,108910.37,12,667,Single,3,Master,Rented,0
+44,Female,Self-Employed,Doctor,5426.94,990.99,129337.15,180,643,Married,0,Bachelor,Owned,1
+48,Female,Self-Employed,Other,1382.58,165.66,64251.45,180,648,Married,1,Master,Rented,1
+28,Female,Employed,Manager,7460.22,1443.57,110403.2,84,900,Single,0,Master,Rented,1
+48,Female,Self-Employed,Clerk,3542.59,420.23,42008.42,120,541,Single,1,Master,Rented,1
+56,Male,Employed,Sales,5922.37,1452.99,41440.08,24,731,Single,3,Master,Rented,1
+46,Female,Employed,Other,5793.06,986.86,117429.97,60,874,Married,1,Master,Rented,1
+28,Male,Employed,Engineer,5226.85,65.81,138667.15,120,766,Single,2,Bachelor,Rented,1
+48,Male,Employed,Sales,4098.97,217.36,28477.99,240,683,Married,2,High School,Mortgaged,1
+48,Female,Employed,Manager,6863.56,1781.08,28944.03,12,586,Married,3,Master,Owned,1
+57,Male,Self-Employed,Clerk,3227.72,545.07,115234.02,36,784,Married,4,Bachelor,Rented,1
+61,Male,Employed,Accountant,3903.13,1112.79,57668.67,84,754,Married,2,High School,Rented,1
+56,Female,Employed,Engineer,6316.57,137.24,81517.82,120,557,Married,3,High School,Rented,1
+47,Male,Employed,Farmer,5218.62,462.26,83145.95,84,654,Married,0,Diploma,Mortgaged,1
+37,Female,Employed,Accountant,7036.73,408.57,39817.81,12,583,Married,4,Master,Rented,1
+29,Male,Employed,Teacher,4906.0,815.14,5256.35,48,451,Married,2,Master,Rented,1
+53,Female,Self-Employed,Clerk,3023.69,347.23,171364.6,84,581,Divorced,3,Diploma,Rented,0
+40,Male,Unemployed,Doctor,912.12,43.04,144425.38,180,688,Single,3,Master,Mortgaged,0
+33,Male,Unemployed,Farmer,500.0,96.41,139655.02,48,726,Single,0,Bachelor,Parental,1
+48,Female,Self-Employed,Manager,3067.12,493.47,111568.5,120,654,Married,0,Master,Rented,1
+68,Female,Employed,Clerk,6247.83,514.95,141689.08,36,789,Married,4,Bachelor,Mortgaged,1
+49,Male,Employed,Sales,7747.33,1115.08,187459.23,180,762,Married,2,Master,Owned,1
+33,Male,Employed,Other,4630.31,1035.9,134806.38,12,669,Single,3,Bachelor,Rented,1
+66,Female,Employed,Sales,3537.89,217.87,56692.82,48,659,Married,4,Bachelor,Owned,1
+55,Female,Retired,Sales,2769.82,243.39,116259.21,180,710,Single,4,Master,Owned,1
+26,Female,Employed,Teacher,5772.2,599.35,91253.26,48,678,Married,0,High School,Rented,1
+38,Female,Employed,Engineer,5386.22,1206.61,113501.73,24,565,Single,3,Other,Mortgaged,0
+25,Male,Student,Doctor,2791.35,709.22,105934.04,24,656,Married,1,Bachelor,Rented,0
+67,Male,Retired,Farmer,3997.63,451.4,172461.18,48,733,Widowed,0,Bachelor,Rented,0
+45,Female,Unemployed,Engineer,500.0,44.49,132101.02,48,785,Married,3,Bachelor,Rented,0
+22,Male,Employed,Clerk,4260.02,1136.72,41807.9,24,756,Married,4,High School,Rented,1
+30,Male,Employed,Sales,2928.75,878.07,17288.27,120,706,Married,4,Bachelor,Owned,1
+50,Female,Employed,Teacher,6717.02,1350.83,87750.94,84,796,Widowed,2,Other,Rented,1
+65,Female,Employed,Clerk,2012.17,597.6,8044.07,36,713,Married,1,Diploma,Rented,1
+25,Female,Employed,Other,3075.0,608.82,67067.99,180,672,Single,0,Master,Rented,1
+53,Female,Employed,Doctor,4232.3,931.27,76764.19,180,798,Married,2,Bachelor,Owned,1
+21,Female,Retired,Farmer,3845.88,448.42,78239.83,12,737,Married,2,Bachelor,Owned,0
+38,Male,Employed,Other,4217.52,547.81,195973.25,36,784,Single,1,Diploma,Rented,1
+52,Male,Self-Employed,Teacher,3452.16,149.27,64260.67,60,584,Single,0,Bachelor,Rented,1
+67,Male,Self-Employed,Doctor,3481.71,859.37,56719.36,24,611,Divorced,0,Other,Rented,0
+69,Male,Employed,Clerk,5259.17,1468.98,30229.28,60,614,Divorced,4,Diploma,Owned,1
+31,Female,Self-Employed,Sales,2169.23,405.71,104646.72,36,694,Married,0,Bachelor,Rented,0
+41,Male,Employed,Sales,3579.23,369.0,34966.49,240,825,Widowed,2,Bachelor,Mortgaged,1
+46,Male,Employed,Sales,7521.39,347.52,125177.47,12,588,Married,4,Bachelor,Mortgaged,1
+45,Male,Self-Employed,Accountant,4603.6,366.2,35256.16,48,752,Single,0,Bachelor,Mortgaged,1
+42,Male,Employed,Sales,6141.17,470.56,117451.3,84,583,Single,1,Bachelor,Owned,1
+47,Male,Retired,Accountant,3087.04,568.2,166122.5,240,849,Single,2,High School,Rented,1
+69,Male,Employed,Manager,4789.58,1357.9,13292.3,36,552,Single,3,PhD,Owned,1
+33,Male,Self-Employed,Accountant,4685.7,67.86,86850.66,36,739,Single,1,Master,Rented,1
+53,Male,Employed,Doctor,6091.42,1.87,94904.55,60,750,Married,1,Diploma,Owned,1
+54,Male,Employed,Other,6269.11,1128.78,159259.07,120,729,Married,0,Bachelor,Mortgaged,1
+61,Female,Employed,Doctor,4810.16,409.91,96243.55,60,609,Divorced,4,Master,Rented,1
+55,Male,Self-Employed,Other,5433.06,1435.22,115669.48,180,595,Married,4,Other,Rented,1
+21,Male,Unemployed,Manager,500.0,49.09,159284.83,60,781,Divorced,2,Other,Rented,0
+41,Female,Unemployed,Other,1838.43,159.8,114152.91,120,763,Married,0,Master,Owned,1
+68,Male,Employed,Other,4359.64,352.49,74868.39,84,762,Divorced,4,Diploma,Rented,1
+26,Female,Unemployed,Teacher,1330.07,57.8,21739.24,24,772,Married,3,PhD,Rented,0
+48,Female,Self-Employed,Engineer,3026.01,527.91,147333.55,36,557,Single,0,Master,Rented,0
+37,Male,Self-Employed,Engineer,2009.96,101.43,174871.94,48,554,Divorced,0,Bachelor,Mortgaged,0
+25,Female,Employed,Teacher,5509.56,701.86,194162.58,60,626,Married,4,Bachelor,Owned,1
+51,Male,Self-Employed,Sales,1747.7,241.69,185686.98,240,641,Married,1,Bachelor,Mortgaged,1
+25,Female,Unemployed,Teacher,500.0,3.07,160496.49,84,633,Single,0,Bachelor,Rented,0
+58,Male,Employed,Other,3781.36,19.07,130477.03,12,702,Married,1,Bachelor,Rented,0
+23,Female,Unemployed,Other,500.0,78.03,157384.73,36,769,Widowed,2,High School,Rented,0
+43,Male,Self-Employed,Teacher,5195.81,1084.94,89256.32,120,656,Single,2,High School,Parental,1
+57,Male,Employed,Teacher,4265.23,1205.54,120981.36,180,614,Divorced,4,Bachelor,Owned,1
+57,Female,Employed,Sales,5471.87,294.04,72996.46,120,745,Single,2,Bachelor,Rented,1
+30,Male,Employed,Doctor,6109.02,189.24,68708.3,60,657,Married,4,Master,Rented,1
+30,Male,Employed,Manager,4089.12,63.9,152554.9,180,688,Single,4,High School,Owned,1
+39,Female,Unemployed,Clerk,500.0,65.41,93516.89,240,653,Married,1,PhD,Owned,0
+37,Female,Employed,Other,7053.99,1318.7,46371.45,120,707,Single,1,Master,Mortgaged,1
+41,Male,Unemployed,Manager,500.0,126.08,44377.94,240,598,Married,2,PhD,Owned,0
+34,Female,Student,Teacher,1763.71,361.2,172538.61,12,738,Single,1,Master,Owned,0
+29,Female,Employed,Sales,5752.34,359.57,137163.3,240,677,Single,0,High School,Parental,1
+66,Female,Student,Accountant,500.0,69.27,111478.98,36,618,Married,3,Bachelor,Mortgaged,0
+21,Male,Retired,Sales,1858.69,507.61,83183.05,84,722,Single,0,High School,Owned,0
+65,Female,Self-Employed,Farmer,4563.02,447.28,89009.39,180,618,Single,0,Other,Rented,1
+33,Male,Unemployed,Farmer,500.0,74.81,16199.86,36,622,Single,4,Bachelor,Rented,0
+24,Other,Retired,Manager,2683.05,771.56,93707.48,48,583,Married,3,Bachelor,Mortgaged,0
+21,Male,Self-Employed,Engineer,2702.07,595.57,160113.71,120,543,Married,4,Master,Mortgaged,0
+69,Male,Employed,Farmer,6665.76,1495.28,80657.36,120,722,Single,1,PhD,Mortgaged,1
+60,Female,Unemployed,Farmer,1019.17,77.15,79798.34,48,773,Single,1,Master,Owned,0
+52,Male,Self-Employed,Doctor,5786.87,719.94,8064.73,240,643,Married,3,Bachelor,Rented,1
+54,Other,Self-Employed,Accountant,3941.31,97.36,94277.88,36,616,Single,2,Bachelor,Owned,1
+48,Female,Employed,Doctor,4829.17,878.7,9940.84,180,535,Divorced,1,Bachelor,Owned,0
+51,Female,Unemployed,Accountant,500.0,15.56,116218.14,180,506,Married,0,High School,Mortgaged,0
+28,Male,Employed,Clerk,4245.4,1064.63,103822.76,48,738,Married,3,Master,Owned,1
+59,Female,Student,Other,5026.98,1228.42,168801.66,120,522,Single,3,Bachelor,Rented,1
+46,Male,Employed,Farmer,6210.75,994.23,118447.22,48,588,Married,1,High School,Mortgaged,1
+54,Male,Employed,Other,3400.72,144.02,68068.33,12,702,Married,1,PhD,Rented,1
+23,Female,Employed,Farmer,8958.96,68.75,105665.05,12,687,Married,4,Bachelor,Owned,1
+32,Male,Employed,Doctor,4392.53,1049.87,141442.74,12,705,Married,4,Master,Mortgaged,0
+21,Male,Self-Employed,Clerk,4481.73,806.9,23322.94,24,680,Married,0,Master,Parental,1
+64,Female,Student,Doctor,2409.4,513.87,126109.45,84,651,Married,3,Master,Mortgaged,0
+25,Male,Unemployed,Doctor,500.0,45.57,183742.12,60,588,Single,2,High School,Rented,0
+50,Male,Employed,Accountant,3759.01,574.55,63330.41,24,629,Married,2,Diploma,Owned,1
+50,Female,Employed,Engineer,7472.25,1674.92,127191.89,180,656,Single,3,Master,Owned,1
+37,Male,Unemployed,Sales,500.0,69.38,165159.24,240,528,Married,0,Master,Rented,0
+68,Female,Student,Manager,2498.01,450.68,104802.25,120,617,Married,4,Bachelor,Owned,0
+67,Other,Employed,Other,4319.8,1023.44,145006.01,240,650,Married,4,Bachelor,Mortgaged,1
+43,Female,Employed,Farmer,4857.41,313.62,65647.02,48,624,Married,4,Diploma,Rented,1
+35,Female,Employed,Doctor,7677.89,151.86,64681.4,120,652,Single,2,Other,Rented,1
+57,Male,Student,Engineer,1656.27,264.25,135178.88,60,733,Single,2,Diploma,Mortgaged,0
+41,Male,Self-Employed,Doctor,3482.73,64.91,142554.73,60,743,Married,0,Diploma,Mortgaged,1
+34,Female,Employed,Clerk,3974.95,914.11,187716.89,36,800,Divorced,2,Bachelor,Rented,1
+22,Female,Employed,Accountant,4112.19,887.26,48843.52,240,559,Married,1,Diploma,Parental,1
+31,Female,Student,Sales,2862.34,757.13,96302.43,60,646,Single,2,PhD,Parental,0
+59,Male,Employed,Clerk,6148.25,1179.66,53850.13,84,778,Divorced,4,High School,Parental,1
+58,Male,Employed,Teacher,3276.99,66.06,20617.97,36,540,Widowed,0,High School,Mortgaged,1
+54,Male,Self-Employed,Doctor,4130.77,313.71,83629.95,120,585,Married,3,Bachelor,Mortgaged,1
+58,Female,Employed,Clerk,4899.78,1187.61,77945.75,240,630,Married,3,Bachelor,Rented,1
+54,Male,Employed,Sales,5474.14,274.47,57734.65,240,843,Married,0,Diploma,Owned,1
+38,Female,Unemployed,Engineer,500.0,104.77,62914.0,60,602,Married,1,Bachelor,Owned,0
+50,Female,Student,Engineer,2646.71,619.54,75280.3,120,766,Widowed,3,Bachelor,Owned,1
+35,Male,Unemployed,Other,500.0,49.52,197823.34,36,677,Single,4,Master,Owned,0
+47,Female,Student,Sales,1560.15,150.85,157676.76,84,588,Married,3,High School,Rented,0
+54,Male,Self-Employed,Engineer,2822.96,472.4,18923.23,180,900,Married,3,Other,Owned,1
+58,Female,Unemployed,Clerk,500.0,129.19,175120.57,180,695,Divorced,4,Bachelor,Parental,0
+53,Female,Employed,Other,8986.27,603.62,128494.15,24,710,Divorced,2,Diploma,Mortgaged,1
+44,Female,Self-Employed,Engineer,6700.12,1891.96,178665.78,84,722,Widowed,1,High School,Owned,1
+35,Female,Retired,Accountant,2895.48,520.42,71633.39,120,716,Married,4,Bachelor,Owned,1
+50,Male,Employed,Teacher,7299.51,2172.61,95581.18,120,852,Married,4,Diploma,Mortgaged,1
+62,Male,Employed,Sales,6819.11,183.33,179764.28,36,822,Married,0,Bachelor,Mortgaged,1
+37,Female,Employed,Clerk,4062.18,154.24,58151.76,240,605,Married,1,Diploma,Parental,1
+25,Male,Employed,Farmer,3912.6,970.3,183522.67,24,841,Single,2,Bachelor,Parental,1
+49,Male,Employed,Doctor,6003.01,1557.34,166557.44,36,623,Married,4,Bachelor,Parental,1
+24,Male,Unemployed,Clerk,890.09,118.95,196208.8,24,705,Widowed,2,High School,Rented,0
+30,Female,Retired,Engineer,2396.99,513.49,68230.23,240,563,Single,4,Bachelor,Owned,1
+37,Male,Employed,Clerk,6081.84,1582.9,50971.87,48,762,Single,4,Master,Mortgaged,1
+30,Female,Employed,Farmer,2836.28,36.7,69519.04,24,655,Married,0,High School,Owned,1
+37,Other,Employed,Doctor,5172.5,890.63,191156.71,36,588,Married,3,Master,Mortgaged,0
+40,Male,Student,Other,500.0,128.02,69949.29,48,775,Widowed,1,Bachelor,Rented,0
+44,Male,Employed,Engineer,3191.01,381.16,115216.3,84,794,Single,0,Other,Mortgaged,1
+25,Male,Employed,Manager,3939.85,357.4,83717.46,60,797,Single,2,High School,Owned,1
+54,Female,Employed,Engineer,5544.93,1323.64,82262.93,36,558,Married,4,Other,Rented,1
+26,Male,Employed,Teacher,3987.14,401.65,42708.83,180,805,Single,4,Bachelor,Rented,1
+22,Male,Employed,Manager,3172.84,3.02,109730.51,180,655,Single,1,Bachelor,Parental,1
+33,Male,Student,Teacher,1715.87,493.95,170633.83,120,844,Single,0,Bachelor,Owned,1
+63,Female,Self-Employed,Farmer,6239.12,1108.3,14649.58,36,729,Single,0,High School,Parental,1
+63,Male,Self-Employed,Sales,4958.28,1219.02,178399.19,12,700,Single,2,PhD,Mortgaged,0
+68,Female,Employed,Doctor,7702.7,1907.11,134767.23,60,680,Widowed,0,Bachelor,Mortgaged,1
+31,Female,Self-Employed,Accountant,6113.77,121.81,125263.93,12,678,Single,0,High School,Mortgaged,1
+67,Male,Self-Employed,Other,3268.86,167.56,127050.55,84,625,Married,3,High School,Rented,1
+43,Female,Employed,Accountant,5948.24,555.19,62772.62,120,594,Divorced,1,High School,Owned,1
+36,Male,Self-Employed,Farmer,3862.55,371.62,85953.18,60,650,Married,0,Bachelor,Owned,1
+51,Female,Employed,Sales,6593.15,1303.04,160861.55,48,775,Married,2,Bachelor,Mortgaged,1
+31,Female,Unemployed,Engineer,500.0,93.47,64744.3,24,568,Married,4,Bachelor,Mortgaged,0
+36,Female,Employed,Clerk,3816.96,566.35,96653.94,60,787,Married,0,Bachelor,Owned,1
+28,Male,Retired,Teacher,5060.11,320.71,8828.29,240,691,Divorced,0,Bachelor,Rented,1
+24,Male,Employed,Farmer,5476.69,627.6,148043.88,48,742,Married,4,Bachelor,Rented,1
+60,Male,Unemployed,Teacher,500.0,81.54,86451.92,24,746,Divorced,3,High School,Owned,0
+24,Male,Self-Employed,Engineer,3251.91,456.55,107444.96,84,754,Married,1,Bachelor,Rented,1
+45,Male,Unemployed,Sales,500.0,19.09,27364.42,180,681,Single,3,High School,Owned,0
+23,Male,Employed,Doctor,3497.38,681.48,198384.27,24,684,Divorced,2,PhD,Owned,0
+52,Male,Employed,Accountant,4283.73,93.88,63981.23,240,751,Married,0,Master,Rented,1
+23,Male,Unemployed,Engineer,1059.53,120.21,128822.98,120,596,Divorced,3,Other,Rented,0
+47,Female,Employed,Other,5096.09,1085.51,118341.09,24,584,Single,1,Bachelor,Owned,0
+49,Male,Employed,Manager,4342.67,26.09,158092.98,60,642,Married,2,Master,Rented,1
+52,Male,Self-Employed,Farmer,6243.26,1067.57,62298.21,60,703,Divorced,3,Bachelor,Owned,1
+39,Male,Employed,Accountant,1984.05,199.11,152405.83,120,833,Single,0,Bachelor,Owned,1
+41,Male,Employed,Other,5459.2,14.46,79587.84,60,683,Divorced,1,Diploma,Owned,1
+25,Female,Employed,Doctor,4785.86,273.34,85176.39,84,840,Widowed,0,Master,Owned,1
+38,Male,Employed,Other,3544.73,1000.62,136178.94,240,721,Divorced,0,PhD,Owned,1
+48,Female,Unemployed,Sales,1046.68,163.64,157935.73,36,643,Married,2,Diploma,Mortgaged,0
+62,Female,Self-Employed,Manager,3670.38,1098.06,135038.99,36,771,Married,1,Diploma,Rented,1
+42,Female,Unemployed,Teacher,2370.61,373.24,180476.51,180,660,Divorced,4,Bachelor,Owned,1
+41,Female,Retired,Accountant,4302.1,702.02,60606.01,84,700,Married,0,Other,Owned,1
+26,Female,Employed,Manager,7859.2,923.87,180620.26,36,573,Married,1,Master,Owned,1
+21,Other,Employed,Clerk,4275.02,397.63,30518.39,24,559,Widowed,0,Bachelor,Mortgaged,0
+25,Female,Employed,Engineer,7094.83,535.4,133608.41,24,724,Married,3,Bachelor,Rented,1
+61,Female,Employed,Clerk,3251.22,334.96,111787.98,24,768,Widowed,3,Bachelor,Owned,1
+32,Female,Retired,Engineer,2834.05,390.97,101454.01,60,835,Single,1,Master,Rented,0
+46,Female,Employed,Sales,4302.13,247.79,65627.85,60,615,Single,2,Master,Rented,1
+66,Female,Employed,Manager,5903.67,398.28,103227.89,12,797,Married,4,Bachelor,Owned,1
+54,Male,Employed,Doctor,5867.41,477.98,36545.8,24,785,Married,3,Bachelor,Rented,1
+69,Male,Self-Employed,Other,2649.07,357.04,77017.58,24,640,Married,2,PhD,Rented,0
+34,Male,Self-Employed,Manager,4987.29,976.73,24242.78,48,791,Single,4,Bachelor,Owned,1
+46,Male,Employed,Clerk,4429.27,1137.63,116510.09,120,755,Widowed,3,Other,Rented,1
+65,Male,Retired,Farmer,1774.8,152.88,23674.74,36,771,Single,4,Bachelor,Mortgaged,0
+47,Male,Employed,Engineer,4982.33,274.62,36267.21,60,853,Married,0,Master,Rented,1
+29,Female,Employed,Farmer,2784.73,316.5,21666.03,240,768,Single,1,Master,Rented,1
+46,Male,Student,Accountant,2396.96,643.14,79355.57,60,509,Married,3,Bachelor,Rented,0
+67,Female,Employed,Farmer,4916.57,14.54,169181.9,240,705,Single,3,Other,Rented,1
+42,Male,Student,Manager,949.38,193.07,181844.8,12,554,Single,0,High School,Mortgaged,0
+67,Male,Retired,Other,2869.25,410.73,19018.44,240,692,Married,3,Master,Rented,1
+50,Female,Self-Employed,Accountant,6470.28,312.6,128737.28,60,687,Single,3,Other,Owned,1
+63,Female,Unemployed,Doctor,2778.32,267.57,138455.16,180,633,Single,3,Bachelor,Rented,1
+68,Male,Employed,Doctor,7026.14,474.16,109085.14,60,597,Married,3,Bachelor,Rented,0
+37,Female,Retired,Sales,2872.44,756.46,135062.05,84,637,Single,3,Bachelor,Rented,0
+46,Female,Employed,Other,3326.56,480.89,50569.69,180,653,Married,2,Master,Mortgaged,1
+56,Male,Self-Employed,Teacher,3976.03,671.66,100480.62,24,669,Single,3,Master,Mortgaged,1
+21,Male,Student,Farmer,1471.6,262.1,81220.79,36,688,Single,0,Bachelor,Owned,0
+28,Other,Retired,Accountant,4218.92,809.55,22493.05,240,726,Married,3,Master,Parental,1
+69,Female,Unemployed,Manager,966.77,143.73,126983.51,60,654,Single,4,Bachelor,Rented,0
+55,Female,Employed,Manager,3460.26,18.55,101566.96,60,782,Divorced,4,Diploma,Mortgaged,1
+35,Female,Retired,Teacher,2196.88,220.6,58658.94,240,676,Divorced,0,Bachelor,Mortgaged,1
+67,Male,Self-Employed,Sales,3060.8,168.84,97368.63,36,753,Single,2,Bachelor,Rented,1
+42,Male,Retired,Teacher,3808.58,777.11,156183.11,48,655,Widowed,0,Diploma,Rented,0
+34,Male,Self-Employed,Engineer,4845.4,82.43,161323.26,120,899,Single,2,Bachelor,Parental,1
+46,Female,Employed,Clerk,6041.95,1021.94,131657.6,24,717,Single,1,Bachelor,Owned,1
+48,Female,Employed,Accountant,5451.55,344.48,96210.83,180,810,Single,4,Master,Owned,1
+43,Female,Self-Employed,Clerk,911.2,259.38,117271.18,60,624,Married,4,High School,Rented,0
+34,Male,Unemployed,Teacher,500.0,50.33,80078.0,12,644,Married,4,Bachelor,Mortgaged,0
+44,Male,Employed,Sales,4789.72,467.32,29678.49,36,659,Single,2,Bachelor,Parental,1
+22,Male,Self-Employed,Sales,4147.12,1148.82,80196.02,240,877,Married,0,PhD,Owned,1
+65,Female,Employed,Doctor,6880.5,861.47,108414.89,60,662,Married,2,Master,Mortgaged,1
+46,Female,Unemployed,Doctor,616.69,178.14,121772.63,180,614,Married,4,Master,Owned,0
+34,Male,Employed,Accountant,3536.08,25.64,187481.19,12,784,Married,4,PhD,Parental,1
+27,Female,Employed,Accountant,5993.25,550.8,156580.02,120,684,Divorced,4,Bachelor,Rented,1
+23,Male,Employed,Accountant,4974.12,994.12,34638.55,120,662,Single,4,Bachelor,Owned,1
+67,Female,Employed,Manager,4396.92,1175.11,38965.53,180,631,Single,1,Master,Owned,1
+43,Male,Employed,Doctor,2578.1,198.31,24596.48,36,719,Married,4,Master,Owned,1
+66,Female,Employed,Manager,5127.78,1431.39,148945.44,12,765,Married,2,Bachelor,Owned,1
+63,Male,Employed,Clerk,5343.23,952.36,142693.84,240,743,Married,4,Master,Mortgaged,1
+67,Female,Retired,Teacher,1505.78,361.84,197340.77,12,641,Single,3,Master,Owned,0
+65,Male,Student,Farmer,2116.54,252.21,106794.57,84,600,Married,1,Other,Parental,0
+38,Male,Employed,Doctor,5982.2,380.79,166150.91,240,358,Married,4,Other,Rented,1
+58,Male,Retired,Farmer,3073.37,840.17,117405.77,24,604,Married,3,Bachelor,Rented,0
+55,Male,Employed,Sales,5017.58,1404.63,175446.91,48,650,Single,2,Bachelor,Owned,1
+35,Male,Self-Employed,Doctor,5419.06,808.92,145599.1,24,675,Married,1,High School,Mortgaged,1
+45,Female,Self-Employed,Clerk,4551.3,8.87,130362.38,48,658,Married,4,Diploma,Rented,1
+57,Male,Employed,Doctor,3946.62,129.98,115198.92,24,900,Married,2,Master,Mortgaged,1
+48,Female,Employed,Manager,4703.53,808.58,145979.25,12,719,Divorced,3,Bachelor,Parental,0
+30,Female,Employed,Teacher,5835.27,41.62,86832.5,36,580,Married,1,Bachelor,Owned,1
+59,Female,Employed,Other,1951.52,232.37,23832.43,180,732,Single,4,Bachelor,Owned,1
+37,Male,Self-Employed,Teacher,2602.71,236.88,12797.3,60,711,Married,2,Master,Mortgaged,1
+59,Male,Employed,Teacher,6023.21,1290.8,98409.63,48,596,Married,1,Diploma,Mortgaged,0
+42,Female,Employed,Sales,6813.32,113.6,121861.86,60,703,Married,3,Bachelor,Rented,1
+46,Female,Employed,Clerk,6531.57,957.66,20375.56,84,722,Married,4,Bachelor,Rented,1
+64,Male,Employed,Farmer,6339.94,1101.46,60946.19,84,761,Single,1,Bachelor,Rented,1
+45,Male,Employed,Clerk,5194.62,961.98,67796.28,60,537,Married,3,Other,Rented,1
+37,Male,Employed,Other,3456.64,420.15,114745.13,84,731,Married,3,Master,Owned,1
+33,Other,Student,Sales,705.06,64.38,59304.08,240,792,Widowed,2,Bachelor,Rented,0
+40,Male,Employed,Teacher,2010.1,411.56,23651.48,60,831,Married,3,Master,Owned,1
+45,Male,Employed,Manager,6950.98,1767.43,37147.06,84,581,Married,3,Bachelor,Rented,1
+24,Female,Self-Employed,Sales,2774.33,577.3,38919.82,48,668,Married,0,Master,Parental,1
+30,Male,Employed,Accountant,4199.98,1174.44,169325.51,36,676,Married,3,Diploma,Mortgaged,1
+23,Male,Self-Employed,Doctor,5587.93,1202.41,60442.34,84,734,Married,4,Master,Parental,1
+61,Female,Self-Employed,Clerk,1578.06,361.98,144364.89,60,666,Married,1,Bachelor,Mortgaged,0
+65,Female,Employed,Sales,3215.9,161.99,115728.56,48,622,Widowed,4,High School,Rented,1
+38,Male,Employed,Accountant,5401.96,679.9,195522.56,60,697,Married,4,Bachelor,Mortgaged,1
+67,Male,Employed,Farmer,5780.57,841.17,58200.42,120,652,Single,2,Bachelor,Parental,1
+56,Male,Employed,Other,4892.45,376.17,35882.74,12,724,Married,0,Master,Parental,1
+67,Male,Employed,Other,4941.38,783.51,15147.38,12,615,Single,0,High School,Rented,1
+42,Female,Employed,Teacher,6902.57,602.16,51987.13,12,598,Single,4,Bachelor,Owned,0
+54,Male,Employed,Teacher,5954.48,1228.11,138393.82,24,785,Married,1,Master,Owned,1
+67,Male,Employed,Sales,5751.75,811.5,21625.35,240,861,Married,0,Bachelor,Owned,1
+28,Male,Self-Employed,Sales,5163.47,710.71,52716.86,60,825,Married,0,Master,Parental,1
+60,Female,Self-Employed,Doctor,3549.11,1047.32,171785.13,240,674,Single,4,Diploma,Rented,1
+69,Female,Employed,Engineer,8259.75,972.45,118675.83,60,764,Married,0,Bachelor,Mortgaged,1
+64,Female,Employed,Farmer,1538.7,167.24,18556.7,120,625,Married,2,PhD,Rented,1
+39,Male,Student,Teacher,3186.88,304.61,14298.21,84,720,Divorced,4,Bachelor,Rented,1
+62,Female,Self-Employed,Engineer,5353.16,1436.92,16918.96,24,633,Married,0,Bachelor,Owned,1
+61,Female,Student,Engineer,1372.43,204.52,188665.63,36,780,Married,0,Master,Owned,1
+57,Male,Employed,Doctor,5120.04,921.63,170724.93,60,769,Single,0,Bachelor,Rented,1
+26,Male,Self-Employed,Manager,3766.67,204.33,169763.31,48,846,Married,4,Master,Rented,1
+46,Male,Employed,Manager,6655.17,1080.02,185222.27,84,661,Married,1,PhD,Owned,1
+54,Male,Employed,Teacher,4940.2,407.05,103524.8,180,806,Divorced,3,High School,Mortgaged,1
+65,Male,Employed,Accountant,3908.17,856.64,53232.21,180,720,Single,0,Master,Rented,1
+26,Male,Employed,Doctor,6352.97,1586.71,83262.86,36,686,Married,3,Diploma,Mortgaged,1
+57,Male,Employed,Doctor,7377.15,1581.98,145178.49,48,706,Married,3,Bachelor,Owned,1
+53,Female,Employed,Clerk,2109.25,462.08,175826.41,12,815,Single,0,Master,Rented,1
+42,Male,Unemployed,Engineer,4035.64,620.45,89842.73,24,669,Married,0,Master,Owned,0
+41,Female,Student,Clerk,500.0,106.82,109399.29,240,673,Divorced,3,Master,Mortgaged,0
+26,Female,Employed,Engineer,3559.55,451.37,186697.68,24,514,Married,1,PhD,Rented,0
+26,Female,Employed,Manager,3132.67,612.27,25962.23,84,668,Widowed,3,Bachelor,Rented,1
+68,Female,Employed,Teacher,5001.27,388.66,173148.35,120,701,Single,1,Bachelor,Parental,1
+24,Male,Self-Employed,Farmer,2080.42,43.54,36064.96,84,619,Married,2,Bachelor,Owned,1
+50,Female,Employed,Manager,3262.61,404.7,99352.96,180,599,Married,1,Bachelor,Owned,1
+31,Male,Retired,Doctor,1967.17,272.52,47592.51,240,531,Married,4,Bachelor,Mortgaged,1
+50,Male,Employed,Farmer,5207.68,400.59,122574.79,180,633,Widowed,0,Master,Rented,1
+51,Female,Employed,Sales,5352.28,1168.47,113921.82,60,793,Single,2,Bachelor,Owned,1
+44,Male,Self-Employed,Farmer,5861.8,129.34,79101.44,180,561,Divorced,3,Master,Rented,1
+29,Male,Unemployed,Farmer,2327.22,155.52,173344.19,240,743,Married,1,Master,Owned,1
+23,Female,Employed,Manager,6536.92,1467.99,133663.6,180,750,Single,2,High School,Owned,1
+51,Female,Employed,Doctor,4607.57,604.22,145635.0,24,876,Divorced,4,Bachelor,Rented,1
+60,Female,Retired,Farmer,500.0,105.79,34378.65,24,763,Married,1,Bachelor,Mortgaged,0
+57,Male,Employed,Manager,2205.03,375.4,177217.31,36,756,Married,3,Bachelor,Rented,1
+56,Female,Student,Manager,2526.59,720.62,37572.83,120,709,Married,3,Master,Rented,1
+44,Male,Employed,Farmer,6265.63,1123.67,48443.07,240,680,Divorced,1,Bachelor,Mortgaged,1
+51,Female,Unemployed,Engineer,500.0,2.23,29970.75,180,748,Married,4,Master,Rented,1
+26,Female,Self-Employed,Doctor,1838.9,194.67,90870.05,240,779,Single,0,Master,Mortgaged,1
+22,Female,Employed,Other,3429.27,147.18,178103.3,84,693,Married,0,Bachelor,Mortgaged,1
+40,Female,Student,Farmer,1262.04,350.08,54227.27,12,783,Single,3,Master,Owned,1
+48,Male,Employed,Clerk,5264.84,164.28,77881.92,48,900,Married,4,High School,Rented,1
+31,Female,Employed,Clerk,6563.8,763.45,169982.95,84,685,Single,3,High School,Parental,1
+24,Female,Self-Employed,Sales,3324.47,225.5,125473.98,84,687,Single,0,High School,Parental,1
+35,Male,Employed,Doctor,4633.95,1177.1,151565.2,180,672,Single,3,Bachelor,Owned,1
+26,Female,Self-Employed,Manager,5687.98,526.54,46730.01,12,690,Married,1,Diploma,Owned,1
+69,Male,Employed,Teacher,1812.36,539.3,144715.52,24,777,Married,1,Other,Owned,1
+50,Female,Employed,Accountant,5476.18,63.44,49384.06,24,686,Married,4,Bachelor,Rented,1
+58,Female,Employed,Doctor,4498.66,173.12,197526.23,84,695,Single,0,Bachelor,Rented,1
+22,Female,Employed,Doctor,6069.14,409.01,114177.8,120,660,Married,4,Bachelor,Rented,1
+35,Male,Employed,Farmer,5768.91,1403.76,140649.66,24,719,Married,4,Bachelor,Mortgaged,0
+31,Female,Unemployed,Farmer,500.0,131.78,28088.31,60,639,Married,0,Bachelor,Rented,0
+28,Female,Student,Manager,500.0,10.72,53877.92,84,581,Divorced,2,Bachelor,Mortgaged,0
+46,Female,Unemployed,Sales,500.0,4.87,32249.43,48,715,Married,2,Bachelor,Owned,0
+65,Male,Employed,Farmer,6124.99,1368.12,81083.29,12,838,Married,3,Bachelor,Owned,1
+64,Male,Employed,Accountant,5359.66,214.42,60406.49,36,656,Single,2,Bachelor,Rented,1
+25,Female,Employed,Accountant,7097.77,283.2,147919.84,240,596,Single,1,Master,Owned,1
+26,Male,Employed,Sales,4400.9,29.53,26198.25,84,833,Divorced,4,High School,Rented,1
+46,Female,Employed,Engineer,6371.5,95.21,151651.58,24,683,Married,3,Master,Mortgaged,0
+24,Female,Employed,Engineer,3395.11,268.56,13912.44,240,755,Single,4,Bachelor,Owned,1
+39,Female,Employed,Doctor,942.82,18.39,44393.48,48,621,Married,0,Bachelor,Mortgaged,0
+40,Female,Retired,Farmer,2858.23,316.3,159433.17,180,680,Married,2,Bachelor,Rented,1
+53,Male,Employed,Clerk,4149.98,1036.8,149841.45,120,792,Married,0,Bachelor,Owned,1
+40,Male,Employed,Other,3423.77,335.17,97883.59,36,690,Divorced,3,Diploma,Rented,0
+69,Male,Employed,Sales,6347.16,1385.9,14746.63,180,691,Single,1,Other,Mortgaged,1
+32,Male,Employed,Doctor,6812.37,191.92,123929.28,48,560,Married,2,Bachelor,Rented,1
+67,Male,Student,Clerk,1158.13,229.09,84311.2,24,742,Single,0,Other,Rented,0
+21,Female,Employed,Farmer,4726.22,449.11,66722.99,60,617,Married,2,Bachelor,Parental,1
+46,Female,Employed,Clerk,5094.06,1145.79,129880.07,12,769,Single,4,Diploma,Mortgaged,1
+34,Female,Employed,Clerk,4020.61,164.34,90139.84,180,696,Divorced,1,Bachelor,Owned,1
+58,Female,Employed,Sales,5843.89,1574.14,23022.11,180,703,Married,2,High School,Mortgaged,1
+57,Other,Employed,Doctor,2690.94,195.83,183610.34,36,741,Married,1,PhD,Rented,1
+31,Female,Unemployed,Manager,500.0,52.97,156806.15,12,710,Single,4,Master,Mortgaged,0
+56,Female,Unemployed,Accountant,500.0,142.53,15993.75,48,817,Single,4,Master,Rented,0
+33,Female,Unemployed,Doctor,1312.03,227.7,107387.45,240,804,Single,0,Bachelor,Owned,1
+63,Male,Employed,Other,4546.27,498.87,21258.62,240,582,Married,3,Bachelor,Rented,1
+23,Male,Unemployed,Clerk,2540.59,723.76,168271.52,12,666,Married,0,Other,Rented,0
+53,Male,Employed,Manager,6204.96,612.57,124537.72,120,746,Married,1,Bachelor,Rented,1
+26,Female,Employed,Sales,3798.36,108.11,38627.58,84,604,Single,0,Master,Mortgaged,1
+30,Female,Self-Employed,Teacher,4950.2,1480.38,9044.56,120,554,Single,2,Bachelor,Mortgaged,1
+25,Male,Employed,Accountant,4387.69,352.57,11158.3,120,619,Single,0,Other,Rented,1
+43,Male,Employed,Teacher,5709.77,1458.15,103936.27,180,670,Married,3,Master,Rented,1
+30,Female,Self-Employed,Farmer,5277.66,262.1,148202.83,180,354,Married,3,Other,Rented,1
+64,Male,Employed,Teacher,6672.07,1463.89,28563.89,24,590,Married,1,Bachelor,Rented,1
+22,Male,Self-Employed,Clerk,4303.03,677.02,48150.39,48,537,Married,4,Diploma,Parental,1
+33,Female,Employed,Clerk,7400.19,2177.67,68815.69,48,771,Single,3,Bachelor,Rented,1
+60,Male,Student,Clerk,1661.97,275.64,47524.97,180,754,Single,1,Master,Owned,1
+22,Male,Retired,Clerk,3202.58,24.03,81310.63,36,702,Married,3,Master,Rented,1
+40,Female,Student,Doctor,546.23,98.96,114124.93,36,688,Married,3,High School,Rented,0
+21,Female,Employed,Teacher,4053.04,176.69,138562.67,24,723,Married,4,Bachelor,Rented,0
+57,Female,Employed,Other,5629.83,1348.69,192936.16,12,600,Single,2,Diploma,Rented,0
+29,Male,Employed,Teacher,5151.14,1323.69,186514.52,180,780,Single,1,Master,Owned,1
+37,Male,Employed,Doctor,5391.24,779.72,116174.76,240,687,Single,3,Diploma,Owned,1
+29,Male,Employed,Other,5721.12,1344.27,148159.26,240,753,Single,3,Bachelor,Rented,1
+31,Female,Self-Employed,Other,4384.9,190.89,190420.08,180,750,Single,0,Bachelor,Rented,1
+35,Female,Employed,Accountant,8019.94,1183.93,21277.03,60,722,Married,2,Bachelor,Owned,1
+44,Male,Retired,Other,2208.05,260.95,6098.78,12,705,Single,4,PhD,Mortgaged,1
+58,Female,Employed,Teacher,5648.44,1035.9,10810.95,240,699,Single,1,Diploma,Rented,1
+55,Male,Employed,Clerk,4658.46,62.16,114853.13,84,674,Divorced,3,High School,Parental,1
+50,Male,Employed,Clerk,1307.79,295.09,153752.52,120,718,Married,1,High School,Owned,1
+51,Male,Student,Farmer,709.79,16.85,76579.62,180,696,Divorced,4,Bachelor,Owned,1
+69,Male,Unemployed,Accountant,500.0,98.47,111321.64,60,641,Single,2,Bachelor,Rented,0
+25,Female,Unemployed,Teacher,500.0,2.77,105691.43,84,728,Married,0,Bachelor,Owned,0
+64,Male,Student,Teacher,960.4,239.68,23480.32,120,702,Single,2,Bachelor,Parental,1
+34,Male,Employed,Sales,5578.04,292.34,67709.71,120,776,Married,0,High School,Owned,1
+31,Female,Employed,Engineer,4204.73,650.26,8789.86,24,535,Single,1,Master,Rented,1
+29,Male,Employed,Teacher,4392.36,344.57,26587.61,12,682,Single,2,Master,Parental,1
+54,Female,Self-Employed,Manager,5051.04,1095.04,163312.35,180,622,Divorced,2,Other,Rented,1
+32,Female,Employed,Teacher,3786.41,365.03,166735.63,60,638,Married,2,PhD,Owned,0
+55,Male,Employed,Sales,2242.32,487.44,161379.53,24,724,Divorced,4,Bachelor,Rented,0
+55,Male,Retired,Other,3235.55,276.51,146729.63,36,565,Single,1,Bachelor,Rented,0
+21,Male,Retired,Doctor,4606.27,1039.83,159696.01,84,690,Single,0,Master,Owned,0
+60,Male,Unemployed,Doctor,1533.77,14.08,135841.56,84,682,Married,2,High School,Rented,0
+42,Male,Unemployed,Manager,763.23,64.87,135617.5,180,596,Married,1,Bachelor,Mortgaged,0
+49,Female,Self-Employed,Manager,5875.97,878.99,135135.55,60,692,Married,4,High School,Mortgaged,1
+28,Female,Employed,Farmer,6623.03,89.53,105238.34,60,619,Divorced,4,Bachelor,Owned,1
+31,Male,Employed,Doctor,4503.63,251.35,75852.71,120,855,Single,1,Bachelor,Owned,1
+61,Female,Self-Employed,Other,4371.28,1225.54,147388.08,60,776,Married,0,Diploma,Owned,1
+57,Female,Self-Employed,Doctor,4435.69,1299.88,63235.97,240,685,Single,1,High School,Rented,1
+34,Female,Employed,Engineer,4869.87,1080.75,110865.92,84,645,Single,1,Master,Rented,1
+50,Female,Student,Doctor,2701.37,204.39,89504.35,120,720,Married,3,High School,Mortgaged,1
+55,Female,Employed,Clerk,4771.79,372.94,58941.34,180,741,Married,4,Other,Mortgaged,1
+41,Male,Employed,Farmer,4249.58,823.3,195064.53,60,700,Single,0,Diploma,Owned,1
+57,Male,Self-Employed,Sales,500.0,17.64,55456.57,48,598,Single,3,Bachelor,Rented,1
+25,Female,Employed,Manager,3802.54,1081.8,65312.15,180,663,Married,1,Bachelor,Owned,1
+39,Male,Employed,Engineer,3026.87,204.14,36509.56,240,686,Married,4,High School,Owned,1
+34,Female,Employed,Manager,4939.41,1481.28,165481.22,12,703,Single,3,Bachelor,Owned,0
+46,Female,Unemployed,Farmer,500.0,74.36,119384.93,36,705,Single,3,Bachelor,Owned,0
+24,Male,Employed,Teacher,5913.03,1368.45,124542.66,48,738,Single,0,Master,Rented,1
+45,Male,Self-Employed,Engineer,5662.66,3.71,165009.48,120,787,Widowed,1,Master,Rented,1
+65,Male,Self-Employed,Accountant,3953.26,1054.03,71869.33,84,761,Divorced,0,High School,Owned,1
+62,Female,Employed,Engineer,3523.97,285.44,42758.52,12,727,Married,3,Diploma,Parental,0
+45,Male,Retired,Farmer,3429.6,687.23,43689.05,48,579,Widowed,3,Bachelor,Rented,1
+38,Male,Employed,Sales,7840.21,1896.6,147860.87,84,774,Married,0,High School,Owned,1
+60,Male,Retired,Engineer,5373.72,264.63,124752.46,36,745,Single,3,Bachelor,Owned,0
+28,Male,Employed,Farmer,2890.88,383.77,45236.08,24,659,Single,2,Other,Rented,0
+59,Male,Retired,Other,835.23,123.74,33287.75,24,682,Divorced,4,Bachelor,Parental,0
+60,Male,Employed,Doctor,2450.7,229.47,28534.02,48,685,Married,1,Master,Rented,1
+34,Female,Employed,Other,3294.53,476.15,127420.74,12,644,Married,4,Bachelor,Parental,0
+52,Male,Employed,Farmer,5377.39,512.27,5023.14,24,540,Divorced,1,Master,Rented,1
+58,Male,Employed,Clerk,4164.96,450.75,8572.27,24,590,Married,3,Diploma,Rented,1
+53,Male,Self-Employed,Teacher,2741.99,550.59,80962.86,48,607,Single,0,Master,Rented,1
+43,Male,Employed,Doctor,6558.66,1244.69,139813.22,48,522,Single,0,Master,Rented,0
+35,Other,Self-Employed,Clerk,4795.14,334.12,140532.68,12,590,Single,3,Diploma,Rented,0
+53,Female,Employed,Sales,2442.95,657.75,88873.06,120,771,Single,1,Bachelor,Mortgaged,1
+45,Male,Employed,Manager,6472.59,1675.34,139759.35,120,718,Married,3,Other,Owned,1
+37,Female,Unemployed,Accountant,1259.05,192.29,106613.76,12,602,Single,1,Master,Rented,0
+53,Male,Employed,Doctor,5792.39,752.87,195501.63,180,624,Single,3,Bachelor,Rented,1
+67,Male,Self-Employed,Other,3144.29,355.48,36679.74,120,778,Married,3,Bachelor,Rented,1
+22,Female,Self-Employed,Teacher,3719.04,789.11,122130.12,120,776,Single,3,Bachelor,Owned,1
+34,Female,Unemployed,Clerk,500.0,100.75,100791.56,84,685,Married,0,Bachelor,Rented,0
+60,Other,Employed,Farmer,6300.48,370.81,42920.94,48,773,Married,1,Bachelor,Rented,1
+60,Male,Self-Employed,Doctor,2501.61,503.92,151248.13,180,618,Married,3,Bachelor,Rented,1
+59,Female,Retired,Manager,1694.06,128.29,58724.06,24,698,Divorced,4,Bachelor,Mortgaged,0
+26,Male,Self-Employed,Farmer,2673.79,14.89,79433.41,120,562,Single,4,Master,Mortgaged,1
+26,Male,Employed,Clerk,7700.6,1615.3,78091.96,36,650,Single,0,Master,Rented,1
+23,Female,Self-Employed,Teacher,2996.94,579.72,52619.87,36,682,Divorced,2,Diploma,Parental,1
+27,Male,Self-Employed,Engineer,5413.39,667.16,88987.54,120,545,Married,0,Master,Mortgaged,1
+28,Female,Self-Employed,Manager,3964.01,625.15,97302.45,36,727,Married,2,Bachelor,Owned,1
+62,Female,Employed,Farmer,3756.34,1067.37,150123.23,60,740,Single,0,Bachelor,Owned,1
+35,Male,Employed,Manager,3484.4,622.17,154188.37,180,760,Married,4,PhD,Rented,1
+67,Male,Unemployed,Sales,500.0,98.68,35918.41,48,866,Divorced,3,Bachelor,Rented,1
+49,Female,Employed,Farmer,4888.31,93.73,120590.6,120,713,Married,1,Diploma,Mortgaged,1
+53,Male,Self-Employed,Doctor,4902.61,244.14,179758.57,120,674,Single,3,Diploma,Mortgaged,1
+50,Female,Employed,Engineer,4293.51,387.64,26213.39,24,551,Divorced,4,Bachelor,Mortgaged,1
+59,Female,Employed,Engineer,4237.38,685.67,97218.24,180,711,Married,1,Master,Owned,1
+47,Male,Employed,Accountant,3678.27,856.95,151318.86,240,724,Married,2,Other,Rented,1
+56,Female,Employed,Manager,3208.94,309.25,124240.81,84,571,Single,2,Master,Owned,0
+49,Other,Retired,Other,1083.46,115.84,24614.2,60,660,Married,4,Master,Owned,0
+58,Male,Student,Engineer,2482.04,190.73,82338.19,12,680,Single,1,Master,Rented,0
+53,Female,Self-Employed,Engineer,3206.74,244.94,103911.7,12,722,Single,3,Master,Owned,1
+57,Male,Employed,Sales,4339.59,1235.3,199189.89,240,748,Married,4,High School,Rented,1
+47,Female,Self-Employed,Sales,3000.08,571.93,39828.54,48,637,Single,2,PhD,Rented,1
+53,Female,Self-Employed,Sales,3524.72,164.85,196572.63,12,696,Married,4,Bachelor,Mortgaged,1
+24,Male,Self-Employed,Manager,4556.61,987.3,78349.21,36,725,Married,3,PhD,Owned,1
+42,Male,Employed,Farmer,4269.68,924.84,44062.49,84,665,Single,0,High School,Mortgaged,1
+22,Female,Self-Employed,Teacher,4271.11,853.97,85751.27,180,646,Married,0,Master,Parental,1
+30,Male,Unemployed,Other,2627.31,106.19,124729.05,24,737,Divorced,3,Master,Mortgaged,0
+25,Female,Retired,Engineer,1770.5,216.71,46631.99,180,665,Single,1,Other,Mortgaged,1
+30,Male,Employed,Accountant,4340.8,139.02,61830.62,12,584,Married,4,Master,Rented,0
+53,Female,Self-Employed,Other,4961.59,1215.52,171636.57,24,789,Single,3,Bachelor,Rented,1
+58,Female,Self-Employed,Farmer,6245.94,1227.65,199806.85,180,593,Married,0,Bachelor,Mortgaged,1
+33,Female,Employed,Other,3136.53,477.26,67043.67,120,672,Single,2,Bachelor,Mortgaged,1
+51,Male,Employed,Engineer,2448.79,251.99,34027.08,60,705,Married,3,Diploma,Rented,1
+67,Female,Employed,Other,4999.09,276.32,159668.31,24,716,Single,3,Diploma,Mortgaged,0
+56,Female,Employed,Teacher,4844.18,154.7,122088.86,240,693,Widowed,3,Diploma,Rented,1
+65,Male,Employed,Other,6050.25,1759.25,24578.22,60,444,Married,0,Bachelor,Owned,1
+44,Male,Self-Employed,Engineer,4821.34,288.77,189620.44,180,623,Married,0,PhD,Rented,1
+35,Male,Self-Employed,Engineer,3949.06,70.93,20219.66,48,703,Married,3,PhD,Owned,1
+49,Female,Self-Employed,Other,5573.82,1608.05,126944.5,240,671,Married,3,High School,Rented,1
+28,Female,Retired,Manager,1978.47,325.83,87667.76,120,720,Married,1,High School,Owned,0
+25,Male,Employed,Accountant,5317.37,1270.84,113541.66,24,761,Married,2,Diploma,Rented,1
+49,Female,Employed,Clerk,3176.44,41.71,46576.77,36,720,Married,4,Bachelor,Mortgaged,0
+67,Male,Self-Employed,Sales,3936.81,669.59,139181.53,24,621,Single,4,High School,Rented,0
+24,Male,Employed,Clerk,2808.3,335.49,192145.34,60,636,Single,4,Bachelor,Owned,0
+32,Female,Employed,Farmer,3326.23,770.32,94393.05,24,810,Married,0,Bachelor,Rented,1
+65,Female,Employed,Farmer,7564.18,87.2,106976.86,60,665,Married,0,Bachelor,Owned,1
+22,Male,Employed,Engineer,2263.19,272.73,51763.28,240,672,Single,1,Bachelor,Rented,1
+47,Male,Unemployed,Farmer,500.0,119.86,178914.26,24,720,Single,0,Bachelor,Rented,0
+51,Female,Employed,Manager,6240.82,978.62,194379.01,240,778,Single,3,Master,Parental,1
+56,Male,Employed,Accountant,8332.03,1374.88,158327.89,120,607,Widowed,2,Master,Owned,1
+56,Male,Employed,Farmer,5265.61,153.49,110840.83,120,640,Married,2,Bachelor,Rented,1
+46,Male,Self-Employed,Teacher,4351.33,172.74,191575.38,60,551,Married,2,High School,Mortgaged,1
+63,Female,Employed,Accountant,5059.53,1027.59,35000.76,180,656,Divorced,2,Bachelor,Parental,1
+47,Female,Self-Employed,Manager,5585.85,1131.21,98305.72,120,725,Married,4,High School,Owned,1
+25,Male,Employed,Clerk,5647.56,1658.86,109833.11,84,650,Widowed,4,Bachelor,Rented,1
+40,Female,Employed,Accountant,4137.37,883.68,100923.7,24,820,Single,3,Diploma,Owned,1
+31,Female,Employed,Accountant,6673.27,987.46,161471.57,84,689,Single,1,Bachelor,Rented,1
+30,Male,Employed,Clerk,4306.71,1107.68,135728.56,24,671,Married,0,Diploma,Owned,0
+60,Female,Employed,Manager,2602.26,81.56,29698.4,12,651,Married,0,Master,Mortgaged,0
+58,Female,Employed,Farmer,2607.01,351.4,72558.0,240,571,Married,4,High School,Owned,1
+26,Male,Student,Engineer,698.4,60.15,71119.99,60,672,Single,2,Bachelor,Rented,0
+28,Male,Employed,Clerk,5154.56,161.81,115298.28,48,708,Married,3,Diploma,Rented,1
+43,Female,Self-Employed,Clerk,5433.44,1244.53,61834.39,180,670,Single,1,High School,Parental,1
+67,Female,Employed,Clerk,5961.22,913.48,27868.0,60,698,Single,4,Master,Rented,1
+46,Female,Employed,Clerk,5119.78,855.16,132468.12,120,626,Divorced,3,Bachelor,Owned,1
+66,Male,Employed,Farmer,6517.27,804.08,170952.2,36,580,Divorced,3,High School,Owned,1
+63,Other,Student,Other,1019.11,140.74,186663.58,180,671,Widowed,4,Bachelor,Owned,0
+32,Male,Employed,Other,3064.27,106.65,194652.79,180,697,Married,3,Bachelor,Mortgaged,1
+46,Male,Employed,Doctor,2737.32,552.6,157317.79,36,666,Married,2,Bachelor,Rented,0
+33,Female,Employed,Clerk,6918.03,897.51,32241.97,240,696,Married,3,Bachelor,Rented,1
+60,Male,Employed,Clerk,1632.16,399.93,171356.81,180,742,Single,1,Master,Owned,1
+38,Male,Employed,Accountant,4698.89,276.7,82992.21,12,741,Single,3,Diploma,Mortgaged,1
+45,Male,Self-Employed,Other,8472.69,521.21,147332.71,180,748,Single,0,Bachelor,Rented,1
+53,Male,Employed,Farmer,5688.85,1102.09,108597.26,48,760,Divorced,3,Bachelor,Parental,1
+67,Male,Employed,Engineer,4687.19,1189.61,166578.2,84,719,Single,4,Master,Rented,1
+60,Female,Self-Employed,Doctor,1473.31,208.71,87973.62,240,708,Divorced,0,PhD,Rented,1
+63,Male,Employed,Doctor,7426.06,1619.52,17049.79,60,835,Married,4,Master,Rented,1
+32,Female,Employed,Farmer,6820.74,2044.85,113580.62,120,742,Married,1,Master,Owned,1
+64,Female,Employed,Engineer,6027.2,1790.56,38401.66,12,612,Single,2,Other,Mortgaged,1
+56,Female,Self-Employed,Accountant,3999.16,893.02,193275.94,240,530,Single,1,Bachelor,Mortgaged,1
+68,Male,Employed,Sales,5858.02,1299.75,107757.8,84,660,Widowed,0,Master,Owned,1
+24,Female,Employed,Other,4777.07,354.87,112943.96,48,729,Single,2,Other,Owned,1
+25,Female,Employed,Clerk,3540.11,885.25,181916.81,84,756,Single,3,High School,Owned,1
+57,Female,Self-Employed,Farmer,5434.5,660.46,126794.12,60,579,Single,0,Bachelor,Parental,1
+28,Female,Employed,Other,4924.01,1421.06,64032.23,36,738,Single,2,Master,Owned,1
+62,Female,Self-Employed,Clerk,4782.92,116.84,62738.45,120,770,Single,4,PhD,Rented,1
+69,Male,Unemployed,Sales,500.0,65.38,102807.84,36,728,Married,2,Master,Owned,0
+48,Female,Self-Employed,Sales,4692.73,782.52,173988.6,24,713,Married,4,Master,Rented,1
+51,Female,Employed,Manager,4978.26,605.09,159972.22,48,669,Married,4,PhD,Mortgaged,1
+29,Female,Employed,Sales,4861.18,307.1,192734.41,120,643,Single,2,Bachelor,Mortgaged,1
+49,Other,Employed,Other,5044.98,897.49,19017.79,60,742,Married,1,High School,Owned,1
+34,Male,Employed,Teacher,9441.3,2141.06,57323.58,240,726,Married,1,High School,Rented,1
+60,Other,Employed,Teacher,6203.61,1200.1,20640.5,120,653,Single,4,Bachelor,Rented,1
+61,Male,Unemployed,Clerk,4379.09,308.0,151460.44,240,883,Married,0,Bachelor,Parental,1
+42,Male,Employed,Clerk,4987.85,1094.74,32462.57,240,559,Single,2,Bachelor,Owned,1
+31,Male,Employed,Manager,4536.41,349.62,24477.83,24,661,Married,0,Bachelor,Owned,1
+43,Male,Self-Employed,Teacher,2388.7,125.55,114526.08,12,618,Married,1,PhD,Rented,0
+21,Female,Self-Employed,Clerk,6404.85,1327.09,85239.52,48,710,Divorced,0,Bachelor,Owned,1
+66,Male,Employed,Sales,3642.22,920.89,144444.76,48,524,Single,3,Master,Owned,0
+57,Male,Unemployed,Clerk,3214.34,464.35,99968.0,24,781,Married,3,PhD,Rented,0
+41,Female,Employed,Doctor,3475.72,554.09,87940.25,36,760,Single,1,Bachelor,Mortgaged,1
+46,Female,Self-Employed,Manager,5329.99,484.09,87972.59,36,701,Married,0,Bachelor,Rented,1
+66,Female,Unemployed,Farmer,500.0,74.19,175015.89,60,655,Married,2,Master,Rented,0
+56,Female,Self-Employed,Engineer,3337.07,132.13,82069.0,12,737,Single,1,Master,Rented,1
+43,Female,Self-Employed,Accountant,4033.12,1156.49,70012.44,240,706,Married,3,Bachelor,Rented,1
+21,Male,Employed,Engineer,4103.76,985.35,71014.34,180,756,Married,1,High School,Rented,1
+60,Male,Employed,Engineer,4746.01,951.06,43337.16,180,670,Married,0,Bachelor,Rented,1
+35,Female,Self-Employed,Farmer,3753.18,605.98,172834.33,36,665,Single,0,High School,Owned,1
+41,Male,Employed,Clerk,6210.4,1475.91,33593.01,24,766,Divorced,0,Bachelor,Owned,1
+67,Female,Student,Engineer,500.0,74.21,182179.09,12,730,Widowed,4,Bachelor,Rented,0
+29,Male,Employed,Doctor,4155.62,373.97,60276.21,84,666,Divorced,0,Bachelor,Rented,1
+29,Male,Employed,Accountant,6881.95,331.11,180388.23,12,709,Married,3,Other,Mortgaged,1
+30,Female,Employed,Engineer,5843.72,1135.29,159210.03,60,694,Married,3,Bachelor,Rented,1
+46,Female,Employed,Teacher,6906.93,1925.84,118487.57,240,717,Married,4,PhD,Owned,1
+61,Female,Self-Employed,Farmer,5138.18,236.8,135546.65,240,781,Single,3,Master,Owned,1
+55,Female,Self-Employed,Farmer,2374.73,128.25,68539.6,48,652,Married,3,Master,Owned,1
+45,Male,Self-Employed,Farmer,4991.35,649.28,116974.58,120,628,Married,1,Bachelor,Mortgaged,1
+46,Male,Unemployed,Manager,650.29,157.42,62018.57,120,701,Widowed,0,Bachelor,Rented,0
+31,Female,Student,Manager,4402.09,388.16,83443.2,48,637,Married,1,Master,Mortgaged,1
+58,Female,Unemployed,Sales,1703.25,129.74,154109.2,60,607,Single,1,PhD,Rented,1
+22,Male,Employed,Other,5785.05,1075.96,52566.85,240,759,Married,3,Bachelor,Mortgaged,1
+27,Female,Self-Employed,Accountant,5004.14,804.09,168574.97,120,657,Widowed,2,High School,Parental,1
+38,Male,Employed,Clerk,5703.27,103.04,78297.16,120,530,Single,0,Master,Rented,1
+47,Male,Employed,Engineer,5662.7,138.44,108773.14,120,747,Single,2,Bachelor,Mortgaged,1
+54,Male,Self-Employed,Other,3600.56,694.56,188682.3,240,644,Married,3,High School,Rented,1
+47,Female,Employed,Clerk,5803.21,809.76,137844.85,60,726,Single,4,Master,Parental,1
+37,Female,Employed,Other,6422.7,1870.89,130892.8,84,766,Single,1,Bachelor,Mortgaged,1
+63,Male,Employed,Clerk,6590.49,1341.56,143763.51,36,695,Single,3,Bachelor,Parental,1
+64,Female,Employed,Doctor,6408.68,19.37,184031.71,12,517,Divorced,3,PhD,Rented,0
+44,Male,Student,Manager,3262.1,470.74,53460.17,24,522,Single,2,Bachelor,Mortgaged,0
+45,Male,Employed,Accountant,6684.34,831.09,124582.04,180,626,Married,4,Bachelor,Rented,1
+27,Male,Employed,Teacher,5942.78,190.25,83076.8,12,675,Married,1,Bachelor,Owned,1
+26,Male,Employed,Doctor,3284.51,909.69,7311.78,120,776,Widowed,4,Bachelor,Rented,1
+44,Male,Employed,Manager,3285.1,793.36,29433.67,60,703,Widowed,4,Master,Mortgaged,1
+53,Female,Student,Farmer,627.8,43.33,68373.42,84,889,Married,4,Bachelor,Owned,0
+69,Female,Employed,Manager,5070.13,389.36,115174.99,180,560,Widowed,0,Diploma,Rented,1
+49,Female,Employed,Other,7097.0,68.17,176887.58,48,689,Single,4,High School,Rented,1
+63,Male,Self-Employed,Sales,500.0,44.51,159267.25,84,644,Married,3,Bachelor,Rented,1
+42,Male,Retired,Doctor,1450.19,254.34,112900.07,36,698,Married,0,Bachelor,Mortgaged,0
+46,Male,Self-Employed,Farmer,3708.67,468.23,19404.73,120,820,Single,0,Bachelor,Mortgaged,1
+48,Male,Unemployed,Other,500.0,145.39,60751.73,24,825,Married,4,Bachelor,Rented,0
+41,Female,Employed,Accountant,3802.84,63.98,76508.19,180,684,Single,3,High School,Owned,1
+69,Male,Employed,Manager,4251.26,754.3,126234.85,120,748,Divorced,1,Bachelor,Rented,1
+27,Female,Employed,Farmer,3581.26,922.15,17660.11,180,697,Married,4,PhD,Rented,1
+37,Female,Student,Other,500.0,72.11,108387.74,24,593,Married,0,Diploma,Rented,0
+40,Male,Employed,Sales,7044.85,6.26,180785.59,36,681,Single,1,Bachelor,Owned,0
+61,Female,Employed,Manager,5921.48,431.32,142559.38,48,639,Single,1,Bachelor,Rented,1
+69,Female,Employed,Accountant,6145.92,596.96,160429.98,240,674,Widowed,0,Master,Rented,1
+40,Female,Employed,Sales,4948.82,1434.16,137926.75,60,611,Married,1,Diploma,Rented,1
+42,Female,Employed,Clerk,6516.66,1782.51,45284.88,84,692,Widowed,3,PhD,Rented,1
+48,Male,Retired,Other,4271.7,1216.37,26544.34,12,704,Single,3,Bachelor,Rented,0
+60,Male,Employed,Manager,5897.81,1461.05,166750.68,48,736,Single,4,Master,Owned,1
+69,Male,Self-Employed,Manager,3018.75,318.46,140623.37,48,704,Married,4,Diploma,Parental,1
+27,Male,Self-Employed,Farmer,3336.94,906.86,117137.0,180,810,Married,1,Master,Rented,1
+21,Female,Employed,Accountant,6587.2,1939.96,41910.16,180,855,Single,0,Master,Owned,1
+52,Male,Employed,Teacher,4224.9,443.7,122652.27,84,647,Married,3,Bachelor,Rented,0
+33,Female,Employed,Clerk,3067.21,239.75,11107.75,180,757,Married,2,Bachelor,Mortgaged,1
+50,Female,Employed,Sales,4195.97,688.45,28173.63,240,849,Single,4,Bachelor,Mortgaged,1
+43,Male,Self-Employed,Doctor,6339.11,355.91,65818.58,60,759,Single,3,High School,Mortgaged,1
+39,Male,Employed,Doctor,4197.45,41.08,91528.96,12,737,Married,1,Master,Owned,0
+52,Female,Employed,Manager,5491.48,1558.2,28510.08,12,534,Married,3,High School,Rented,1
+50,Female,Employed,Farmer,4076.47,1132.13,28388.34,24,635,Married,3,Diploma,Mortgaged,1
+49,Female,Student,Engineer,2145.14,104.67,146549.26,24,647,Married,1,Bachelor,Rented,0
+69,Male,Unemployed,Manager,1305.2,159.65,116095.28,60,790,Single,4,High School,Mortgaged,0
+65,Male,Unemployed,Doctor,500.0,124.66,109079.69,120,621,Divorced,4,Other,Owned,0
+49,Male,Unemployed,Doctor,902.05,178.88,93224.73,120,673,Divorced,2,Master,Owned,0
+50,Male,Employed,Clerk,2476.12,293.26,195425.91,48,747,Married,2,Bachelor,Mortgaged,1
+36,Female,Unemployed,Engineer,500.0,111.63,14711.06,48,617,Single,4,Master,Rented,0
+60,Female,Employed,Manager,4982.85,1340.96,40222.3,36,702,Married,4,Master,Owned,1
+39,Female,Self-Employed,Clerk,6770.3,1881.11,131264.01,24,691,Married,4,Bachelor,Rented,0
+38,Female,Self-Employed,Farmer,4476.87,508.82,31591.3,36,750,Widowed,4,Master,Mortgaged,1
+21,Female,Employed,Clerk,3849.37,200.43,119929.28,180,732,Widowed,3,Diploma,Owned,1
+34,Male,Unemployed,Manager,500.0,136.93,115713.44,12,730,Divorced,2,Bachelor,Owned,0
+67,Male,Student,Other,2386.3,66.26,194346.01,48,696,Single,1,Bachelor,Owned,0
+22,Female,Employed,Teacher,3869.72,837.82,177260.36,120,545,Widowed,0,Master,Parental,1
+48,Male,Unemployed,Manager,2145.47,90.43,189382.9,60,691,Married,1,High School,Parental,0
+69,Female,Employed,Accountant,4215.42,492.43,27152.46,24,684,Married,0,Bachelor,Rented,1
+50,Female,Self-Employed,Doctor,2627.02,324.35,174288.95,12,741,Married,3,Bachelor,Rented,1
+58,Male,Employed,Engineer,4263.5,203.06,30172.68,84,646,Single,2,Bachelor,Rented,1
+24,Female,Employed,Engineer,2575.57,712.93,128421.77,60,683,Married,0,Master,Owned,1
+21,Female,Student,Teacher,500.0,0.4,145415.24,36,685,Single,4,Bachelor,Mortgaged,0
+28,Female,Student,Accountant,876.2,234.95,36366.43,240,622,Married,3,Diploma,Owned,0
+49,Female,Unemployed,Doctor,500.0,132.57,128368.58,36,587,Divorced,0,High School,Rented,0
+59,Female,Employed,Engineer,5384.69,512.03,15229.8,24,710,Single,4,Bachelor,Rented,1
+23,Male,Student,Accountant,868.79,183.56,62186.89,60,760,Single,3,Bachelor,Owned,1
+52,Male,Employed,Clerk,8493.88,644.2,184625.91,240,630,Single,0,Diploma,Rented,1
+30,Female,Student,Manager,1252.61,285.14,38487.58,180,662,Married,4,Bachelor,Rented,0
+30,Female,Employed,Manager,2935.31,494.12,17727.65,84,746,Widowed,2,Bachelor,Mortgaged,1
+39,Male,Employed,Other,3320.13,299.04,91517.25,36,754,Single,3,High School,Owned,1
+66,Male,Self-Employed,Doctor,4000.46,480.34,170870.55,84,698,Single,0,Bachelor,Owned,1
+54,Female,Employed,Accountant,4346.86,899.65,19951.11,60,713,Divorced,4,Master,Rented,1
+53,Female,Employed,Sales,3157.28,858.24,74329.4,12,722,Divorced,2,Bachelor,Parental,1
+43,Female,Employed,Engineer,4911.73,192.63,180456.09,60,736,Single,4,Master,Owned,1
+48,Female,Employed,Farmer,4933.66,845.68,28040.33,120,594,Married,2,High School,Parental,1
+52,Male,Employed,Farmer,7393.54,562.79,65580.36,240,833,Married,0,Bachelor,Mortgaged,1
+27,Male,Employed,Manager,3625.87,871.7,156792.02,12,701,Married,4,Bachelor,Mortgaged,1
+49,Female,Employed,Sales,4373.41,92.15,110926.14,36,738,Married,4,Bachelor,Owned,1
+28,Male,Employed,Farmer,7388.92,1527.19,167304.96,180,619,Widowed,1,Bachelor,Rented,1
+21,Male,Self-Employed,Teacher,4492.88,235.8,26761.1,84,665,Single,3,Master,Owned,1
+23,Male,Employed,Teacher,3617.07,647.15,184508.06,60,710,Single,4,Bachelor,Rented,1
+44,Female,Retired,Doctor,1927.9,483.34,187307.8,24,535,Married,2,High School,Parental,0
+43,Female,Student,Sales,500.0,113.26,35286.04,36,607,Married,3,Bachelor,Owned,0
+28,Male,Employed,Teacher,5115.91,1155.6,11605.72,24,621,Divorced,0,Master,Rented,1
+67,Male,Unemployed,Teacher,2046.74,317.97,198019.07,12,577,Married,3,Other,Owned,0
+57,Female,Unemployed,Manager,2946.35,787.33,99039.06,120,688,Single,1,Bachelor,Mortgaged,1
+23,Other,Retired,Farmer,770.58,135.95,116554.7,36,674,Married,0,Bachelor,Owned,0
+53,Male,Self-Employed,Doctor,5303.68,1459.87,125101.42,120,793,Married,4,Bachelor,Owned,1
+48,Male,Employed,Accountant,5246.47,860.19,158985.35,120,590,Widowed,0,Master,Rented,1
+67,Male,Self-Employed,Clerk,3607.1,547.52,163337.65,180,698,Married,0,Other,Mortgaged,1
+28,Female,Self-Employed,Engineer,3373.99,225.07,42815.42,12,609,Married,1,Master,Owned,0
+54,Male,Self-Employed,Engineer,1118.6,182.82,51144.16,60,542,Married,2,Bachelor,Owned,0
+55,Male,Employed,Clerk,5957.0,251.24,175982.44,240,727,Married,0,High School,Owned,1
+52,Female,Student,Clerk,500.0,130.45,164805.93,120,733,Married,2,Master,Parental,0
+44,Female,Retired,Engineer,1877.71,380.74,125435.78,12,724,Single,3,Master,Rented,0
+34,Male,Employed,Engineer,5626.98,1677.35,198966.34,180,574,Divorced,1,Master,Mortgaged,1
+52,Female,Employed,Accountant,2275.05,62.86,148360.87,36,686,Married,4,High School,Rented,0
+66,Male,Employed,Sales,3018.81,217.96,47088.17,48,727,Married,0,Bachelor,Owned,1
+63,Female,Unemployed,Sales,2327.99,612.61,170095.59,48,756,Widowed,2,Bachelor,Rented,0
+36,Male,Self-Employed,Accountant,4183.09,496.01,85872.86,180,730,Married,0,Master,Owned,1
+24,Female,Self-Employed,Farmer,3006.7,420.61,12049.77,12,757,Married,1,Diploma,Rented,1
+57,Male,Employed,Clerk,5188.99,1339.78,67677.15,180,765,Widowed,4,Bachelor,Rented,1
+41,Female,Self-Employed,Other,5004.21,783.39,153892.49,240,688,Single,3,Bachelor,Rented,1
+34,Female,Employed,Clerk,6687.15,388.14,192240.21,240,719,Married,3,High School,Owned,1
+51,Female,Employed,Engineer,3331.35,891.5,58846.6,60,759,Married,2,Bachelor,Owned,1
+68,Female,Unemployed,Clerk,500.0,4.66,53070.68,48,711,Single,3,High School,Mortgaged,0
+38,Female,Retired,Engineer,3912.51,1050.98,114905.23,48,775,Married,2,Bachelor,Mortgaged,0
+27,Male,Retired,Clerk,3960.62,60.03,163278.36,240,749,Married,4,PhD,Owned,1
+30,Male,Retired,Farmer,984.05,196.57,150572.51,180,629,Married,0,Other,Owned,0
+27,Female,Employed,Other,3519.03,75.67,114191.99,120,575,Widowed,1,Diploma,Mortgaged,1
+53,Male,Employed,Teacher,4709.38,997.75,128120.99,36,681,Single,4,Master,Mortgaged,0
+43,Female,Self-Employed,Accountant,4035.36,41.13,52209.3,48,585,Married,4,Bachelor,Parental,1
+41,Female,Student,Accountant,1077.89,272.42,89351.98,240,686,Married,3,PhD,Owned,0
+39,Male,Employed,Other,2961.01,413.9,54796.3,180,679,Single,3,Master,Rented,1
+68,Female,Employed,Clerk,5062.74,141.94,177461.51,12,784,Single,1,High School,Owned,1
+39,Male,Employed,Teacher,3923.94,832.06,26948.13,36,720,Divorced,0,Bachelor,Rented,1
+56,Female,Self-Employed,Sales,2250.52,330.35,137549.41,24,758,Married,4,Bachelor,Owned,1
+49,Male,Employed,Clerk,4983.51,285.48,55755.22,24,640,Married,3,Master,Owned,1
+38,Male,Employed,Farmer,4830.51,22.71,97737.59,180,802,Married,4,Bachelor,Owned,1
+22,Female,Employed,Engineer,6202.54,777.8,63385.49,84,751,Single,0,Bachelor,Rented,1
+21,Female,Employed,Doctor,3708.55,95.27,68032.84,84,714,Single,2,Bachelor,Rented,1
+67,Female,Student,Clerk,1352.76,38.22,55776.64,48,535,Married,0,Other,Rented,0
+25,Female,Employed,Doctor,2646.99,212.29,151794.62,12,774,Widowed,4,PhD,Mortgaged,1
+40,Male,Self-Employed,Clerk,3587.72,678.57,76314.59,120,821,Single,4,Bachelor,Mortgaged,1
+31,Female,Self-Employed,Other,4695.52,746.46,146639.62,180,680,Widowed,1,Master,Rented,1
+62,Male,Student,Doctor,1822.03,37.71,93933.64,24,682,Widowed,4,Master,Parental,0
+22,Female,Employed,Clerk,5832.25,1694.44,111712.98,24,638,Widowed,3,Master,Rented,1
+23,Female,Retired,Accountant,4206.56,1119.58,110941.06,12,549,Married,1,High School,Owned,0
+43,Female,Self-Employed,Doctor,3331.32,259.07,195291.16,48,635,Widowed,4,Bachelor,Parental,1
+32,Female,Retired,Clerk,3743.59,137.4,76577.18,84,812,Married,0,Bachelor,Owned,1
+40,Male,Student,Sales,3803.12,1075.22,45498.4,60,766,Single,4,Bachelor,Rented,1
+25,Female,Employed,Engineer,4299.3,594.78,182799.43,48,618,Single,0,Diploma,Rented,0
+57,Male,Employed,Sales,7070.3,660.01,39093.66,48,633,Divorced,0,Bachelor,Rented,1
+58,Female,Employed,Teacher,6314.71,928.94,167712.45,120,850,Single,4,Bachelor,Rented,1
+50,Male,Employed,Clerk,4600.51,1066.51,34291.9,120,598,Married,0,Bachelor,Owned,1
+29,Female,Employed,Manager,4725.69,238.72,133451.25,24,622,Single,2,Bachelor,Rented,1
+54,Female,Employed,Farmer,5177.6,1192.14,34355.46,120,645,Single,1,High School,Mortgaged,1
+64,Male,Employed,Sales,6230.25,1400.77,185001.73,24,571,Single,4,Master,Owned,1
+55,Male,Employed,Doctor,5603.95,906.74,115176.62,48,636,Divorced,2,PhD,Rented,1
+42,Female,Employed,Other,4287.5,1113.69,69208.4,12,638,Married,0,Bachelor,Owned,1
+64,Male,Employed,Farmer,1876.92,74.41,32362.94,60,607,Divorced,0,Master,Mortgaged,1
+44,Male,Employed,Manager,6008.26,1073.34,77382.49,12,786,Married,1,High School,Mortgaged,1
+37,Male,Employed,Clerk,2101.25,283.26,142478.91,48,586,Widowed,2,Master,Mortgaged,0
+30,Male,Employed,Other,2951.03,373.86,80065.42,240,668,Married,2,High School,Owned,1
+50,Female,Employed,Clerk,4396.28,333.1,52988.36,180,609,Married,4,Bachelor,Owned,1
+66,Female,Student,Teacher,500.0,55.84,117594.84,84,663,Married,0,Bachelor,Owned,0
+43,Male,Employed,Manager,5476.29,177.68,86475.26,180,606,Married,3,Bachelor,Owned,1
+52,Male,Employed,Clerk,4555.72,343.86,37332.22,60,686,Married,4,Bachelor,Rented,1
+37,Male,Employed,Doctor,6177.85,504.05,35027.66,120,705,Married,4,Bachelor,Parental,1
+37,Male,Unemployed,Teacher,500.0,108.1,142955.09,180,792,Married,4,Bachelor,Rented,0
+34,Male,Student,Accountant,500.0,7.28,195061.02,120,632,Married,1,Master,Parental,0
+29,Male,Student,Manager,1006.3,196.59,50453.34,48,809,Single,1,Bachelor,Owned,0
+60,Male,Self-Employed,Engineer,4064.09,269.95,155763.98,60,615,Married,4,Diploma,Parental,1
+22,Female,Employed,Other,6041.05,148.36,22083.31,84,660,Single,3,Bachelor,Owned,1
+65,Male,Employed,Sales,3628.12,327.41,79407.3,84,821,Married,2,Master,Parental,1
+45,Female,Employed,Clerk,4297.98,289.43,103804.19,240,900,Married,2,Bachelor,Owned,1
+59,Female,Retired,Other,3761.02,622.86,57405.65,24,814,Widowed,0,Bachelor,Parental,1
+29,Female,Self-Employed,Other,702.16,75.28,108267.79,84,662,Single,2,Bachelor,Owned,1
+42,Female,Self-Employed,Engineer,4577.4,1326.52,177109.81,36,721,Single,2,Bachelor,Rented,0
+63,Female,Employed,Engineer,6145.92,1776.57,189165.4,24,734,Single,3,Bachelor,Rented,1
+66,Female,Unemployed,Teacher,500.0,66.56,24608.61,84,707,Married,2,Bachelor,Rented,0
+24,Female,Employed,Manager,4527.47,1079.92,58009.96,48,599,Married,3,Diploma,Rented,1
+46,Female,Employed,Doctor,7238.99,28.82,195931.11,60,698,Married,1,Bachelor,Parental,1
+49,Female,Employed,Engineer,5989.74,984.38,57731.59,60,639,Married,3,High School,Rented,1
+65,Female,Self-Employed,Engineer,4670.46,1041.46,140077.93,36,602,Divorced,1,Bachelor,Mortgaged,1
+54,Male,Employed,Sales,6486.44,422.16,54423.47,48,655,Single,3,Bachelor,Owned,1
+43,Male,Student,Accountant,3706.82,68.03,74491.29,36,705,Single,4,Other,Rented,0
+57,Male,Employed,Engineer,5027.8,235.18,42299.4,120,760,Single,1,Bachelor,Rented,1
+31,Female,Self-Employed,Accountant,3389.22,449.26,171978.54,12,659,Divorced,1,Master,Mortgaged,1
+26,Female,Employed,Teacher,6482.81,984.81,177116.51,84,673,Married,2,High School,Rented,1
+38,Female,Employed,Doctor,4718.82,539.2,62897.94,48,744,Married,1,High School,Rented,1
+41,Female,Unemployed,Other,500.0,66.0,165600.02,12,685,Single,3,Master,Owned,0
+62,Male,Unemployed,Engineer,500.0,70.54,74857.12,12,710,Married,4,Bachelor,Owned,0
+56,Male,Self-Employed,Clerk,4468.49,1031.47,24308.79,60,686,Widowed,4,Diploma,Rented,1
+61,Female,Student,Accountant,500.0,15.79,152824.9,60,696,Single,2,Bachelor,Rented,0
+58,Female,Self-Employed,Sales,3437.54,792.99,121307.02,120,593,Married,3,Bachelor,Owned,1
+54,Other,Employed,Sales,3459.03,714.59,58504.58,48,689,Single,3,Master,Owned,1
+37,Male,Self-Employed,Engineer,6153.05,1369.04,54334.95,240,794,Single,0,High School,Mortgaged,1
+57,Female,Employed,Manager,4486.06,988.46,195246.56,48,693,Married,1,Bachelor,Owned,0
+45,Female,Employed,Other,3932.73,555.21,173187.7,120,613,Single,2,Master,Mortgaged,1
+58,Female,Employed,Doctor,4092.32,259.53,162910.67,60,798,Married,4,Other,Owned,1
+32,Female,Self-Employed,Clerk,5203.79,837.75,29963.45,60,737,Married,0,Master,Owned,1
+43,Female,Self-Employed,Manager,4859.8,1396.68,152261.52,84,741,Married,3,Bachelor,Rented,1
+62,Male,Employed,Sales,4247.22,749.88,46835.34,180,739,Married,1,Master,Rented,1
+42,Female,Self-Employed,Accountant,4048.47,13.42,195590.84,60,589,Married,4,Master,Rented,1
+41,Female,Student,Accountant,1415.06,25.35,15157.39,36,731,Single,0,Master,Rented,1
+47,Female,Employed,Manager,3943.88,1174.72,73667.0,84,790,Married,3,Master,Owned,1
+51,Female,Employed,Accountant,2689.07,58.04,88586.33,24,641,Married,4,PhD,Rented,1
+26,Male,Unemployed,Sales,1272.56,17.58,165719.57,180,525,Single,4,High School,Rented,0
+47,Male,Employed,Manager,4026.9,426.48,154413.45,180,709,Divorced,3,High School,Rented,1
+60,Other,Self-Employed,Sales,4660.52,1355.26,78123.47,36,682,Married,3,Master,Mortgaged,1
+54,Female,Employed,Clerk,5481.54,524.05,115284.26,180,556,Divorced,2,Bachelor,Mortgaged,1
+32,Female,Employed,Other,5083.69,625.12,167941.06,240,728,Divorced,4,High School,Rented,1
+65,Male,Self-Employed,Clerk,3360.81,639.3,8548.92,60,722,Married,3,Bachelor,Mortgaged,1
+27,Female,Self-Employed,Clerk,3049.11,22.06,161424.73,60,562,Married,0,Master,Parental,0
+30,Female,Unemployed,Accountant,500.0,134.66,189644.72,84,831,Married,1,High School,Rented,0
+65,Female,Student,Engineer,500.0,77.92,11252.58,120,740,Married,2,Bachelor,Owned,1
+37,Male,Unemployed,Farmer,1353.22,189.51,13888.29,36,528,Divorced,3,High School,Parental,0
+46,Female,Self-Employed,Accountant,6096.74,1574.29,72180.23,60,745,Married,1,High School,Owned,1
+41,Female,Employed,Engineer,6876.65,1966.19,22115.06,12,743,Single,2,Bachelor,Owned,1
+48,Male,Employed,Sales,5218.13,662.85,98458.84,60,793,Married,4,High School,Rented,1
+66,Female,Employed,Farmer,7095.94,367.09,147098.58,48,630,Widowed,1,Master,Mortgaged,1
+22,Female,Unemployed,Accountant,500.0,122.36,115545.35,12,746,Married,2,Master,Parental,0
+63,Female,Employed,Farmer,3063.43,370.61,43304.22,120,661,Married,3,Master,Rented,1
+21,Male,Self-Employed,Farmer,6881.31,1931.33,132688.2,12,635,Married,3,Diploma,Parental,1
+56,Male,Employed,Teacher,5799.21,1652.6,138546.62,180,610,Married,2,Bachelor,Owned,1
+46,Male,Unemployed,Other,500.0,17.22,186826.96,24,527,Married,4,Diploma,Owned,0
+49,Male,Student,Teacher,3338.57,958.06,33625.39,60,723,Married,2,Bachelor,Rented,0
+41,Male,Employed,Engineer,3884.87,429.2,140005.55,84,658,Married,0,Bachelor,Parental,1
+31,Female,Student,Doctor,500.0,96.94,182728.31,240,461,Married,2,Master,Rented,0
+60,Male,Employed,Manager,6532.07,68.1,102805.01,120,686,Married,2,High School,Owned,1
+31,Female,Employed,Doctor,7042.56,1878.01,75550.94,84,772,Married,3,Bachelor,Owned,1
+56,Female,Student,Manager,500.0,96.24,38296.15,60,575,Single,4,PhD,Owned,0
+69,Female,Employed,Engineer,7206.49,1391.33,174023.44,84,622,Single,2,Bachelor,Rented,1
+59,Female,Retired,Engineer,4311.36,1166.88,81878.04,48,715,Single,1,PhD,Owned,1
+60,Female,Employed,Sales,3800.38,579.57,185352.08,12,475,Married,3,Other,Parental,0
+55,Female,Employed,Other,4631.14,570.35,170312.87,240,637,Single,3,Bachelor,Rented,1
+54,Male,Student,Farmer,3274.2,850.76,78444.77,60,707,Married,2,Bachelor,Rented,1
+67,Male,Employed,Teacher,2659.16,592.26,116913.29,180,635,Single,1,Master,Owned,0
+44,Female,Retired,Teacher,5071.07,1443.7,10298.94,120,576,Married,2,Diploma,Owned,1
+42,Female,Retired,Engineer,4269.61,1204.19,56328.17,180,579,Married,1,Bachelor,Rented,1
+25,Male,Employed,Teacher,5763.71,661.09,143503.21,12,551,Married,3,Master,Mortgaged,1
+53,Female,Employed,Engineer,5197.54,696.97,137192.63,240,629,Married,1,Bachelor,Rented,1
+56,Female,Employed,Farmer,7955.21,610.92,73907.04,12,764,Single,2,Diploma,Mortgaged,1
+67,Male,Employed,Engineer,8176.89,1620.61,162678.57,36,868,Divorced,0,Bachelor,Mortgaged,1
+40,Other,Employed,Sales,4077.16,445.89,50988.03,180,682,Single,0,Master,Owned,1
+39,Female,Employed,Other,5918.31,1395.72,94947.75,12,741,Married,1,High School,Owned,1
+55,Male,Employed,Clerk,7811.56,284.85,97143.47,12,604,Divorced,2,Bachelor,Rented,0
+63,Female,Employed,Accountant,3822.43,133.48,71459.27,84,512,Married,4,Diploma,Rented,1
+37,Male,Retired,Other,3364.71,206.38,191159.89,60,828,Divorced,0,Bachelor,Owned,1
+65,Female,Unemployed,Other,2005.81,50.72,140853.39,84,632,Single,3,Master,Rented,0
+63,Male,Self-Employed,Doctor,977.66,181.85,110143.87,36,737,Married,2,Master,Rented,1
+54,Male,Employed,Manager,6242.83,275.97,104550.44,84,692,Married,2,Bachelor,Parental,1
+29,Female,Unemployed,Accountant,500.0,23.99,36062.74,24,759,Single,0,High School,Owned,0
+46,Female,Employed,Farmer,5288.5,22.57,77576.44,180,756,Married,4,High School,Owned,1
+22,Male,Self-Employed,Clerk,5716.52,1341.25,136190.8,84,702,Married,3,Diploma,Rented,1
+29,Male,Retired,Clerk,500.0,121.84,185291.19,48,711,Married,4,Bachelor,Rented,0
+29,Female,Employed,Other,6178.79,300.33,164210.49,48,777,Divorced,3,High School,Rented,1
+60,Male,Self-Employed,Sales,7057.49,1565.76,63576.01,120,647,Single,0,Bachelor,Parental,1
+37,Male,Unemployed,Manager,500.0,65.03,89621.54,36,804,Single,2,High School,Mortgaged,0
+21,Male,Student,Engineer,1865.04,134.06,21168.92,36,623,Married,3,Master,Rented,1
+45,Male,Self-Employed,Manager,6002.93,1119.04,24923.6,84,686,Married,2,Master,Owned,1
+63,Female,Employed,Doctor,2610.58,139.78,96694.93,240,730,Married,1,Bachelor,Rented,1
+60,Female,Employed,Manager,6136.05,1393.28,108392.78,12,549,Married,1,High School,Rented,0
+62,Male,Employed,Other,6535.65,93.36,56485.28,60,790,Single,0,Master,Mortgaged,1
+45,Female,Unemployed,Farmer,1457.93,419.5,130342.62,12,718,Married,0,Other,Parental,0
+59,Male,Employed,Other,5129.93,110.61,142159.23,12,900,Divorced,0,Diploma,Rented,1
+55,Female,Student,Farmer,500.0,86.92,63327.65,36,846,Married,1,Master,Rented,0
+23,Female,Employed,Teacher,7087.14,1918.19,152892.82,36,679,Married,3,Master,Owned,1
+57,Male,Employed,Farmer,5051.76,18.04,45092.96,48,822,Single,4,Bachelor,Owned,1
+64,Female,Employed,Manager,3644.18,545.0,111129.02,36,747,Single,0,Bachelor,Owned,1
+64,Female,Self-Employed,Manager,3522.96,369.92,161834.81,84,698,Single,4,Bachelor,Owned,1
+50,Male,Employed,Manager,5552.58,966.7,109716.77,48,547,Married,4,Bachelor,Rented,0
+58,Male,Employed,Teacher,2658.22,179.79,182052.73,180,566,Divorced,1,Bachelor,Rented,1
+54,Male,Employed,Engineer,5026.9,97.87,16407.74,12,680,Married,3,PhD,Rented,1
+32,Female,Employed,Accountant,4374.68,821.48,119721.2,180,640,Single,1,Master,Rented,1
+39,Female,Employed,Manager,7004.04,875.89,114542.31,12,698,Single,0,Diploma,Rented,1
+57,Female,Unemployed,Doctor,500.0,93.37,133768.9,12,789,Married,1,Bachelor,Rented,0
+64,Female,Employed,Clerk,6408.14,404.75,167514.33,120,749,Married,1,Bachelor,Owned,1
+69,Female,Employed,Clerk,7125.64,724.12,146541.35,12,624,Married,1,High School,Parental,1
+37,Female,Unemployed,Accountant,500.0,84.25,159105.13,240,753,Married,0,Bachelor,Owned,0
+30,Female,Retired,Accountant,500.0,88.97,61319.26,180,606,Married,0,PhD,Parental,0
+69,Male,Self-Employed,Engineer,6678.85,745.99,80561.99,12,588,Single,1,Bachelor,Rented,1
+67,Female,Employed,Doctor,3643.44,306.11,127221.51,24,710,Single,1,Diploma,Rented,1
+32,Female,Student,Other,5642.24,463.29,112924.99,24,614,Single,4,High School,Owned,0
+36,Male,Retired,Farmer,500.0,26.2,192415.26,24,628,Single,3,Bachelor,Owned,0
+44,Female,Unemployed,Farmer,755.07,73.71,41432.73,84,759,Single,4,Bachelor,Rented,0
+39,Male,Employed,Other,4964.91,297.06,73499.28,48,732,Single,3,Bachelor,Mortgaged,1
+28,Male,Self-Employed,Clerk,3687.71,701.2,116687.27,180,650,Married,3,Bachelor,Owned,1
+51,Female,Self-Employed,Other,4694.44,801.44,174252.94,12,549,Married,1,High School,Rented,0
+41,Male,Employed,Doctor,5780.97,663.52,186222.96,48,621,Married,4,High School,Owned,1
+37,Male,Employed,Manager,4748.51,464.16,70527.08,60,835,Divorced,3,Bachelor,Rented,1
+43,Male,Unemployed,Teacher,500.0,35.64,18086.15,240,757,Single,3,High School,Parental,1
+57,Female,Self-Employed,Manager,5571.64,895.01,87215.84,60,793,Divorced,0,Master,Mortgaged,1
+36,Male,Employed,Teacher,5942.08,1638.06,81897.11,36,700,Married,3,High School,Rented,1
+26,Female,Self-Employed,Farmer,4171.88,858.2,197364.98,48,651,Married,1,Bachelor,Owned,1
+28,Male,Employed,Accountant,5894.55,1316.4,89056.94,120,752,Married,2,Bachelor,Owned,1
+45,Other,Employed,Manager,6153.41,1540.28,64615.98,12,782,Single,0,Bachelor,Parental,1
+38,Female,Unemployed,Other,500.0,52.75,76248.59,84,641,Widowed,2,Master,Owned,0
+45,Male,Employed,Doctor,5841.02,110.18,82400.62,180,622,Single,1,Bachelor,Mortgaged,1
+32,Male,Employed,Doctor,4170.45,778.9,165200.37,12,558,Single,2,Master,Rented,0
+35,Male,Retired,Clerk,4203.05,237.9,20797.9,180,620,Single,3,Bachelor,Parental,1
+46,Female,Employed,Doctor,4711.4,804.3,66718.87,120,733,Single,2,Bachelor,Rented,1
+61,Male,Employed,Doctor,5917.58,1312.83,193432.11,12,632,Single,4,Master,Rented,1
+65,Male,Retired,Accountant,2349.31,552.3,34854.99,240,754,Single,1,Bachelor,Rented,1
+46,Male,Self-Employed,Other,4995.55,452.36,149807.26,36,837,Single,4,Bachelor,Parental,1
+67,Male,Self-Employed,Farmer,2531.85,389.22,74496.73,24,681,Divorced,2,Master,Parental,0
+52,Male,Student,Doctor,1054.25,196.4,118448.18,120,678,Single,4,PhD,Mortgaged,0
+30,Female,Employed,Farmer,6470.95,1590.85,24411.87,36,723,Single,0,Bachelor,Mortgaged,1
+36,Other,Self-Employed,Accountant,4700.81,1073.74,64750.28,12,634,Married,2,Bachelor,Rented,0
+27,Male,Employed,Doctor,5288.04,1567.34,102668.66,36,628,Widowed,4,High School,Mortgaged,1
+37,Female,Unemployed,Clerk,3205.34,7.77,50181.63,84,630,Single,3,Bachelor,Mortgaged,1
+43,Male,Employed,Manager,6535.46,857.76,110664.64,36,588,Single,2,Bachelor,Rented,1
+46,Female,Self-Employed,Sales,5283.31,405.83,47853.07,60,751,Widowed,0,Master,Rented,1
+41,Female,Employed,Engineer,5987.04,215.34,131769.61,240,640,Single,3,Bachelor,Rented,1
+42,Female,Employed,Doctor,6174.05,1688.32,181349.1,120,768,Married,2,Master,Rented,1
+27,Female,Unemployed,Farmer,2985.65,893.87,21670.28,24,722,Single,3,High School,Mortgaged,0
+34,Male,Self-Employed,Engineer,3373.5,182.77,47240.13,12,678,Divorced,2,Bachelor,Rented,0
+35,Female,Self-Employed,Teacher,5514.11,63.58,169662.49,120,744,Widowed,2,PhD,Owned,1
+27,Female,Employed,Doctor,5534.73,456.71,128152.93,48,604,Married,1,Diploma,Rented,0
+29,Male,Employed,Sales,4425.32,1108.36,20348.24,120,617,Single,4,High School,Owned,1
+68,Female,Self-Employed,Accountant,3850.41,339.48,99838.27,84,737,Married,2,Bachelor,Rented,1
+28,Male,Unemployed,Clerk,828.73,14.15,45902.91,120,504,Single,0,Master,Parental,0
+43,Female,Self-Employed,Sales,2710.09,42.68,43823.8,48,681,Divorced,4,Bachelor,Rented,1
+49,Male,Student,Farmer,2296.02,294.41,188425.84,36,727,Divorced,1,Bachelor,Mortgaged,0
+38,Male,Unemployed,Accountant,500.0,139.77,153500.6,60,784,Married,4,Bachelor,Owned,0
+51,Female,Self-Employed,Manager,4127.39,354.03,140764.97,36,801,Married,4,Bachelor,Parental,1
+50,Female,Self-Employed,Accountant,6035.8,773.47,51591.12,36,669,Single,2,Master,Rented,1
+59,Male,Student,Doctor,1194.62,36.53,28121.82,48,741,Married,0,Diploma,Owned,0
+55,Male,Self-Employed,Engineer,6329.0,937.15,174812.36,180,615,Married,2,Bachelor,Rented,1
+38,Female,Unemployed,Engineer,500.0,104.48,6146.52,24,644,Married,0,Bachelor,Parental,0
+62,Male,Self-Employed,Farmer,2354.4,191.52,80678.8,48,789,Married,0,Master,Owned,1
+59,Male,Self-Employed,Accountant,3565.01,317.33,59134.44,36,676,Single,3,Master,Rented,1
+37,Female,Employed,Sales,777.93,196.5,116223.36,120,692,Married,2,Master,Parental,0
+34,Female,Employed,Farmer,6358.64,19.77,53849.14,24,597,Divorced,1,Bachelor,Owned,1
+51,Male,Retired,Clerk,1441.65,275.27,65685.05,12,713,Widowed,4,High School,Rented,0
+44,Female,Self-Employed,Farmer,3073.46,363.18,170757.77,12,740,Married,3,Diploma,Rented,1
+55,Female,Self-Employed,Farmer,5074.42,454.23,122621.82,84,737,Married,1,Master,Rented,1
+64,Female,Retired,Manager,3178.68,627.08,33408.09,36,583,Single,2,Master,Rented,0
+65,Female,Self-Employed,Doctor,3339.18,836.13,146661.95,120,759,Widowed,0,Other,Owned,1
+54,Male,Employed,Manager,1945.19,325.85,45454.54,180,600,Married,2,High School,Mortgaged,1
+23,Male,Unemployed,Engineer,2451.21,22.87,89435.96,60,677,Married,2,Bachelor,Owned,0
+57,Male,Self-Employed,Engineer,5084.62,703.81,131088.41,60,550,Married,3,Bachelor,Rented,0
+63,Female,Employed,Teacher,8083.58,1122.23,58026.26,24,665,Married,1,Master,Rented,1
+60,Male,Employed,Teacher,4105.43,669.76,79900.83,180,599,Single,3,Bachelor,Rented,1
+46,Female,Employed,Sales,2818.32,567.29,148159.17,12,644,Single,1,Master,Rented,1
+43,Male,Employed,Engineer,6492.13,37.63,187892.64,240,684,Married,3,Bachelor,Mortgaged,1
+64,Male,Employed,Manager,4717.91,710.54,108202.79,12,746,Divorced,4,Diploma,Parental,1
+59,Female,Employed,Clerk,5942.25,1048.76,6944.34,12,743,Married,0,Diploma,Mortgaged,1
+35,Male,Employed,Teacher,7429.87,765.32,71000.43,12,493,Married,0,High School,Rented,0
+69,Male,Employed,Accountant,5582.23,1119.29,82733.7,120,734,Married,0,Bachelor,Mortgaged,1
+24,Female,Employed,Teacher,5250.95,359.44,71138.86,48,696,Married,4,High School,Parental,1
+49,Male,Self-Employed,Engineer,4345.0,413.7,90072.43,120,635,Married,4,Bachelor,Rented,0
+42,Female,Student,Farmer,500.0,144.41,128369.92,60,609,Married,0,Bachelor,Owned,0
+45,Female,Self-Employed,Doctor,5662.06,591.24,28619.97,120,675,Single,0,Master,Owned,1
+33,Male,Employed,Engineer,6758.13,702.51,58162.95,120,698,Divorced,1,Master,Rented,1
+38,Female,Employed,Farmer,5795.86,1035.74,103991.38,48,710,Married,1,Bachelor,Parental,1
+53,Male,Employed,Clerk,2726.89,794.32,66536.8,24,664,Married,2,High School,Rented,1
+36,Male,Employed,Clerk,4818.28,1421.03,198261.64,180,478,Single,3,Diploma,Rented,1
+65,Male,Employed,Accountant,7157.79,1244.72,89129.14,24,640,Single,1,Other,Owned,0
+62,Male,Employed,Other,4151.37,1.35,174610.83,240,585,Divorced,1,Bachelor,Owned,1
+64,Female,Employed,Manager,6776.38,1830.96,179819.42,60,844,Single,1,Diploma,Rented,1
+22,Male,Unemployed,Doctor,582.64,99.67,168021.36,240,684,Married,1,Master,Parental,0
+55,Female,Employed,Engineer,6068.76,666.34,14145.16,240,739,Married,4,Bachelor,Rented,1
+62,Female,Employed,Engineer,4381.79,1090.01,189810.61,180,730,Married,2,Master,Mortgaged,1
+54,Female,Unemployed,Other,626.57,75.16,30104.8,180,704,Single,1,Bachelor,Owned,0
+50,Male,Employed,Accountant,5655.07,57.76,11708.71,48,646,Single,3,Bachelor,Rented,1
+33,Male,Employed,Sales,3375.15,831.37,85802.07,48,636,Divorced,1,Bachelor,Rented,0
+33,Female,Self-Employed,Teacher,4410.87,722.31,42953.64,24,518,Married,4,Master,Mortgaged,0
+38,Male,Self-Employed,Accountant,500.0,50.72,40918.32,48,691,Single,0,Master,Owned,1
+52,Male,Self-Employed,Farmer,3097.75,233.16,61124.82,48,704,Single,0,Bachelor,Owned,1
+52,Male,Employed,Accountant,5815.82,1036.03,53439.09,84,676,Widowed,2,Diploma,Owned,1
+55,Male,Employed,Other,6680.39,416.96,138535.1,36,691,Single,0,Bachelor,Parental,1
+59,Female,Employed,Other,5709.13,554.67,41421.57,24,583,Married,1,Other,Owned,1
+66,Male,Employed,Manager,2914.52,556.56,110908.07,180,656,Married,4,Bachelor,Owned,1
+49,Male,Student,Doctor,2549.29,674.19,197353.18,24,628,Divorced,2,Master,Rented,0
+69,Male,Self-Employed,Clerk,2291.28,366.3,89314.57,180,733,Married,1,Bachelor,Rented,1
+49,Female,Employed,Other,5921.3,1348.47,130165.26,120,683,Married,0,Bachelor,Mortgaged,1
+64,Female,Self-Employed,Manager,2341.25,535.95,194027.48,36,628,Single,3,Bachelor,Parental,1
+36,Male,Employed,Teacher,3840.19,765.37,31839.6,84,667,Divorced,1,Master,Rented,1
+64,Female,Student,Clerk,500.0,36.88,86628.37,84,596,Married,3,Master,Parental,0
+67,Female,Employed,Sales,5208.44,1354.38,170787.52,60,653,Divorced,3,Bachelor,Mortgaged,1
+30,Female,Employed,Engineer,4706.7,616.03,186799.61,180,726,Married,2,Bachelor,Owned,1
+50,Female,Employed,Teacher,5763.36,76.44,122241.03,60,573,Married,4,Bachelor,Parental,1
+45,Male,Self-Employed,Sales,3972.05,291.48,32967.02,120,675,Single,0,Diploma,Rented,1
+59,Male,Self-Employed,Clerk,1723.19,395.76,180786.96,84,620,Married,0,PhD,Rented,0
+40,Male,Employed,Teacher,5413.72,112.28,39017.08,120,573,Single,1,Bachelor,Rented,1
+25,Male,Employed,Manager,2356.75,104.19,73811.18,240,829,Married,0,Master,Rented,1
+21,Other,Employed,Sales,3674.22,765.22,78224.06,36,780,Single,2,Master,Owned,1
+50,Male,Employed,Engineer,4454.13,1192.73,92221.85,120,632,Single,0,Master,Mortgaged,1
+69,Male,Student,Manager,500.0,95.06,159082.33,36,656,Single,1,PhD,Mortgaged,0
+23,Female,Employed,Farmer,2528.88,168.64,161418.15,24,518,Single,0,Bachelor,Mortgaged,0
+65,Female,Employed,Engineer,7056.74,113.08,145332.74,120,552,Divorced,4,Master,Owned,1
+34,Male,Self-Employed,Doctor,6472.0,1194.33,9315.09,48,589,Married,3,Diploma,Parental,1
+50,Male,Employed,Accountant,8376.16,119.11,115144.79,12,677,Married,3,Bachelor,Owned,1
+24,Male,Self-Employed,Doctor,5721.48,1051.7,150761.13,84,670,Single,3,Master,Rented,1
+38,Female,Unemployed,Other,500.0,33.84,91701.92,84,706,Married,4,Bachelor,Owned,0
+57,Male,Employed,Farmer,4380.98,1188.98,189262.53,84,734,Married,2,Master,Owned,1
+45,Male,Student,Farmer,500.0,71.26,165643.05,24,702,Widowed,1,Master,Rented,0
+68,Male,Self-Employed,Accountant,6978.46,468.82,129440.24,12,593,Married,4,Master,Rented,0
+21,Male,Employed,Sales,4826.69,1235.36,17172.91,36,705,Married,1,Bachelor,Mortgaged,1
+66,Female,Employed,Accountant,6903.85,526.15,132207.52,24,730,Married,2,Bachelor,Parental,1
+35,Male,Employed,Other,6787.15,624.28,182758.02,84,645,Single,4,Bachelor,Mortgaged,1
+29,Male,Self-Employed,Doctor,4284.32,1072.29,78991.85,84,532,Married,0,Master,Rented,1
+35,Female,Unemployed,Farmer,500.0,46.32,168435.84,60,774,Single,2,Bachelor,Mortgaged,0
+69,Female,Unemployed,Doctor,500.0,61.52,66066.42,60,687,Single,3,Bachelor,Mortgaged,0
+44,Male,Retired,Engineer,3220.45,335.89,116170.14,240,458,Single,4,Bachelor,Rented,0
+24,Female,Unemployed,Teacher,2416.88,84.4,131442.76,60,845,Married,2,Diploma,Mortgaged,0
+32,Female,Self-Employed,Other,4029.19,47.02,137209.03,84,641,Married,2,Diploma,Rented,1
+57,Female,Employed,Teacher,3187.09,692.75,177097.12,48,875,Married,4,High School,Rented,1
+57,Male,Employed,Other,6481.86,1254.51,50751.34,12,710,Married,3,Bachelor,Rented,1
+63,Female,Employed,Clerk,4658.69,394.64,56162.07,48,663,Single,3,Master,Rented,1
+26,Male,Self-Employed,Engineer,500.0,44.34,142287.99,24,694,Married,2,High School,Mortgaged,1
+59,Male,Employed,Sales,5487.48,1555.71,39552.79,36,623,Married,1,High School,Rented,1
+66,Male,Employed,Other,5751.16,1704.08,95532.73,120,684,Divorced,2,Bachelor,Rented,1
+44,Male,Employed,Teacher,3735.59,530.57,8906.7,120,840,Married,4,Master,Parental,1
+31,Female,Employed,Other,4711.93,1134.33,32490.97,12,608,Married,4,Diploma,Parental,1
+33,Male,Self-Employed,Sales,4986.58,1102.06,137375.05,180,722,Married,4,Bachelor,Owned,1
+54,Male,Employed,Other,5497.68,490.37,150755.01,120,622,Single,3,Diploma,Owned,1
+45,Female,Self-Employed,Manager,1656.01,29.09,27487.21,12,666,Single,0,Bachelor,Rented,0
+27,Male,Employed,Other,6880.33,294.25,49403.36,180,838,Single,4,Diploma,Rented,1
+24,Male,Self-Employed,Clerk,6559.5,1649.64,24286.37,24,722,Single,4,Bachelor,Owned,1
+28,Male,Employed,Clerk,4234.72,928.95,89515.5,180,739,Married,1,Master,Rented,1
+40,Male,Employed,Farmer,2135.19,425.54,29592.63,36,685,Widowed,1,Bachelor,Mortgaged,1
+49,Male,Self-Employed,Clerk,5156.67,202.11,90272.72,120,895,Married,2,High School,Mortgaged,1
+65,Female,Employed,Other,3990.36,766.07,147759.16,84,604,Married,2,Bachelor,Rented,1
+66,Male,Employed,Other,5803.17,1344.28,138260.78,60,553,Married,2,Bachelor,Rented,1
+30,Male,Employed,Manager,8303.26,2143.74,59689.79,24,814,Single,4,PhD,Rented,1
+63,Female,Employed,Clerk,2680.54,10.64,136383.7,24,649,Single,1,Bachelor,Owned,0
+54,Female,Employed,Doctor,3805.07,781.34,185903.87,12,712,Married,2,Master,Rented,1
+46,Male,Employed,Other,4708.28,26.98,72767.26,240,817,Married,1,Master,Owned,1
+61,Female,Self-Employed,Engineer,5937.52,1259.12,69178.23,180,713,Widowed,4,Diploma,Rented,1
+69,Male,Unemployed,Engineer,5833.43,1112.36,116430.54,180,858,Married,4,PhD,Rented,1
+23,Male,Employed,Teacher,5370.63,239.02,52872.85,12,690,Divorced,2,Bachelor,Rented,1
+26,Male,Retired,Manager,551.67,126.79,132057.89,60,623,Married,4,Bachelor,Rented,0
+25,Male,Employed,Sales,4481.72,91.89,167291.05,84,491,Married,4,High School,Rented,1
+25,Female,Self-Employed,Doctor,2837.7,703.52,94567.11,24,704,Married,1,Bachelor,Owned,0
+67,Male,Self-Employed,Other,5082.38,399.37,137503.93,60,501,Single,0,Bachelor,Owned,0
+43,Female,Self-Employed,Accountant,4565.33,943.45,132117.66,84,705,Single,3,Bachelor,Rented,1
+69,Male,Employed,Accountant,3437.28,952.49,12539.78,240,796,Single,2,Bachelor,Owned,1
+29,Female,Employed,Sales,3749.77,382.28,40766.18,12,678,Married,0,Bachelor,Owned,0
+55,Female,Employed,Farmer,4459.91,672.86,179238.35,36,695,Married,2,Bachelor,Rented,0
+40,Female,Employed,Accountant,4640.96,644.79,188083.97,240,753,Single,0,Bachelor,Mortgaged,1
+69,Male,Employed,Sales,4936.72,233.42,157185.73,12,733,Married,4,High School,Rented,0
+62,Female,Employed,Accountant,5073.31,898.45,184643.39,12,772,Single,2,Bachelor,Rented,1
+55,Male,Employed,Manager,6852.28,1527.38,64698.99,12,678,Married,0,Bachelor,Parental,1
+38,Female,Employed,Teacher,4405.68,1211.84,53303.64,120,499,Married,3,Bachelor,Parental,1
+37,Female,Self-Employed,Farmer,3184.65,812.85,79938.54,60,774,Married,4,High School,Rented,1
+44,Female,Student,Manager,500.0,76.5,15791.69,84,660,Married,2,Diploma,Mortgaged,0
+23,Male,Retired,Sales,2664.21,574.68,162924.97,180,609,Single,2,Diploma,Rented,0
+52,Male,Employed,Doctor,5384.29,1293.5,196914.22,24,706,Married,0,PhD,Parental,0
+55,Male,Self-Employed,Clerk,1413.86,209.32,165685.71,24,694,Single,2,Bachelor,Rented,0
+58,Male,Student,Doctor,500.0,17.31,113220.19,36,620,Single,4,High School,Mortgaged,0
+33,Female,Employed,Engineer,6740.44,885.55,62579.98,36,577,Single,1,High School,Mortgaged,1
+67,Female,Employed,Clerk,5972.46,1509.5,43551.09,36,717,Married,0,High School,Rented,1
+45,Female,Retired,Sales,3560.15,637.24,75992.26,48,612,Married,3,Bachelor,Mortgaged,0
+29,Male,Employed,Engineer,5931.82,1289.21,135059.06,36,689,Married,2,Diploma,Owned,1
+24,Female,Employed,Accountant,4139.44,230.07,92177.0,24,709,Married,4,Bachelor,Owned,0
+34,Female,Employed,Accountant,3939.62,1139.74,187141.66,240,757,Single,2,Bachelor,Rented,1
+57,Female,Employed,Clerk,6907.86,837.4,171572.97,84,849,Divorced,3,Master,Parental,1
+54,Female,Unemployed,Other,1742.96,341.78,24968.12,36,698,Married,4,Bachelor,Rented,1
+31,Male,Self-Employed,Doctor,2880.59,16.31,30647.42,240,645,Married,3,Bachelor,Rented,1
+61,Female,Employed,Engineer,2181.91,83.34,136866.64,48,812,Married,4,Master,Rented,0
+23,Male,Employed,Doctor,3911.73,917.73,49999.84,48,763,Single,1,Bachelor,Owned,1
+48,Male,Self-Employed,Clerk,4815.3,1398.32,159250.83,180,693,Single,4,Master,Rented,1
+49,Male,Self-Employed,Manager,3012.61,289.26,120314.84,120,698,Married,3,Bachelor,Mortgaged,1
+29,Female,Employed,Accountant,5495.1,61.29,49816.95,120,682,Single,0,Bachelor,Parental,1
+23,Female,Student,Engineer,3129.66,338.82,98343.93,120,692,Single,1,Bachelor,Owned,1
+45,Other,Employed,Engineer,4860.46,25.47,84184.88,60,671,Divorced,2,Other,Rented,1
+54,Female,Employed,Sales,5350.94,308.81,175266.08,120,602,Married,1,Bachelor,Owned,1
+32,Male,Self-Employed,Engineer,5027.36,1134.88,11271.68,48,680,Married,1,PhD,Owned,1
+62,Male,Employed,Clerk,3376.87,949.33,179689.56,180,820,Married,2,Diploma,Rented,1
+29,Male,Unemployed,Engineer,500.0,13.12,132156.12,240,614,Widowed,4,Bachelor,Rented,0
+35,Male,Self-Employed,Engineer,5089.24,851.79,148819.95,36,658,Single,1,PhD,Owned,1
+60,Male,Unemployed,Doctor,555.45,42.31,5508.46,120,608,Married,1,Bachelor,Owned,1
+45,Male,Employed,Teacher,5182.64,216.21,127506.69,240,772,Married,0,Other,Mortgaged,1
+25,Male,Employed,Engineer,5049.93,331.75,119754.8,12,746,Single,0,High School,Parental,0
+31,Female,Employed,Other,6467.44,1120.99,109755.08,24,577,Single,3,PhD,Rented,1
+54,Male,Employed,Farmer,5653.57,110.47,158244.04,120,518,Married,2,Bachelor,Rented,1
+44,Female,Self-Employed,Sales,4673.23,608.76,113394.86,24,749,Married,4,High School,Owned,0
+35,Female,Unemployed,Doctor,2333.3,94.66,172133.95,120,572,Single,4,Master,Parental,0
+58,Male,Self-Employed,Sales,6409.86,524.35,50363.14,12,746,Married,3,Bachelor,Rented,1
+28,Male,Student,Manager,4365.39,249.81,162166.6,36,628,Married,4,High School,Mortgaged,0
+25,Male,Self-Employed,Engineer,3131.48,829.51,39965.99,60,735,Married,4,High School,Owned,1
+68,Male,Employed,Accountant,8704.11,1848.78,163557.97,84,715,Divorced,0,Bachelor,Rented,1
+46,Female,Employed,Other,3354.84,874.07,188390.39,240,637,Divorced,4,Other,Rented,1
+38,Male,Self-Employed,Doctor,6902.87,794.1,70460.36,240,609,Married,4,High School,Owned,1
+26,Male,Employed,Sales,4049.06,380.71,108327.83,36,726,Widowed,3,Bachelor,Owned,1
+57,Male,Employed,Engineer,4896.59,559.07,133374.16,180,624,Single,3,Diploma,Rented,1
+68,Other,Employed,Accountant,5027.86,27.98,20496.97,48,768,Single,1,Master,Mortgaged,1
+33,Female,Unemployed,Accountant,500.0,108.71,101345.74,120,613,Married,4,High School,Owned,0
+48,Female,Employed,Manager,5130.08,538.31,75314.07,84,708,Married,4,Diploma,Rented,1
+25,Male,Unemployed,Other,500.0,47.0,175128.85,180,648,Married,4,Diploma,Owned,0
+33,Female,Unemployed,Teacher,500.0,89.72,175952.51,84,680,Married,0,Bachelor,Owned,0
+37,Female,Employed,Other,4941.91,646.77,141652.01,48,623,Single,4,Master,Rented,0
+60,Female,Employed,Manager,7384.82,2173.0,132866.27,24,665,Single,0,Bachelor,Rented,1
+65,Other,Employed,Clerk,4618.97,493.66,148069.25,120,475,Divorced,1,High School,Rented,0
+52,Male,Self-Employed,Doctor,5411.53,996.63,76367.45,48,614,Divorced,2,Bachelor,Rented,1
+49,Female,Self-Employed,Manager,2731.5,255.38,83881.25,240,632,Married,4,Master,Rented,1
+23,Female,Student,Manager,500.0,148.59,112972.42,240,674,Married,3,High School,Rented,0
+60,Male,Self-Employed,Doctor,4680.79,625.04,187915.48,120,783,Married,3,High School,Parental,1
+54,Male,Employed,Doctor,7633.42,1452.17,146179.98,60,624,Single,4,Diploma,Rented,1
+60,Female,Employed,Doctor,5313.43,202.0,112442.9,36,793,Married,0,Master,Mortgaged,1
+47,Male,Self-Employed,Engineer,5239.97,1152.31,155230.54,36,611,Married,3,Bachelor,Owned,0
+33,Female,Employed,Sales,7242.69,584.94,77323.61,240,591,Married,3,Bachelor,Rented,1
+65,Female,Employed,Farmer,4945.2,665.55,147441.01,240,529,Single,1,Diploma,Rented,1
+53,Female,Employed,Doctor,4771.91,1264.27,85081.87,48,728,Widowed,1,Bachelor,Rented,1
+26,Male,Employed,Sales,5708.13,1662.01,59533.97,12,686,Married,1,Other,Rented,1
+44,Female,Employed,Farmer,5975.03,761.05,123896.19,60,723,Single,3,Diploma,Owned,1
+39,Male,Employed,Sales,2901.54,726.66,138941.12,180,690,Married,3,PhD,Owned,1
+36,Male,Employed,Doctor,5443.59,87.12,94562.24,48,679,Divorced,4,Bachelor,Owned,1
+60,Male,Employed,Teacher,4998.98,1271.1,115272.64,48,702,Single,4,High School,Mortgaged,1
+48,Female,Self-Employed,Manager,2815.72,531.76,140342.88,240,852,Married,0,Bachelor,Mortgaged,1
+53,Male,Unemployed,Sales,500.0,73.31,154703.46,240,642,Married,3,PhD,Owned,0
+68,Female,Employed,Accountant,3252.01,868.25,179636.44,120,844,Married,4,Bachelor,Rented,1
+61,Female,Unemployed,Accountant,500.0,126.8,74136.12,180,748,Married,4,Master,Owned,0
+33,Female,Employed,Sales,5100.27,454.35,190538.06,48,709,Married,1,Bachelor,Owned,1
+63,Female,Employed,Doctor,6353.12,1508.53,129269.56,180,724,Single,1,Bachelor,Mortgaged,1
+65,Male,Student,Other,500.0,14.92,158601.87,84,424,Single,1,Master,Rented,0
+45,Female,Self-Employed,Doctor,2558.91,631.61,141454.96,36,659,Single,2,PhD,Owned,1
+62,Male,Unemployed,Doctor,500.0,101.32,45086.49,120,626,Married,4,Bachelor,Owned,0
+56,Female,Employed,Other,5823.42,153.5,18930.48,36,848,Married,1,Bachelor,Mortgaged,1
+47,Male,Employed,Teacher,7501.08,1537.15,146625.86,120,652,Single,1,High School,Owned,1
+58,Male,Student,Clerk,2155.68,375.42,104655.27,60,677,Married,3,Bachelor,Rented,0
+27,Female,Employed,Accountant,6951.19,1239.85,141931.61,48,676,Married,1,Bachelor,Rented,1
+25,Male,Employed,Manager,3428.56,299.17,97984.35,36,575,Single,3,High School,Rented,1
+63,Male,Self-Employed,Accountant,3889.11,310.93,65885.73,180,635,Married,0,Bachelor,Rented,1
+65,Female,Unemployed,Clerk,2028.04,463.93,60578.49,48,745,Married,1,Bachelor,Mortgaged,0
+51,Female,Student,Engineer,500.0,38.52,147453.77,180,509,Married,3,Other,Owned,0
+43,Female,Employed,Teacher,4012.44,537.18,58972.12,36,704,Single,1,Bachelor,Mortgaged,1
+62,Male,Student,Teacher,2413.03,502.96,144361.99,240,607,Married,0,Bachelor,Owned,0
+30,Female,Employed,Engineer,5387.64,128.68,79872.22,84,783,Widowed,1,Other,Rented,1
+52,Male,Employed,Manager,3552.33,633.61,155325.19,60,711,Married,3,Diploma,Mortgaged,1
+63,Female,Self-Employed,Other,1553.77,274.73,32847.94,60,558,Married,0,Bachelor,Rented,1
+50,Female,Employed,Farmer,7005.97,1438.11,44971.09,36,646,Married,0,Bachelor,Mortgaged,1
+59,Female,Employed,Clerk,1919.92,213.07,138752.76,24,716,Single,0,High School,Mortgaged,0
+51,Male,Self-Employed,Farmer,4948.59,666.55,114245.07,84,655,Married,2,Master,Owned,1
+38,Male,Employed,Manager,4200.43,415.8,44756.28,12,691,Single,3,High School,Mortgaged,0
+56,Male,Employed,Other,6570.6,1593.05,181051.27,120,678,Single,2,High School,Parental,1
+22,Male,Employed,Teacher,3436.78,134.66,58809.11,60,749,Married,0,Diploma,Rented,1
+34,Male,Employed,Other,8922.2,2577.5,87108.92,48,715,Single,2,PhD,Owned,1
+33,Female,Employed,Accountant,5603.45,1067.18,44446.15,240,676,Married,1,Bachelor,Owned,1
+49,Male,Unemployed,Clerk,1350.6,359.36,80665.39,12,681,Single,2,Bachelor,Owned,0
+32,Female,Unemployed,Other,500.0,63.93,100871.12,48,593,Single,4,Bachelor,Owned,0
+59,Male,Employed,Doctor,4799.93,478.47,62573.18,36,797,Married,0,Bachelor,Rented,1
+22,Female,Unemployed,Doctor,500.0,135.11,154973.27,84,900,Divorced,0,Bachelor,Owned,1
+52,Female,Employed,Other,7694.1,228.22,81816.93,60,653,Single,3,Bachelor,Owned,1
+33,Male,Employed,Teacher,5600.87,196.77,147254.45,120,683,Married,1,High School,Rented,1
+66,Male,Unemployed,Other,1315.74,118.16,45379.07,12,761,Single,3,Bachelor,Rented,0
+47,Female,Employed,Sales,5798.97,1669.71,78521.92,60,760,Married,2,High School,Rented,1
+69,Male,Retired,Manager,3942.92,748.84,6571.37,24,694,Married,4,Diploma,Mortgaged,1
+61,Female,Employed,Doctor,2915.82,484.78,152934.33,24,601,Single,4,Master,Owned,0
+37,Female,Unemployed,Farmer,3573.9,756.26,127047.9,24,825,Married,4,Bachelor,Owned,0
+60,Female,Employed,Other,3683.77,461.36,164475.55,240,734,Single,4,Bachelor,Owned,1
+51,Male,Employed,Doctor,4942.39,1124.01,93844.1,36,697,Single,1,Bachelor,Rented,1
+54,Female,Employed,Manager,7297.22,860.85,160949.43,48,622,Married,2,Bachelor,Owned,1
+44,Female,Self-Employed,Manager,6901.94,1711.05,131278.6,60,684,Married,4,Bachelor,Mortgaged,1
+65,Female,Employed,Farmer,6208.93,497.89,5704.52,48,534,Married,0,Master,Owned,1
+55,Male,Retired,Sales,2242.96,186.76,54470.39,48,739,Married,2,Bachelor,Parental,0
+68,Female,Employed,Other,5191.6,813.6,101308.81,60,758,Married,1,Other,Rented,1
+26,Male,Employed,Engineer,5250.45,678.51,125644.03,240,698,Married,4,Other,Rented,1
+39,Female,Employed,Other,5303.59,1031.2,17790.22,240,603,Married,1,Bachelor,Mortgaged,1
+50,Male,Self-Employed,Clerk,2154.92,235.51,142490.59,84,716,Married,4,Master,Mortgaged,1
+27,Female,Student,Accountant,2890.16,199.9,110989.54,36,742,Married,0,Bachelor,Rented,0
+30,Male,Employed,Teacher,5201.88,733.17,107526.96,84,620,Married,2,Bachelor,Parental,1
+61,Female,Self-Employed,Manager,2916.67,490.84,61948.88,48,754,Married,0,High School,Rented,1
+52,Female,Employed,Engineer,4252.41,181.92,120990.5,36,721,Married,4,Bachelor,Mortgaged,1
+54,Female,Self-Employed,Teacher,4404.78,735.67,10361.11,84,658,Married,3,PhD,Rented,1
+48,Male,Student,Doctor,500.0,47.89,17616.56,84,635,Married,2,Master,Mortgaged,0
+35,Male,Employed,Other,6317.65,743.81,148104.67,24,665,Married,1,Master,Owned,1
+50,Other,Employed,Teacher,5352.1,448.48,67768.81,240,602,Married,4,Diploma,Owned,1
+57,Male,Retired,Doctor,5348.53,1494.5,72658.58,180,700,Divorced,0,Bachelor,Rented,1
+49,Female,Student,Accountant,1116.38,228.86,45635.11,84,724,Married,3,Diploma,Owned,0
+42,Female,Self-Employed,Doctor,2372.1,186.77,91896.03,12,773,Divorced,4,Bachelor,Owned,0
+24,Female,Employed,Engineer,3203.3,619.87,15138.72,24,703,Married,1,Bachelor,Rented,1
+40,Male,Employed,Manager,4413.94,1123.66,63570.83,48,711,Widowed,0,Bachelor,Rented,1
+52,Female,Employed,Farmer,4572.64,550.95,107789.16,120,658,Married,2,Bachelor,Mortgaged,1
+56,Female,Unemployed,Doctor,500.0,124.49,95798.22,240,610,Widowed,3,Bachelor,Rented,0
+24,Male,Self-Employed,Other,4192.72,194.23,199935.58,60,645,Single,4,Bachelor,Mortgaged,1
+47,Female,Employed,Teacher,4111.03,1014.74,80809.11,24,794,Single,4,High School,Rented,1
+37,Male,Employed,Farmer,5381.31,872.25,80464.82,12,730,Married,4,Master,Owned,0
+32,Male,Employed,Farmer,4219.03,282.22,103198.45,12,712,Widowed,4,High School,Owned,1
+42,Male,Employed,Teacher,5947.56,726.45,42109.11,60,534,Married,0,High School,Rented,1
+37,Male,Employed,Teacher,4534.85,1344.12,175879.36,120,705,Single,2,Master,Rented,1
+30,Female,Employed,Manager,6869.31,1614.75,116592.22,240,573,Married,1,Other,Owned,1
+21,Male,Employed,Engineer,5978.44,1031.44,42460.99,240,579,Married,3,Master,Rented,1
+42,Male,Employed,Accountant,5290.38,182.78,159721.11,180,588,Single,4,High School,Rented,1
+46,Male,Employed,Engineer,4688.48,587.67,11694.77,12,618,Married,4,Diploma,Rented,1
+38,Female,Employed,Teacher,2721.49,214.77,196600.02,60,746,Widowed,2,Other,Mortgaged,1
+34,Female,Employed,Other,7120.32,151.67,173704.12,84,698,Divorced,2,Master,Mortgaged,1
+67,Male,Employed,Sales,3978.83,647.2,118029.69,84,604,Single,0,Bachelor,Mortgaged,1
+49,Male,Employed,Sales,5136.1,1370.08,26702.65,48,633,Single,0,Diploma,Parental,1
+32,Female,Employed,Accountant,5515.71,1117.92,46978.19,12,719,Married,0,High School,Owned,1
+56,Male,Employed,Teacher,4724.73,353.9,59489.86,36,735,Married,3,High School,Rented,1
+55,Male,Unemployed,Sales,2531.9,435.68,52001.19,48,690,Single,0,Bachelor,Mortgaged,0
+32,Male,Student,Accountant,500.0,141.49,102016.4,48,588,Married,4,High School,Rented,0
+27,Female,Self-Employed,Farmer,6600.9,1431.57,189189.27,48,646,Married,0,Other,Mortgaged,1
+49,Male,Employed,Accountant,6007.34,1242.57,91613.65,60,870,Divorced,3,Diploma,Rented,1
+31,Male,Student,Farmer,630.37,183.09,134005.09,240,583,Divorced,0,Master,Rented,0
+53,Male,Self-Employed,Manager,3647.16,874.08,139273.73,48,709,Single,0,Diploma,Owned,1
+26,Other,Employed,Sales,1674.77,68.64,174958.24,240,849,Widowed,4,Bachelor,Parental,1
+67,Male,Employed,Accountant,3727.65,388.76,11595.15,240,658,Married,4,High School,Mortgaged,1
+35,Female,Student,Accountant,500.0,144.77,83844.36,12,826,Married,4,Master,Mortgaged,0
+52,Male,Employed,Accountant,5264.16,773.37,158023.35,60,624,Married,0,Bachelor,Rented,1
+31,Male,Employed,Other,6889.37,230.73,163899.07,240,522,Married,4,High School,Owned,1
+43,Female,Self-Employed,Accountant,7056.32,970.82,185829.86,48,633,Single,2,Master,Owned,1
+46,Male,Unemployed,Other,908.4,189.94,142044.9,60,619,Married,1,Bachelor,Mortgaged,0
+54,Female,Employed,Manager,5308.41,1588.62,52805.02,48,546,Single,1,PhD,Rented,1
+66,Female,Employed,Clerk,4264.47,414.39,103604.82,24,646,Married,4,PhD,Owned,0
+54,Female,Employed,Teacher,2427.35,374.36,11307.33,24,759,Single,3,PhD,Rented,1
+49,Male,Self-Employed,Farmer,3091.32,815.81,131151.03,24,632,Single,4,High School,Rented,0
+24,Female,Employed,Teacher,4691.75,500.05,113087.57,12,649,Married,4,High School,Rented,0
+37,Male,Employed,Engineer,6463.09,211.85,135033.07,36,789,Married,0,Other,Rented,1
+55,Female,Unemployed,Sales,1279.27,364.18,186377.41,12,620,Married,3,Bachelor,Rented,0
+33,Female,Employed,Doctor,5332.32,781.36,139018.94,48,729,Single,4,Diploma,Mortgaged,1
+61,Female,Self-Employed,Manager,3128.8,471.93,67487.74,12,543,Divorced,2,Master,Owned,0
+59,Male,Employed,Other,2026.82,377.72,43753.65,48,602,Married,1,Bachelor,Rented,1
+35,Female,Employed,Engineer,2117.37,2.25,171654.06,36,662,Single,2,Master,Rented,0
+49,Male,Self-Employed,Accountant,1504.4,420.24,42894.77,240,776,Married,2,Master,Parental,1
+49,Female,Employed,Engineer,4561.99,494.68,36513.87,12,606,Married,2,Master,Rented,0
+31,Male,Employed,Engineer,6491.07,772.95,45289.36,180,606,Single,3,Bachelor,Rented,1
+52,Male,Employed,Farmer,6450.6,336.93,104223.97,240,701,Married,3,Bachelor,Rented,1
+22,Female,Self-Employed,Doctor,5190.57,588.85,29216.55,120,714,Married,3,Bachelor,Rented,1
+67,Female,Retired,Engineer,2227.36,537.2,187933.07,12,597,Married,1,Bachelor,Parental,0
+34,Male,Retired,Farmer,4716.39,1131.92,193419.47,48,638,Single,0,Diploma,Mortgaged,0
+40,Female,Employed,Accountant,3603.39,1011.61,194891.36,12,766,Divorced,4,Bachelor,Rented,1
+42,Male,Employed,Teacher,6280.09,759.7,12629.34,48,585,Single,4,Bachelor,Rented,1
+31,Male,Employed,Accountant,2488.14,529.02,189508.52,36,707,Divorced,0,Bachelor,Owned,0
+47,Male,Unemployed,Sales,500.0,76.09,199495.91,24,638,Single,4,Master,Rented,0
+23,Male,Employed,Engineer,7478.92,1803.97,188773.68,12,792,Married,2,Bachelor,Mortgaged,0
+37,Male,Retired,Engineer,2694.25,575.93,135833.09,84,726,Married,1,Diploma,Rented,1
+64,Female,Employed,Teacher,3978.55,439.12,141739.88,120,750,Single,4,Bachelor,Owned,1
+48,Male,Retired,Manager,4654.14,470.08,28839.32,84,636,Married,1,Master,Parental,1
+49,Male,Unemployed,Engineer,2326.06,176.16,175487.93,240,745,Married,0,Bachelor,Rented,1
+41,Female,Unemployed,Doctor,500.0,86.48,16629.72,240,743,Single,4,Bachelor,Rented,1
+67,Male,Employed,Clerk,5417.7,1566.54,66957.46,24,721,Married,1,High School,Owned,1
+36,Male,Employed,Engineer,5205.36,312.43,198274.57,24,657,Married,2,Bachelor,Rented,0
+57,Female,Employed,Clerk,759.35,21.7,87353.94,240,693,Single,2,PhD,Mortgaged,1
+40,Female,Employed,Accountant,2906.21,104.1,30575.46,12,531,Widowed,0,PhD,Rented,0
+26,Female,Employed,Manager,6413.38,1506.69,194012.46,60,820,Divorced,3,Bachelor,Rented,1
+39,Female,Employed,Farmer,3751.09,393.98,196907.23,12,631,Single,4,Master,Owned,0
+25,Female,Employed,Other,5794.76,390.05,41473.32,120,653,Married,2,Master,Rented,1
+23,Male,Self-Employed,Manager,4394.56,465.18,173636.74,240,574,Single,2,Other,Parental,1
+21,Female,Self-Employed,Other,5823.15,1127.36,81132.55,84,733,Married,0,Bachelor,Rented,1
+58,Male,Employed,Accountant,2954.31,484.61,79366.85,24,722,Divorced,2,Bachelor,Parental,1
+35,Female,Retired,Manager,3591.31,801.14,56226.04,84,656,Married,4,Bachelor,Parental,1
+54,Male,Employed,Farmer,4901.88,498.63,13718.5,240,493,Married,0,High School,Parental,1
+55,Female,Employed,Other,3815.34,517.39,57261.75,36,623,Married,1,Bachelor,Mortgaged,0
+69,Male,Employed,Teacher,3804.81,116.39,15486.5,240,716,Married,0,Master,Owned,1
+45,Female,Unemployed,Doctor,841.22,18.44,185252.55,180,700,Divorced,4,Master,Parental,0
+44,Male,Employed,Manager,5944.51,824.36,134035.53,120,676,Married,4,Master,Owned,1
+32,Female,Employed,Accountant,5095.39,461.03,177891.42,180,646,Married,1,High School,Owned,1
+38,Female,Self-Employed,Engineer,4142.07,761.48,144871.68,84,553,Married,0,Bachelor,Owned,1
+35,Male,Employed,Farmer,4252.26,54.86,30600.94,36,757,Single,4,High School,Rented,1
+64,Female,Self-Employed,Other,3351.72,122.44,188413.4,120,564,Single,4,Diploma,Rented,1
+36,Female,Student,Other,500.0,129.78,180479.15,48,663,Divorced,1,PhD,Rented,0
+47,Female,Retired,Doctor,2222.1,377.52,72874.84,60,597,Married,3,Bachelor,Owned,1
+28,Male,Employed,Other,5892.01,1258.63,26749.0,180,759,Married,0,Master,Rented,1
+66,Male,Employed,Clerk,6059.61,1530.61,142310.18,120,726,Single,4,High School,Rented,1
+45,Male,Employed,Sales,3086.19,429.44,147030.45,120,651,Married,2,Bachelor,Mortgaged,1
+37,Male,Employed,Clerk,3655.34,834.58,179881.66,180,735,Widowed,1,Bachelor,Owned,1
+49,Female,Employed,Other,3934.4,619.18,15267.87,36,560,Single,3,High School,Owned,1
+28,Male,Employed,Farmer,4903.94,327.7,32632.25,36,673,Single,3,Bachelor,Owned,1
+35,Female,Retired,Manager,500.0,50.65,121658.51,24,595,Married,1,High School,Rented,0
+47,Male,Student,Accountant,500.0,73.55,125730.65,12,762,Married,3,Bachelor,Rented,0
+66,Female,Employed,Engineer,2921.63,277.75,11553.88,84,709,Single,4,Other,Rented,1
+27,Female,Employed,Manager,5600.72,563.76,82401.75,84,731,Divorced,3,Master,Rented,1
+23,Female,Employed,Teacher,4955.49,501.58,118911.54,180,635,Widowed,0,Other,Rented,1
+49,Male,Employed,Manager,4306.18,158.69,148892.71,84,739,Married,2,Master,Rented,1
+64,Male,Self-Employed,Manager,2405.08,61.07,66649.38,84,590,Married,4,Master,Parental,1
+44,Male,Self-Employed,Accountant,3329.36,46.44,99361.18,12,602,Divorced,1,Bachelor,Owned,0
+23,Male,Student,Doctor,500.0,16.64,163740.7,120,665,Married,2,Bachelor,Mortgaged,0
+40,Male,Self-Employed,Other,6452.0,665.28,191009.54,120,605,Single,4,Bachelor,Mortgaged,1
+66,Male,Employed,Doctor,6495.53,1157.25,49911.36,240,736,Single,2,Master,Owned,1
+35,Male,Self-Employed,Teacher,2963.94,167.3,54343.23,120,642,Single,3,Diploma,Parental,1
+45,Female,Employed,Engineer,5247.79,1398.03,188264.55,180,593,Single,1,High School,Mortgaged,1
+50,Male,Self-Employed,Clerk,5416.31,1313.54,82202.67,48,583,Single,1,PhD,Rented,1
+34,Male,Employed,Engineer,3963.48,618.93,145077.92,240,735,Married,0,High School,Rented,1
+27,Male,Employed,Other,2874.33,624.49,124391.72,12,476,Single,3,Other,Rented,0
+37,Female,Employed,Engineer,2304.71,253.28,60689.6,180,599,Single,0,Master,Owned,1
+64,Female,Employed,Sales,6908.4,76.22,132444.63,36,792,Married,0,Bachelor,Owned,1
+40,Female,Student,Clerk,713.41,193.55,132835.35,12,652,Single,3,Bachelor,Mortgaged,0
+56,Female,Employed,Teacher,5436.99,208.44,120526.42,24,737,Married,4,Master,Mortgaged,1
+29,Male,Employed,Other,4138.64,1176.95,24433.86,84,714,Single,0,Diploma,Owned,1
+58,Female,Employed,Farmer,3098.15,531.53,199058.51,60,664,Married,2,Master,Mortgaged,0
+68,Male,Self-Employed,Teacher,2378.05,217.99,83081.21,36,547,Widowed,4,Master,Mortgaged,0
+42,Male,Employed,Sales,2988.45,444.25,129458.94,240,573,Married,3,Diploma,Owned,1
+22,Female,Retired,Clerk,4274.99,643.34,177723.53,180,572,Married,1,High School,Rented,1
+44,Female,Student,Accountant,3238.84,22.63,87541.26,36,718,Divorced,4,Diploma,Rented,0
+28,Male,Self-Employed,Sales,4055.87,432.51,155915.39,24,733,Single,0,Diploma,Mortgaged,0
+31,Female,Self-Employed,Teacher,1723.3,382.5,194505.76,180,609,Widowed,2,High School,Mortgaged,0
+33,Female,Employed,Other,5744.88,879.09,74992.28,60,673,Married,3,Master,Owned,1
+37,Male,Employed,Other,6897.48,505.37,84027.57,240,680,Married,1,Bachelor,Rented,1
+28,Male,Unemployed,Clerk,1957.5,196.79,181587.33,12,686,Married,2,Master,Mortgaged,0
+41,Male,Employed,Doctor,4956.3,1283.27,36130.36,36,619,Married,1,Bachelor,Mortgaged,1
+38,Male,Employed,Clerk,4648.28,732.87,10575.99,60,811,Married,3,Bachelor,Owned,1
+50,Male,Self-Employed,Clerk,3944.25,625.19,182233.36,24,734,Married,4,Bachelor,Rented,1
+38,Male,Employed,Sales,6837.87,1972.32,165210.36,36,685,Married,0,Master,Mortgaged,1
+66,Male,Retired,Other,4140.55,398.59,194653.69,48,638,Single,3,Bachelor,Rented,0
+67,Female,Employed,Teacher,4421.36,636.07,16356.37,48,613,Married,2,Bachelor,Rented,1
+51,Female,Unemployed,Accountant,500.0,121.76,35454.58,240,711,Married,4,Master,Mortgaged,0
+58,Other,Employed,Engineer,4277.46,973.86,25535.95,12,642,Single,1,Bachelor,Owned,1
+52,Male,Unemployed,Manager,500.0,39.87,138266.15,240,690,Single,4,High School,Mortgaged,0
+31,Female,Employed,Accountant,7027.76,318.55,123171.96,240,528,Single,4,Bachelor,Rented,1
+65,Female,Employed,Engineer,3818.26,802.64,75070.36,84,637,Married,2,Master,Owned,1
+45,Female,Student,Doctor,1735.41,134.14,16197.58,12,671,Married,0,High School,Owned,0
+53,Male,Employed,Teacher,4007.86,1109.39,129734.09,84,757,Single,4,Bachelor,Owned,1
+58,Female,Employed,Other,4284.16,166.12,116173.49,180,606,Divorced,4,Bachelor,Owned,1
+61,Male,Employed,Farmer,4829.18,461.16,27016.13,60,561,Married,0,PhD,Rented,1
+28,Male,Self-Employed,Clerk,4817.86,79.19,182237.39,60,715,Married,0,Bachelor,Owned,1
+31,Female,Employed,Accountant,4611.16,972.92,43795.19,12,674,Single,1,Bachelor,Parental,1
+42,Female,Retired,Engineer,1291.19,345.24,149984.28,12,542,Married,1,Bachelor,Rented,0
+44,Male,Employed,Farmer,5028.62,959.27,177589.79,180,546,Married,0,Bachelor,Rented,1
+61,Female,Employed,Accountant,3849.99,1083.1,117997.62,60,628,Widowed,3,Master,Rented,1
+37,Female,Unemployed,Teacher,2815.76,108.55,53135.54,180,673,Married,0,Bachelor,Rented,0
+32,Male,Self-Employed,Other,3610.08,95.02,65303.46,24,791,Married,1,Master,Rented,1
+66,Female,Student,Accountant,500.0,125.76,177720.77,48,593,Divorced,2,Master,Owned,0
+52,Male,Retired,Accountant,5962.2,1530.22,63160.15,240,723,Single,2,PhD,Mortgaged,1
+35,Other,Employed,Other,6108.33,1522.88,150507.14,36,523,Single,4,Bachelor,Rented,0
+36,Male,Employed,Doctor,3654.84,876.03,198082.22,84,708,Married,2,Other,Owned,0
+42,Male,Employed,Sales,3813.63,414.42,199964.26,120,800,Single,1,Diploma,Rented,1
+48,Female,Self-Employed,Accountant,4711.27,307.36,109028.55,36,691,Single,2,Master,Rented,1
+40,Female,Student,Other,1065.21,296.81,166178.38,12,626,Married,3,Bachelor,Owned,0
+53,Female,Employed,Sales,6335.26,583.48,198098.72,24,778,Single,0,Master,Mortgaged,0
+30,Female,Employed,Other,4005.99,478.8,78061.21,120,707,Married,0,Bachelor,Rented,1
+60,Female,Employed,Other,6051.66,1270.05,54219.87,120,692,Divorced,1,Master,Rented,1
+52,Female,Unemployed,Doctor,500.0,44.0,27275.5,12,598,Single,4,PhD,Rented,0
+53,Female,Employed,Other,4768.34,1171.77,32475.43,120,709,Single,0,Master,Parental,1
+22,Female,Employed,Teacher,4074.23,85.6,171443.49,84,625,Single,2,Master,Owned,1
+53,Male,Employed,Accountant,4317.43,1024.76,119801.0,84,704,Single,3,High School,Rented,1
+53,Female,Unemployed,Engineer,500.0,90.28,175373.29,120,683,Single,4,Diploma,Rented,0
+61,Male,Self-Employed,Engineer,5707.76,981.15,158943.74,120,766,Single,4,Other,Mortgaged,1
+33,Female,Self-Employed,Engineer,2268.94,312.01,136380.2,12,633,Married,4,Bachelor,Owned,0
+50,Female,Employed,Other,1717.94,142.78,123815.88,60,668,Single,0,Bachelor,Owned,1
+53,Female,Employed,Farmer,3442.92,479.33,14426.09,180,743,Married,4,Bachelor,Mortgaged,1
+33,Female,Self-Employed,Sales,5533.65,747.09,175093.66,180,661,Divorced,1,High School,Rented,1
+46,Female,Retired,Sales,532.51,93.26,86479.2,36,678,Married,2,Bachelor,Rented,0
+42,Male,Employed,Other,4142.08,349.89,114158.44,36,647,Married,3,Bachelor,Rented,1
+59,Female,Employed,Teacher,6259.37,145.71,9280.93,120,666,Single,2,Diploma,Mortgaged,1
+22,Male,Employed,Teacher,4912.36,213.82,187534.33,48,733,Married,1,Diploma,Owned,0
+58,Male,Employed,Clerk,6693.06,1403.89,181034.39,84,826,Married,1,Bachelor,Owned,1
+59,Male,Unemployed,Other,500.0,3.37,110939.22,240,545,Single,2,Bachelor,Parental,0
+46,Female,Employed,Manager,4517.59,1160.72,117575.77,24,578,Married,0,Diploma,Rented,0
+66,Male,Employed,Doctor,7005.77,1459.44,142478.36,24,668,Single,1,Bachelor,Rented,1
+35,Female,Employed,Engineer,3309.68,762.64,56615.5,84,683,Single,4,PhD,Mortgaged,1
+54,Male,Employed,Doctor,6552.21,1643.26,48273.55,36,662,Divorced,3,Bachelor,Rented,1
+62,Male,Employed,Engineer,4646.46,171.05,136434.47,12,635,Divorced,3,Master,Owned,0
+64,Male,Employed,Other,5651.19,1394.35,25362.38,24,581,Single,1,PhD,Owned,1
+69,Male,Employed,Farmer,6896.99,1044.15,93542.09,120,631,Married,4,High School,Rented,1
+60,Female,Self-Employed,Clerk,4644.75,1233.91,101088.28,48,745,Married,2,High School,Mortgaged,1
+31,Male,Employed,Teacher,4113.13,1093.99,79360.71,24,687,Married,3,Bachelor,Owned,0
+23,Male,Employed,Farmer,5843.09,42.38,41127.29,180,734,Single,4,Bachelor,Owned,1
+26,Male,Retired,Doctor,2007.3,230.56,74286.67,48,583,Married,4,Bachelor,Mortgaged,0
+29,Male,Self-Employed,Doctor,4410.05,696.43,70823.66,48,795,Widowed,0,Bachelor,Owned,1
+26,Male,Unemployed,Teacher,500.0,101.75,102356.81,24,635,Single,1,Bachelor,Rented,0
+29,Male,Employed,Clerk,5043.64,433.03,136562.76,12,718,Divorced,4,High School,Owned,0
+59,Female,Employed,Engineer,6783.94,513.16,193805.85,12,669,Widowed,2,Other,Rented,0
+51,Female,Employed,Farmer,4551.85,520.64,33111.84,36,636,Single,3,Diploma,Rented,1
+52,Female,Employed,Clerk,6640.54,997.95,175238.34,84,714,Married,0,PhD,Owned,1
+61,Other,Employed,Accountant,9640.14,2750.76,60414.71,120,728,Single,2,High School,Rented,1
+32,Male,Retired,Sales,2956.58,675.97,120317.69,240,895,Married,3,Diploma,Rented,1
+28,Male,Employed,Engineer,5921.29,762.64,111613.7,60,731,Married,1,Diploma,Rented,1
+28,Other,Employed,Accountant,5715.29,93.22,113604.94,240,729,Single,2,Other,Rented,1
+48,Male,Self-Employed,Engineer,4337.66,219.3,146054.93,180,771,Married,3,High School,Rented,1
+40,Female,Employed,Engineer,6181.84,845.54,79429.22,12,722,Married,0,Bachelor,Rented,0
+67,Male,Self-Employed,Engineer,3627.86,885.73,67224.49,36,676,Married,3,Master,Rented,1
+27,Male,Self-Employed,Clerk,3006.18,343.33,171302.74,180,706,Single,4,Bachelor,Rented,1
+31,Male,Unemployed,Clerk,500.0,80.77,47918.53,240,748,Single,0,Bachelor,Rented,1
+40,Female,Retired,Accountant,2485.86,665.07,40147.98,48,791,Married,2,Other,Rented,0
+36,Female,Employed,Doctor,6352.15,1741.37,8043.45,84,559,Widowed,1,Master,Owned,1
+24,Female,Employed,Teacher,3590.3,232.41,46062.67,48,528,Married,0,Bachelor,Owned,1
+26,Male,Student,Farmer,1370.02,17.92,106113.63,240,787,Married,0,Bachelor,Owned,1
+42,Male,Unemployed,Farmer,500.0,45.81,110009.23,24,616,Married,0,Other,Parental,0
+46,Male,Employed,Manager,4068.92,849.35,54612.0,84,547,Single,3,Other,Mortgaged,1
+23,Male,Retired,Other,500.0,142.67,19093.46,36,539,Single,4,Bachelor,Rented,0
+61,Female,Employed,Other,7044.28,162.79,150204.96,48,824,Married,1,Master,Owned,1
+62,Male,Retired,Accountant,3775.79,32.26,152805.19,24,750,Married,1,Bachelor,Owned,0
+34,Female,Employed,Engineer,8997.93,2386.65,199578.1,180,616,Married,4,Bachelor,Mortgaged,1
+31,Female,Employed,Engineer,6619.12,1485.62,180505.77,180,619,Widowed,3,Diploma,Mortgaged,1
+38,Male,Student,Sales,3010.82,896.24,185582.1,12,684,Married,3,Diploma,Owned,0
+32,Female,Employed,Doctor,2375.97,282.83,160649.75,84,748,Married,4,Bachelor,Mortgaged,1
+43,Male,Employed,Manager,2349.75,293.28,125023.06,12,656,Single,4,Bachelor,Rented,0
+32,Male,Employed,Clerk,5063.47,261.75,30066.46,84,617,Widowed,2,Diploma,Rented,1
+33,Male,Retired,Engineer,1277.83,44.41,126351.09,120,770,Married,3,Bachelor,Mortgaged,0
