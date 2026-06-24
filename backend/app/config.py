@@ -13,7 +13,11 @@ class Settings(BaseSettings):
 
     DATABASE_URL: str = "sqlite+aiosqlite:///./banking.db"
 
-    ALLOWED_ORIGINS: List[str] = ["http://localhost:5173", "http://localhost:3000"]
+    ALLOWED_ORIGINS: List[str] = [
+    "http://localhost:5173",
+    "http://localhost:3000",
+    "https://banking-ai-teal.vercel.app",
+      ]
 
     LLM_PROVIDER: str = "mock"
     OPENAI_API_KEY: str = ""
